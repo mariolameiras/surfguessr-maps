@@ -35,5 +35,7 @@
             "imageUrl": "https://github.com/mariolameiras/SurfGuessr/blob/master/src/assets/geoguessLogo.png?raw=true",
             "url": "https://raw.githubusercontent.com/mariolameiras/surfguessr-maps/main/maps/world.geojson",
             "id": "surf.pt"
-        }     ]
+        }
+    ],
+    "areas": []
 }
