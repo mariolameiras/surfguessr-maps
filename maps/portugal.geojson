@@ -1,0 +1,2891 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.059,
+          38.677
+        ]
+      },
+      "properties": {
+        "title": "Pescador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.624,
+          37.75
+        ]
+      },
+      "properties": {
+        "title": "Populo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.04801,
+          39.72622968108001
+        ]
+      },
+      "properties": {
+        "title": "Pedra do Ouro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.48151,
+          38.815479
+        ]
+      },
+      "properties": {
+        "title": "Praia Grande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.662,
+          41.1033
+        ]
+      },
+      "properties": {
+        "title": "Praia da Madalena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.964,
+          38.645
+        ]
+      },
+      "properties": {
+        "title": "Faja dos Cubres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.724,
+          41.2354
+        ]
+      },
+      "properties": {
+        "title": "Praia do Marreco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.062,
+          38.676
+        ]
+      },
+      "properties": {
+        "title": "Sao Fernando"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7562,
+          41.3512
+        ]
+      },
+      "properties": {
+        "title": "Vila do Conde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7958,
+          37.7212
+        ]
+      },
+      "properties": {
+        "title": "Cogumelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.485,
+          38.8036
+        ]
+      },
+      "properties": {
+        "title": "Praia da Adraga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.058,
+          38.676
+        ]
+      },
+      "properties": {
+        "title": "Ponta Negra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4284,
+          39.001
+        ]
+      },
+      "properties": {
+        "title": "Coxos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.29619,
+          38.689118
+        ]
+      },
+      "properties": {
+        "title": "Paco de Arcos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4221,
+          38.9323
+        ]
+      },
+      "properties": {
+        "title": "São Julião"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3605,
+          39.327822
+        ]
+      },
+      "properties": {
+        "title": "Consolacao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7443,
+          37.0431
+        ]
+      },
+      "properties": {
+        "title": "Fuzeta Beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6689,
+          41.1294
+        ]
+      },
+      "properties": {
+        "title": "Praia de Lavadores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25362,
+          37.085753
+        ]
+      },
+      "properties": {
+        "title": "Praia do Túnel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3894,
+          39.1267
+        ]
+      },
+      "properties": {
+        "title": "Praia da Amoreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.31098,
+          38.683313
+        ]
+      },
+      "properties": {
+        "title": "Santo Amaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4756,
+          38.821
+        ]
+      },
+      "properties": {
+        "title": "Praia do Rodízio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.80817,
+          37.92593668072974
+        ]
+      },
+      "properties": {
+        "title": "Sao Torpes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.729,
+          41.2769
+        ]
+      },
+      "properties": {
+        "title": "Praia de Labruge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6596,
+          41.0683
+        ]
+      },
+      "properties": {
+        "title": "Miramar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6507,
+          40.9771
+        ]
+      },
+      "properties": {
+        "title": "Praia de Paramos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8812,
+          40.162
+        ]
+      },
+      "properties": {
+        "title": "Buarcos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9265,
+          37.0186
+        ]
+      },
+      "properties": {
+        "title": "Praia do Martinhal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.19328,
+          38.46404
+        ]
+      },
+      "properties": {
+        "title": "Bicas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.90852,
+          37.202412
+        ]
+      },
+      "properties": {
+        "title": "Carrapateira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.78959,
+          41.432386
+        ]
+      },
+      "properties": {
+        "title": "Agucadoura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.242745,
+          38.64035
+        ]
+      },
+      "properties": {
+        "title": "Castelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.78031,
+          38.29512369
+        ]
+      },
+      "properties": {
+        "title": "Praia do Pego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6793,
+          40.8725
+        ]
+      },
+      "properties": {
+        "title": "Furadouro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.826,
+          37.893
+        ]
+      },
+      "properties": {
+        "title": "Mosteiros Left"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.587,
+          37.815
+        ]
+      },
+      "properties": {
+        "title": "Rabo de Peixe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3603,
+          39.1706
+        ]
+      },
+      "properties": {
+        "title": "Praia de Santa Rita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.66045,
+          40.966267
+        ]
+      },
+      "properties": {
+        "title": "Esmoriz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.873,
+          37.0452
+        ]
+      },
+      "properties": {
+        "title": "Zavial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2299,
+          38.6294
+        ]
+      },
+      "properties": {
+        "title": "Praia da Saude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.36331,
+          39.34167968424256
+        ]
+      },
+      "properties": {
+        "title": "Supertubos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3856,
+          39.1317
+        ]
+      },
+      "properties": {
+        "title": "Praia Formosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4216,
+          37.0874
+        ]
+      },
+      "properties": {
+        "title": "Praia da Corredoura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.74956,
+          40.6701658
+        ]
+      },
+      "properties": {
+        "title": "São Jacinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8732,
+          37.974892
+        ]
+      },
+      "properties": {
+        "title": "Sines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.256458,
+          38.6645
+        ]
+      },
+      "properties": {
+        "title": "Cova Do Vapor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9644,
+          37.0689
+        ]
+      },
+      "properties": {
+        "title": "Praia da Ponta Ruiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9466,
+          37.1006
+        ]
+      },
+      "properties": {
+        "title": "Praia Castelejo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7754,
+          37.0716
+        ]
+      },
+      "properties": {
+        "title": "Praia do Burgau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2467,
+          38.648843
+        ]
+      },
+      "properties": {
+        "title": "Marcelino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.79635,
+          41.5171971
+        ]
+      },
+      "properties": {
+        "title": "Ofir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.83,
+          41.665
+        ]
+      },
+      "properties": {
+        "title": "Viana do Castelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71171,
+          41.189834
+        ]
+      },
+      "properties": {
+        "title": "Leca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.80467,
+          37.442967
+        ]
+      },
+      "properties": {
+        "title": "Odeceixe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.444,
+          37.709
+        ]
+      },
+      "properties": {
+        "title": "Vila Franca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7866,
+          37.5303
+        ]
+      },
+      "properties": {
+        "title": "Praia de Nossa Senhora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.69645,
+          41.172231
+        ]
+      },
+      "properties": {
+        "title": "Matosinhos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64351,
+          37.110524
+        ]
+      },
+      "properties": {
+        "title": "Meia Praia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8683,
+          41.8499
+        ]
+      },
+      "properties": {
+        "title": "Moledo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.471,
+          37.831
+        ]
+      },
+      "properties": {
+        "title": "Santa Iria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8244,
+          37.0652
+        ]
+      },
+      "properties": {
+        "title": "Praia de Salema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.871,
+          37.2485
+        ]
+      },
+      "properties": {
+        "title": "Vale Figueiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33134,
+          39.374914274508626
+        ]
+      },
+      "properties": {
+        "title": "Lagide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76319,
+          40.635199
+        ]
+      },
+      "properties": {
+        "title": "Praia da Barra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.24246,
+          38.644758
+        ]
+      },
+      "properties": {
+        "title": "Praia do Barbas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0516,
+          39.7024
+        ]
+      },
+      "properties": {
+        "title": "Praia das Paredes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.25081,
+          38.65639486697865
+        ]
+      },
+      "properties": {
+        "title": "São Joao da Caparica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87188,
+          37.293774
+        ]
+      },
+      "properties": {
+        "title": "Arrifana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7694,
+          40.5651
+        ]
+      },
+      "properties": {
+        "title": "Praia da Vagueira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1848,
+          38.5089
+        ]
+      },
+      "properties": {
+        "title": "Lagoa de Albufeira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4731,
+          38.7428
+        ]
+      },
+      "properties": {
+        "title": "Praia do Abano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8948,
+          37.0422
+        ]
+      },
+      "properties": {
+        "title": "Praia do Barranco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.308,
+          37.727
+        ]
+      },
+      "properties": {
+        "title": "Ribeira Quente Left"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2614,
+          37.0819
+        ]
+      },
+      "properties": {
+        "title": "Praia da Baleeira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3564,
+          39.1785
+        ]
+      },
+      "properties": {
+        "title": "Praia do Porto Novo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8019,
+          37.6522
+        ]
+      },
+      "properties": {
+        "title": "Praia de Almograve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33235,
+          39.37397686060677
+        ]
+      },
+      "properties": {
+        "title": "Baleal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3228,
+          38.6757
+        ]
+      },
+      "properties": {
+        "title": "Praia de Torre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.90375,
+          37.16575436072872
+        ]
+      },
+      "properties": {
+        "title": "Praia do Amado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.93875,
+          37.0035
+        ]
+      },
+      "properties": {
+        "title": "Mareta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9292,
+          37.1224
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Mouranitos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.186,
+          38.796
+        ]
+      },
+      "properties": {
+        "title": "Quatro Ribeiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4925,
+          38.7902
+        ]
+      },
+      "properties": {
+        "title": "Praia da Ursa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.75431,
+          40.61773040486128
+        ]
+      },
+      "properties": {
+        "title": "Costa Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4769,
+          38.7261
+        ]
+      },
+      "properties": {
+        "title": "Praia da Crismina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.127546,
+          37.07095
+        ]
+      },
+      "properties": {
+        "title": "Falesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.47499,
+          38.819701
+        ]
+      },
+      "properties": {
+        "title": "Praia Pequena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.683,
+          37.732
+        ]
+      },
+      "properties": {
+        "title": "Santa Clara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.424,
+          38.988
+        ]
+      },
+      "properties": {
+        "title": "Ribeira D'Ilhas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8077,
+          40.456166
+        ]
+      },
+      "properties": {
+        "title": "Praia de Mira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8925,
+          40.0567
+        ]
+      },
+      "properties": {
+        "title": "Leirosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.80623,
+          37.786679
+        ]
+      },
+      "properties": {
+        "title": "Malhao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.424,
+          39.0132
+        ]
+      },
+      "properties": {
+        "title": "Sao Lourenco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7943,
+          37.8571
+        ]
+      },
+      "properties": {
+        "title": "Porto Covo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8268,
+          37.3858
+        ]
+      },
+      "properties": {
+        "title": "Carriagem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2943,
+          37.0734
+        ]
+      },
+      "properties": {
+        "title": "Praia da Coelha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.41576,
+          38.958659
+        ]
+      },
+      "properties": {
+        "title": "Praia do Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9093,
+          37.155
+        ]
+      },
+      "properties": {
+        "title": "Praia da Murração"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8465,
+          38.0081
+        ]
+      },
+      "properties": {
+        "title": "Praia do Areão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.77871,
+          41.4825317
+        ]
+      },
+      "properties": {
+        "title": "Apulia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65058,
+          41.005886
+        ]
+      },
+      "properties": {
+        "title": "Espinho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.412,
+          37.0897
+        ]
+      },
+      "properties": {
+        "title": "Praia da Marinha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14408,
+          39.504082393067776
+        ]
+      },
+      "properties": {
+        "title": "São Martinho do Porto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7944,
+          41.5466
+        ]
+      },
+      "properties": {
+        "title": "Sauve Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7176,
+          41.2204
+        ]
+      },
+      "properties": {
+        "title": "Perafita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33685,
+          38.67869246746279
+        ]
+      },
+      "properties": {
+        "title": "Carcavelos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.528,
+          37.827
+        ]
+      },
+      "properties": {
+        "title": "Monte Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8446,
+          40.3299
+        ]
+      },
+      "properties": {
+        "title": "Praia da Tocha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.42398,
+          38.980274
+        ]
+      },
+      "properties": {
+        "title": "Pedra Branca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.933,
+          38.629
+        ]
+      },
+      "properties": {
+        "title": "Direita do Passe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72712,
+          37.084833
+        ]
+      },
+      "properties": {
+        "title": "Praia Da Luz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.059,
+          38.719
+        ]
+      },
+      "properties": {
+        "title": "Praia da Vitoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.367,
+          38.774
+        ]
+      },
+      "properties": {
+        "title": "Ponta do Queimado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.825,
+          37.895
+        ]
+      },
+      "properties": {
+        "title": "Mosteiros Right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7412,
+          41.3339
+        ]
+      },
+      "properties": {
+        "title": "Azurara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.098,
+          38.646
+        ]
+      },
+      "properties": {
+        "title": "Salga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3455,
+          39.3052
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Frades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9186,
+          37.1361
+        ]
+      },
+      "properties": {
+        "title": "Praia do Mirouço"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.79858,
+          37.89389752371955
+        ]
+      },
+      "properties": {
+        "title": "Praia da Vieirinha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.227517441803002,
+          38.62753236844342
+        ]
+      },
+      "properties": {
+        "title": "Praia da Cornelia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3697,
+          38.6935
+        ]
+      },
+      "properties": {
+        "title": "São Pedro do Estoril"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9646,
+          37.0249
+        ]
+      },
+      "properties": {
+        "title": "Beliche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.565,
+          37.742
+        ]
+      },
+      "properties": {
+        "title": "Santa Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2149,
+          38.6092
+        ]
+      },
+      "properties": {
+        "title": "Praia do Pescador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2192,
+          38.616
+        ]
+      },
+      "properties": {
+        "title": "Praia da Rainha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87764,
+          40.14753312174811
+        ]
+      },
+      "properties": {
+        "title": "Figueira da Foz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.42045,
+          38.975495
+        ]
+      },
+      "properties": {
+        "title": "Matadouro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3479,
+          37.096892
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Salgados"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.394559,
+          38.699432
+        ]
+      },
+      "properties": {
+        "title": "Estoril"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.26777,
+          39.40597094258713
+        ]
+      },
+      "properties": {
+        "title": "Belgas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.426644783081088,
+          38.99644075470778
+        ]
+      },
+      "properties": {
+        "title": "Cave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2796,
+          38.6985
+        ]
+      },
+      "properties": {
+        "title": "Praia de Caxias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.45003,
+          38.86386
+        ]
+      },
+      "properties": {
+        "title": "Praia do Magoito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4724,
+          37.0959
+        ]
+      },
+      "properties": {
+        "title": "Praia do Carvoeiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.337,
+          39.2654
+        ]
+      },
+      "properties": {
+        "title": "Praia Da Areia Branca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.665,
+          40.94
+        ]
+      },
+      "properties": {
+        "title": "Cortegaca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.95264,
+          37.006831
+        ]
+      },
+      "properties": {
+        "title": "Tonel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.42,
+          38.945
+        ]
+      },
+      "properties": {
+        "title": "Foz de Lizandro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.24275,
+          38.64036
+        ]
+      },
+      "properties": {
+        "title": "Costa da Caparica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.943,
+          38.633
+        ]
+      },
+      "properties": {
+        "title": "Faja do Belo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.472,
+          38.8268
+        ]
+      },
+      "properties": {
+        "title": "Praia das Maçás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.38344,
+          39.143178
+        ]
+      },
+      "properties": {
+        "title": "Santa Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7902,
+          41.5201
+        ]
+      },
+      "properties": {
+        "title": "Fão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6793,
+          41.1521
+        ]
+      },
+      "properties": {
+        "title": "Luz (Porto)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3125,
+          38.6838
+        ]
+      },
+      "properties": {
+        "title": "Praia da Laje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.825,
+          37.895
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Mosteiros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7962,
+          37.8775
+        ]
+      },
+      "properties": {
+        "title": "Praia do Burrinho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33948,
+          39.37114062429105
+        ]
+      },
+      "properties": {
+        "title": "Cantinho da Baia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9935,
+          37.0051
+        ]
+      },
+      "properties": {
+        "title": "Praia de Faro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.078,
+          38.645
+        ]
+      },
+      "properties": {
+        "title": "Contendas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7881,
+          41.5006
+        ]
+      },
+      "properties": {
+        "title": "Praia Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6001,
+          37.1227
+        ]
+      },
+      "properties": {
+        "title": "Praia de Alvor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2148,
+          38.4236
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Lagosteiros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.435,
+          38.8969
+        ]
+      },
+      "properties": {
+        "title": "Praia da Samarra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3151,
+          39.3793198140235
+        ]
+      },
+      "properties": {
+        "title": "Almagreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.926,
+          38.627
+        ]
+      },
+      "properties": {
+        "title": "Esquerda da Igreja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4555,
+          38.8519
+        ]
+      },
+      "properties": {
+        "title": "Praia da Aguda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87886,
+          41.779268
+        ]
+      },
+      "properties": {
+        "title": "Afife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2239,
+          37.08542
+        ]
+      },
+      "properties": {
+        "title": "Praia da Oura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.862803,
+          36.972289
+        ]
+      },
+      "properties": {
+        "title": "Ilha do Farol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7862,
+          37.7162
+        ]
+      },
+      "properties": {
+        "title": "Praia das Furnas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.474,
+          37.715
+        ]
+      },
+      "properties": {
+        "title": "Agua de Alto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7902,
+          37.5238
+        ]
+      },
+      "properties": {
+        "title": "Zambujeria do Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.034,
+          39.7571
+        ]
+      },
+      "properties": {
+        "title": "São Pedro do Moel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.35436,
+          38.685308
+        ]
+      },
+      "properties": {
+        "title": "Parede"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.964,
+          38.593
+        ]
+      },
+      "properties": {
+        "title": "Faja Dos Vimes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.924,
+          38.625
+        ]
+      },
+      "properties": {
+        "title": "Lago do Linho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8687,
+          41.8071
+        ]
+      },
+      "properties": {
+        "title": "Vila Praia de Âncora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4098,
+          38.7016
+        ]
+      },
+      "properties": {
+        "title": "Praia das Moitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2522,
+          38.6995
+        ]
+      },
+      "properties": {
+        "title": "Praia da Cruz Quebrada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7177,
+          40.757
+        ]
+      },
+      "properties": {
+        "title": "Torreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.98487,
+          38.469197
+        ]
+      },
+      "properties": {
+        "title": "Portinho da Arrabida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.343,
+          37.723
+        ]
+      },
+      "properties": {
+        "title": "Ponta Garca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.08559,
+          39.604828505731106
+        ]
+      },
+      "properties": {
+        "title": "Nazare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2138,
+          38.6057
+        ]
+      },
+      "properties": {
+        "title": "Praia do Rei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2329,
+          39.4354
+        ]
+      },
+      "properties": {
+        "title": "Foz do Arelho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0227,
+          39.7774
+        ]
+      },
+      "properties": {
+        "title": "Praia Velha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4119,
+          39.0933
+        ]
+      },
+      "properties": {
+        "title": "Praia Porto Chão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3692,
+          39.3502
+        ]
+      },
+      "properties": {
+        "title": "Molhe Leste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.74003,
+          41.3116168
+        ]
+      },
+      "properties": {
+        "title": "Mindelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4175,
+          38.9551
+        ]
+      },
+      "properties": {
+        "title": "Praia da Baleia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.303,
+          37.731
+        ]
+      },
+      "properties": {
+        "title": "Ribeira Quente Right"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8497,
+          37.3533
+        ]
+      },
+      "properties": {
+        "title": "Amoreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0969,
+          38.4413
+        ]
+      },
+      "properties": {
+        "title": "Sesimbra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.53729,
+          37.110821
+        ]
+      },
+      "properties": {
+        "title": "Praia da Rocha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.85391,
+          37.34297
+        ]
+      },
+      "properties": {
+        "title": "Monte Clérigo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.927,
+          38.63
+        ]
+      },
+      "properties": {
+        "title": "Feiticeiras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4585,
+          38.847
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Moleiros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.55,
+          37.821
+        ]
+      },
+      "properties": {
+        "title": "Praia de Santa Barbara(Areias)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9787,
+          37.0455
+        ]
+      },
+      "properties": {
+        "title": "Praia do Telheiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.272,
+          38.653
+        ]
+      },
+      "properties": {
+        "title": "Terreiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.39966,
+          39.111964
+        ]
+      },
+      "properties": {
+        "title": "Praia Azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.428,
+          38.9172
+        ]
+      },
+      "properties": {
+        "title": "Praia da Vigia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.35485,
+          39.3618986620786
+        ]
+      },
+      "properties": {
+        "title": "Meio da Baia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7882,
+          37.5184
+        ]
+      },
+      "properties": {
+        "title": "Praia dos Alteirinhos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.044,
+          38.708
+        ]
+      },
+      "properties": {
+        "title": "Santa Catarina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.47434,
+          38.733921911001225
+        ]
+      },
+      "properties": {
+        "title": "Praia Do Guincho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.129,
+          38.792
+        ]
+      },
+      "properties": {
+        "title": "Vila Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.916,
+          37.1472
+        ]
+      },
+      "properties": {
+        "title": "Praia da Pena Furada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.777,
+          41.3847
+        ]
+      },
+      "properties": {
+        "title": "Póvoa do Varzim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.19898,
+          38.57372110885146
+        ]
+      },
+      "properties": {
+        "title": "Fonte da Telha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.425,
+          38.983
+        ]
+      },
+      "properties": {
+        "title": "Reef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3685,
+          39.3634
+        ]
+      },
+      "properties": {
+        "title": "Cerro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9398,
+          37.1102
+        ]
+      },
+      "properties": {
+        "title": "Praia da Cordoama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.32044,
+          37.082982
+        ]
+      },
+      "properties": {
+        "title": "Praia da Galé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87044,
+          40.13063921100635
+        ]
+      },
+      "properties": {
+        "title": "Cabedelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7957,
+          37.6747
+        ]
+      },
+      "properties": {
+        "title": "Praia do Brejo Largo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7591,
+          32.7138
+        ]
+      },
+      "properties": {
+        "title": "Machico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.23055556,
+          32.75611111
+        ]
+      },
+      "properties": {
+        "title": "Paul do Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1487,
+          32.8509
+        ]
+      },
+      "properties": {
+        "title": "Ribeira da Janela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.137,
+          32.7
+        ]
+      },
+      "properties": {
+        "title": "Madalena do Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2113,
+          32.73768
+        ]
+      },
+      "properties": {
+        "title": "Jardim do Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.03917,
+          32.8122085
+        ]
+      },
+      "properties": {
+        "title": "Faja da Areia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2382,
+          32.7656
+        ]
+      },
+      "properties": {
+        "title": "Ponta Paul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.062,
+          32.668
+        ]
+      },
+      "properties": {
+        "title": "Lugar de Baixo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.821,
+          32.769
+        ]
+      },
+      "properties": {
+        "title": "Porto da Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.22032,
+          32.747742
+        ]
+      },
+      "properties": {
+        "title": "Ponta Pequena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2179,
+          32.8546
+        ]
+      },
+      "properties": {
+        "title": "Achadas da Cruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.346,
+          33.047
+        ]
+      },
+      "properties": {
+        "title": "Supertubes (Vila Baleira)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.188,
+          32.87
+        ]
+      },
+      "properties": {
+        "title": "Ponta de Tristao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.991,
+          32.832
+        ]
+      },
+      "properties": {
+        "title": "Ponta Delgada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.26,
+          39.42
+        ]
+      },
+      "properties": {
+        "title": "Fajazinha"
+      }
+    }
+  ]
+}

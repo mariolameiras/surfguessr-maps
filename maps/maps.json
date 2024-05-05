@@ -1,0 +1,39 @@
+{
+    "maps": [
+        {
+            "name": {
+                "de": "Surf Portugal",
+                "fr": "Surf Portugal",
+                "he": "Surf Portugal",
+                "it": "Surf Portugal",
+                "ru": "Surf Portugal",
+                "tr": "Surf Portugal",
+                "en": "Surf Portugal"
+            },
+            "description": {
+                "en": ""
+            },
+            "author": "Mario",
+            "imageUrl": "https://ucarecdn.com/3e5fe93c-4b7d-45b6-a46f-e65e6088f372/",
+            "url": "https://raw.githubusercontent.com/mariolameiras/SurfGuessr/master/public/maps/portugal.geojson",
+            "id": "surf.pt"
+        },
+        {
+            "name": {
+                "de": "Surf World",
+                "fr": "Surf World",
+                "he": "Surf World",
+                "it": "Surf World",
+                "ru": "Surf World",
+                "tr": "Surf World",
+                "en": "Surf World"
+            },
+            "description": {
+                "en": ""
+            },
+            "author": "Mario",
+            "imageUrl": "https://ucarecdn.com/3e5fe93c-4b7d-45b6-a46f-e65e6088f372/",
+            "url": "https://raw.githubusercontent.com/mariolameiras/SurfGuessr/master/public/maps/world.json",
+            "id": "surf.pt"
+        }     ]
+}
