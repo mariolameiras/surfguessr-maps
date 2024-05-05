@@ -32,8 +32,8 @@
                 "en": ""
             },
             "author": "Mario",
-            "imageUrl": "https://ucarecdn.com/3e5fe93c-4b7d-45b6-a46f-e65e6088f372/",
-            "url": "",
+            "imageUrl": "https://github.com/mariolameiras/SurfGuessr/blob/master/src/assets/geoguessLogo.png?raw=true",
+            "url": "https://raw.githubusercontent.com/mariolameiras/surfguessr-maps/main/maps/world.geojson",
             "id": "surf.pt"
         }     ]
 }
