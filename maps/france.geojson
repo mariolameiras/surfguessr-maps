@@ -1,0 +1,3242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7766,
+                    41.9269
+                ]
+            },
+            "properties": {
+                "title": "Plage du Ricanto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.548,
+                    43.496
+                ]
+            },
+            "properties": {
+                "title": "Chambre d'Amour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.327,
+                    46.02
+                ]
+            },
+            "properties": {
+                "title": "Les Boulassiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.35,
+                    47.2697
+                ]
+            },
+            "properties": {
+                "title": "Plage de la Baule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3175,
+                    46.1873
+                ]
+            },
+            "properties": {
+                "title": "La Flotte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.537,
+                    43.212
+                ]
+            },
+            "properties": {
+                "title": "Cassis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.208,
+                    47.796
+                ]
+            },
+            "properties": {
+                "title": "Lesconil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.564,
+                    47.767
+                ]
+            },
+            "properties": {
+                "title": "Le Kerou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6794,
+                    43.3941
+                ]
+            },
+            "properties": {
+                "title": "Ciboure Socoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.25321,
+                    -21.11068076084916
+                ]
+            },
+            "properties": {
+                "title": "St. Gilles-les-Bains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.35416,
+                    48.824229
+                ]
+            },
+            "properties": {
+                "title": "Trestel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8051,
+                    43.0941
+                ]
+            },
+            "properties": {
+                "title": "La Coudouli\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.195,
+                    45.083
+                ]
+            },
+            "properties": {
+                "title": "Carcans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2456,
+                    44.6209
+                ]
+            },
+            "properties": {
+                "title": "La Pointe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.358,
+                    43.722
+                ]
+            },
+            "properties": {
+                "title": "Eze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3685,
+                    46.0394
+                ]
+            },
+            "properties": {
+                "title": "St-Denis "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.435,
+                    43.725
+                ]
+            },
+            "properties": {
+                "title": "Les Casernes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.407,
+                    46.006
+                ]
+            },
+            "properties": {
+                "title": "Les Huttes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.088,
+                    48.694
+                ]
+            },
+            "properties": {
+                "title": "La Mauvaise Greve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.748,
+                    43.132
+                ]
+            },
+            "properties": {
+                "title": "Bandol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0306,
+                    49.917703
+                ]
+            },
+            "properties": {
+                "title": "Pourville-sur-Mer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5485,
+                    43.4953
+                ]
+            },
+            "properties": {
+                "title": "Le VVF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4514,
+                    49.6931
+                ]
+            },
+            "properties": {
+                "title": "Mondr\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.493,
+                    47.724
+                ]
+            },
+            "properties": {
+                "title": "Kaolins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1572,
+                    42.4601
+                ]
+            },
+            "properties": {
+                "title": "Platja de Perafita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.562,
+                    48.203
+                ]
+            },
+            "properties": {
+                "title": "La Palue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.362,
+                    48.109
+                ]
+            },
+            "properties": {
+                "title": "Les Roches Blanches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.62833,
+                    43.41611111
+                ]
+            },
+            "properties": {
+                "title": "Lafitenia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3063,
+                    49.7415
+                ]
+            },
+            "properties": {
+                "title": "Yport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.446,
+                    43.665
+                ]
+            },
+            "properties": {
+                "title": "La Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.344,
+                    44.04
+                ]
+            },
+            "properties": {
+                "title": "Cap de l'Homy-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1338,
+                    45.6593
+                ]
+            },
+            "properties": {
+                "title": "La Grande Cote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3439,
+                    42.7362
+                ]
+            },
+            "properties": {
+                "title": "Farinole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.569,
+                    43.479
+                ]
+            },
+            "properties": {
+                "title": "La Cote des Basques"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2025,
+                    45.00222222
+                ]
+            },
+            "properties": {
+                "title": "Lacanau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.321,
+                    43.67
+                ]
+            },
+            "properties": {
+                "title": "Villefranche Sur Mer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1733,
+                    47.1612
+                ]
+            },
+            "properties": {
+                "title": "Gohaud   "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.52583,
+                    43.5225
+                ]
+            },
+            "properties": {
+                "title": "Les Cavaliers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.238,
+                    45.694
+                ]
+            },
+            "properties": {
+                "title": "Phare de la Coubre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7912,
+                    41.8588
+                ]
+            },
+            "properties": {
+                "title": "Plage d'Agosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.942,
+                    46.687
+                ]
+            },
+            "properties": {
+                "title": "Saint Gilles Croix de Vie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.597,
+                    43.184
+                ]
+            },
+            "properties": {
+                "title": "Gigaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.655,
+                    43.389
+                ]
+            },
+            "properties": {
+                "title": "Sete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5398,
+                    43.5072
+                ]
+            },
+            "properties": {
+                "title": "Les Corsaires  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.38097,
+                    46.7059662
+                ]
+            },
+            "properties": {
+                "title": "Sable Rouis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0903,
+                    49.4964
+                ]
+            },
+            "properties": {
+                "title": "Sainte Adresse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.615,
+                    43.182
+                ]
+            },
+            "properties": {
+                "title": "La Ciotat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.133,
+                    45.517
+                ]
+            },
+            "properties": {
+                "title": "Soulac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.936,
+                    43.528
+                ]
+            },
+            "properties": {
+                "title": "Palavas les Flots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.265,
+                    44.638
+                ]
+            },
+            "properties": {
+                "title": "Cap Ferret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6957,
+                    46.4358
+                ]
+            },
+            "properties": {
+                "title": "Saint-Nicolas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.162,
+                    45.378
+                ]
+            },
+            "properties": {
+                "title": "Montalivet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.973,
+                    43.54
+                ]
+            },
+            "properties": {
+                "title": "Carnon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.311,
+                    44.165
+                ]
+            },
+            "properties": {
+                "title": "Lespecier-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.634,
+                    48.341
+                ]
+            },
+            "properties": {
+                "title": "Dalbos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8719,
+                    49.3684
+                ]
+            },
+            "properties": {
+                "title": "Omaha Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7322,
+                    43.4029
+                ]
+            },
+            "properties": {
+                "title": "Esclamandes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.773,
+                    48.458
+                ]
+            },
+            "properties": {
+                "title": "Le Gouerou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.533,
+                    49.6549
+                ]
+            },
+            "properties": {
+                "title": "Plage de Bretteville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2125,
+                    49.7211
+                ]
+            },
+            "properties": {
+                "title": "Platte Saline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.329,
+                    44.093
+                ]
+            },
+            "properties": {
+                "title": "Contis-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.858,
+                    46.606
+                ]
+            },
+            "properties": {
+                "title": "Les Dunes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.114,
+                    43.096
+                ]
+            },
+            "properties": {
+                "title": "Gruissan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4022,
+                    48.6589
+                ]
+            },
+            "properties": {
+                "title": "Boutrouilles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.176,
+                    45.224
+                ]
+            },
+            "properties": {
+                "title": "Hourtin Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.263,
+                    45.85
+                ]
+            },
+            "properties": {
+                "title": "Grand Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4057,
+                    43.8162
+                ]
+            },
+            "properties": {
+                "title": "Messanges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.455,
+                    48.817
+                ]
+            },
+            "properties": {
+                "title": "Trestraou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.56,
+                    48.252
+                ]
+            },
+            "properties": {
+                "title": "Kerloch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5906,
+                    50.8708
+                ]
+            },
+            "properties": {
+                "title": "Cap Gris-Nez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.515,
+                    47.754
+                ]
+            },
+            "properties": {
+                "title": "Guidel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.266,
+                    45.8714
+                ]
+            },
+            "properties": {
+                "title": "Les Allassins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.041,
+                    43.536
+                ]
+            },
+            "properties": {
+                "title": "Cannes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4515,
+                    42.6584
+                ]
+            },
+            "properties": {
+                "title": "Plage de Furiani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.732,
+                    43.397
+                ]
+            },
+            "properties": {
+                "title": "Galiote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.53461,
+                    46.201938293845195
+                ]
+            },
+            "properties": {
+                "title": "La Pointe du Grignon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7054,
+                    41.9068
+                ]
+            },
+            "properties": {
+                "title": "Route des Sanguinaires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.054,
+                    45.625
+                ]
+            },
+            "properties": {
+                "title": "Pontaillac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.434,
+                    43.7466
+                ]
+            },
+            "properties": {
+                "title": "Plage du Larvotto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118,
+                    43.328
+                ]
+            },
+            "properties": {
+                "title": "La Corniche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.966,
+                    45.561
+                ]
+            },
+            "properties": {
+                "title": "Plage des Nonnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.597,
+                    48.012
+                ]
+            },
+            "properties": {
+                "title": "Saint Tugen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1984,
+                    49.7075
+                ]
+            },
+            "properties": {
+                "title": "Etretat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5833,
+                    50.7333
+                ]
+            },
+            "properties": {
+                "title": "Plage des Bains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.417,
+                    43.794
+                ]
+            },
+            "properties": {
+                "title": "Vieux Boucau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.441,
+                    43.699
+                ]
+            },
+            "properties": {
+                "title": "Les Bourdaines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.37277,
+                    46.7349477
+                ]
+            },
+            "properties": {
+                "title": "Cantin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6905,
+                    42.1144
+                ]
+            },
+            "properties": {
+                "title": "Sagone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.242,
+                    47.326
+                ]
+            },
+            "properties": {
+                "title": "Donnant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.599,
+                    43.438
+                ]
+            },
+            "properties": {
+                "title": "Bidart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.569,
+                    49.659
+                ]
+            },
+            "properties": {
+                "title": "Collignon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0606,
+                    46.7738
+                ]
+            },
+            "properties": {
+                "title": "St jean de monts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.547,
+                    48.008
+                ]
+            },
+            "properties": {
+                "title": "La Gamelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.622,
+                    41.9351
+                ]
+            },
+            "properties": {
+                "title": "Capo di Feno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.811,
+                    43.094
+                ]
+            },
+            "properties": {
+                "title": "Six Floors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421,
+                    43.448
+                ]
+            },
+            "properties": {
+                "title": "Saintes-Maries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6197,
+                    43.4225
+                ]
+            },
+            "properties": {
+                "title": "Guethary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1746,
+                    49.416
+                ]
+            },
+            "properties": {
+                "title": "Utah Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.77,
+                    48.37
+                ]
+            },
+            "properties": {
+                "title": "Les Blancs Sablons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.849,
+                    49.609
+                ]
+            },
+            "properties": {
+                "title": "Biville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.61,
+                    43.431
+                ]
+            },
+            "properties": {
+                "title": "Parlementia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5366,
+                    43.512
+                ]
+            },
+            "properties": {
+                "title": "La Madrague"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4455,
+                    47.9691
+                ]
+            },
+            "properties": {
+                "title": "Fouesnou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.546,
+                    43.5
+                ]
+            },
+            "properties": {
+                "title": "Le Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.892,
+                    43.078
+                ]
+            },
+            "properties": {
+                "title": "Les Sablettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.49088,
+                    46.3833
+                ]
+            },
+            "properties": {
+                "title": "Bud Bud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.447,
+                    43.651
+                ]
+            },
+            "properties": {
+                "title": "Le Prevent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1895,
+                    46.9438
+                ]
+            },
+            "properties": {
+                "title": "Noirmoutier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2901,
+                    49.7382
+                ]
+            },
+            "properties": {
+                "title": "Vaucottes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.558,
+                    48
+                ]
+            },
+            "properties": {
+                "title": "Pointe de Lervily"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9066,
+                    43.0706
+                ]
+            },
+            "properties": {
+                "title": "Pin Rolland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.45578,
+                    47.266726
+                ]
+            },
+            "properties": {
+                "title": "La Govelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.199,
+                    43.653
+                ]
+            },
+            "properties": {
+                "title": "Nice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.559,
+                    48.168
+                ]
+            },
+            "properties": {
+                "title": "Cap de la Chevre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1902,
+                    45.1147
+                ]
+            },
+            "properties": {
+                "title": "Le Crohot des Cavales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0586,
+                    42.6605
+                ]
+            },
+            "properties": {
+                "title": "Ostriconi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.446,
+                    43.653
+                ]
+            },
+            "properties": {
+                "title": "L'Estacade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.623,
+                    48.273
+                ]
+            },
+            "properties": {
+                "title": "Anse de Pen Hat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.44,
+                    43.711
+                ]
+            },
+            "properties": {
+                "title": "Le Penon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20198,
+                    49.28718
+                ]
+            },
+            "properties": {
+                "title": " Franceville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.49,
+                    43.578
+                ]
+            },
+            "properties": {
+                "title": "Ondres-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.65,
+                    48.699
+                ]
+            },
+            "properties": {
+                "title": "Locquirec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6875,
+                    42.2822
+                ]
+            },
+            "properties": {
+                "title": "Plage Bussaglia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6112,
+                    43.2908
+                ]
+            },
+            "properties": {
+                "title": "Beauvallon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.367,
+                    43.956
+                ]
+            },
+            "properties": {
+                "title": "Saint-Girons-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.611,
+                    43.427
+                ]
+            },
+            "properties": {
+                "title": "Les Alcyons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.156,
+                    45.434
+                ]
+            },
+            "properties": {
+                "title": "Le Gurp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.306,
+                    48.173
+                ]
+            },
+            "properties": {
+                "title": "Pors ar Vag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8267,
+                    49.4016
+                ]
+            },
+            "properties": {
+                "title": "Hatainville "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3247,
+                    47.6937
+                ]
+            },
+            "properties": {
+                "title": "Gavres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64,
+                    43.412
+                ]
+            },
+            "properties": {
+                "title": "Erromardie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.261,
+                    44.657
+                ]
+            },
+            "properties": {
+                "title": "Le Petit Train"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.083,
+                    43.328
+                ]
+            },
+            "properties": {
+                "title": "Tamaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1466,
+                    47.584
+                ]
+            },
+            "properties": {
+                "title": "Penthi\u00e8vre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.125,
+                    48.641
+                ]
+            },
+            "properties": {
+                "title": "Longchamps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5232,
+                    49.8256
+                ]
+            },
+            "properties": {
+                "title": "Petites Dalles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.56023,
+                    43.48469485823068
+                ]
+            },
+            "properties": {
+                "title": "Biarritz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0687,
+                    41.4492
+                ]
+            },
+            "properties": {
+                "title": "Figari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3863,
+                    45.9619
+                ]
+            },
+            "properties": {
+                "title": "Plage des Sables Vigniers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.78352,
+                    46.494315330871906
+                ]
+            },
+            "properties": {
+                "title": "Les Sables-D'Olonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.824,
+                    46.515
+                ]
+            },
+            "properties": {
+                "title": "L' Aubraie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.618,
+                    48.337
+                ]
+            },
+            "properties": {
+                "title": "Le Petit Minou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17,
+                    45.269
+                ]
+            },
+            "properties": {
+                "title": "Le Pin Sec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.54,
+                    43.506
+                ]
+            },
+            "properties": {
+                "title": "Marinella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3742,
+                    46.1673
+                ]
+            },
+            "properties": {
+                "title": "Gouillaud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.005,
+                    48.67
+                ]
+            },
+            "properties": {
+                "title": "Le Sillon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.855,
+                    49.503
+                ]
+            },
+            "properties": {
+                "title": "Sciotot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.749,
+                    43.397
+                ]
+            },
+            "properties": {
+                "title": "Belharra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.674,
+                    43.178
+                ]
+            },
+            "properties": {
+                "title": "Cap Saint-Louis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.851,
+                    49.568
+                ]
+            },
+            "properties": {
+                "title": "Siouville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2579,
+                    44.5149
+                ]
+            },
+            "properties": {
+                "title": "La Salie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.586,
+                    43.455
+                ]
+            },
+            "properties": {
+                "title": "Ilbaritz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.65,
+                    48.57
+                ]
+            },
+            "properties": {
+                "title": "Lampaul Ploudalmezeau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.498,
+                    46.386
+                ]
+            },
+            "properties": {
+                "title": "Les Conches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.153,
+                    45.485
+                ]
+            },
+            "properties": {
+                "title": "L'Amelie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.023,
+                    43.353
+                ]
+            },
+            "properties": {
+                "title": "Les Laurons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.53382,
+                    43.51401611768647
+                ]
+            },
+            "properties": {
+                "title": "Anglet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.377,
+                    47.707
+                ]
+            },
+            "properties": {
+                "title": "Toulhars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8958,
+                    50.9787
+                ]
+            },
+            "properties": {
+                "title": "Calais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.872,
+                    43.069
+                ]
+            },
+            "properties": {
+                "title": "Fabregas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.227,
+                    44.858
+                ]
+            },
+            "properties": {
+                "title": "La Jenny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0724,
+                    49.3734
+                ]
+            },
+            "properties": {
+                "title": "Trouville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.572,
+                    48.23
+                ]
+            },
+            "properties": {
+                "title": "Pointe de Dinan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.44721,
+                    43.64760422014503
+                ]
+            },
+            "properties": {
+                "title": "Le Santocha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.504,
+                    43.558
+                ]
+            },
+            "properties": {
+                "title": "Tarnos-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.374,
+                    43.258
+                ]
+            },
+            "properties": {
+                "title": "Le Prado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.355,
+                    47.832
+                ]
+            },
+            "properties": {
+                "title": "Pors Carn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.404,
+                    48.66
+                ]
+            },
+            "properties": {
+                "title": "Kerlouan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.894,
+                    46.636
+                ]
+            },
+            "properties": {
+                "title": "La Sauzaie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1638,
+                    47.2053
+                ]
+            },
+            "properties": {
+                "title": "L'Ermitage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.395,
+                    43.858
+                ]
+            },
+            "properties": {
+                "title": "Moliets-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.753,
+                    43.4216
+                ]
+            },
+            "properties": {
+                "title": "Fr\u00e9jus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.667,
+                    43.399
+                ]
+            },
+            "properties": {
+                "title": "Sainte Barbe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.44167,
+                    43.68220203786759
+                ]
+            },
+            "properties": {
+                "title": "Les Culs Nuls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.222,
+                    44.894
+                ]
+            },
+            "properties": {
+                "title": "Le Porge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.489,
+                    49.67
+                ]
+            },
+            "properties": {
+                "title": "Anse du Brick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.595,
+                    43.445
+                ]
+            },
+            "properties": {
+                "title": "Erretegia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8712,
+                    42.6102
+                ]
+            },
+            "properties": {
+                "title": "Algajola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445,
+                    43.282
+                ]
+            },
+            "properties": {
+                "title": "La Guillotine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.444,
+                    43.686
+                ]
+            },
+            "properties": {
+                "title": "Les Estagnots"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.21138,
+                    43.33015
+                ]
+            },
+            "properties": {
+                "title": "Calanque de Figuiere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.711,
+                    48.047
+                ]
+            },
+            "properties": {
+                "title": "Baie des Trepasses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.35083,
+                    47.84083333
+                ]
+            },
+            "properties": {
+                "title": "La Torche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.301,
+                    44.216
+                ]
+            },
+            "properties": {
+                "title": "Mimizan-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8331,
+                    49.457
+                ]
+            },
+            "properties": {
+                "title": "Surtainville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.482,
+                    47.991
+                ]
+            },
+            "properties": {
+                "title": "Gwendrez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.059,
+                    43.327
+                ]
+            },
+            "properties": {
+                "title": "La Couronne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3497,
+                    49.319
+                ]
+            },
+            "properties": {
+                "title": "Luc-sur-Mer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.039,
+                    42.7
+                ]
+            },
+            "properties": {
+                "title": "Canet Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5945,
+                    50.7646
+                ]
+            },
+            "properties": {
+                "title": "Wimereux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.13,
+                    43.543
+                ]
+            },
+            "properties": {
+                "title": "La Tour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.28607,
+                    -21.16474680139082
+                ]
+            },
+            "properties": {
+                "title": "St Leu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.833,
+                    46.548
+                ]
+            },
+            "properties": {
+                "title": "Sauveterre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.254,
+                    44.716
+                ]
+            },
+            "properties": {
+                "title": "Le Truc Vert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.673,
+                    48.063
+                ]
+            },
+            "properties": {
+                "title": "Pors Theolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2648,
+                    44.6384
+                ]
+            },
+            "properties": {
+                "title": "L'Horizon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.362,
+                    48.657
+                ]
+            },
+            "properties": {
+                "title": "Cap Frehel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.755,
+                    48.534
+                ]
+            },
+            "properties": {
+                "title": "Penfoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3156,
+                    47.2424
+                ]
+            },
+            "properties": {
+                "title": "La Courance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.32619,
+                    -21.25570309437444
+                ]
+            },
+            "properties": {
+                "title": "Etang-Sale-les-Bains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2404,
+                    45.7116
+                ]
+            },
+            "properties": {
+                "title": "La C\u00f4te Sauvage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.474,
+                    43.6
+                ]
+            },
+            "properties": {
+                "title": "Labenne-Ocean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5163,
+                    46.2564
+                ]
+            },
+            "properties": {
+                "title": "Le Lizay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.616,
+                    43.428
+                ]
+            },
+            "properties": {
+                "title": "Avalanche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3923,
+                    41.6888
+                ]
+            },
+            "properties": {
+                "title": "Pinarellu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.764,
+                    43.378
+                ]
+            },
+            "properties": {
+                "title": "Hendaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.156,
+                    47.521
+                ]
+            },
+            "properties": {
+                "title": "Cote Sauvage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1406,
+                    48.6958
+                ]
+            },
+            "properties": {
+                "title": "Les Amiets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.55,
+                    50.3333
+                ]
+            },
+            "properties": {
+                "title": "Plage de Fort-Mahon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.42,
+                    46.049
+                ]
+            },
+            "properties": {
+                "title": "Chassiron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.725,
+                    41.9121
+                ]
+            },
+            "properties": {
+                "title": "Plage Du Trottel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.529,
+                    43.527
+                ]
+            },
+            "properties": {
+                "title": "La Barre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.544,
+                    43.502
+                ]
+            },
+            "properties": {
+                "title": "Sables D'or"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.26,
+                    44.445
+                ]
+            },
+            "properties": {
+                "title": "Biscarrosse-Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.83,
+                    49.429
+                ]
+            },
+            "properties": {
+                "title": "Baubigny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.28243,
+                    -21.19999157818955
+                ]
+            },
+            "properties": {
+                "title": "La Pointe au Sel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.071,
+                    48.697
+                ]
+            },
+            "properties": {
+                "title": "Dossen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.679,
+                    48.354
+                ]
+            },
+            "properties": {
+                "title": "Porsmilin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.238,
+                    44.799
+                ]
+            },
+            "properties": {
+                "title": "Le Grand Crohot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.208,
+                    47.637
+                ]
+            },
+            "properties": {
+                "title": "Etel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8039,
+                    42.5697
+                ]
+            },
+            "properties": {
+                "title": "Lumio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.852,
+                    49.482
+                ]
+            },
+            "properties": {
+                "title": "Le Rozel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6316,
+                    48.5788
+                ]
+            },
+            "properties": {
+                "title": "St Pabu "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.448,
+                    43.643
+                ]
+            },
+            "properties": {
+                "title": "Capbreton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.26,
+                    45.836
+                ]
+            },
+            "properties": {
+                "title": "Saint Trojan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.44389,
+                    43.66388889
+                ]
+            },
+            "properties": {
+                "title": "La Graviere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.863,
+                    49.559
+                ]
+            },
+            "properties": {
+                "title": "Dielette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.447,
+                    43.66
+                ]
+            },
+            "properties": {
+                "title": "La Sud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5319,
+                    49.3459
+                ]
+            },
+            "properties": {
+                "title": "Gold Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.628,
+                    43.419
+                ]
+            },
+            "properties": {
+                "title": "Plage de Mayarko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175,
+                    43.334
+                ]
+            },
+            "properties": {
+                "title": "Le Rouet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.123,
+                    42.506
+                ]
+            },
+            "properties": {
+                "title": "Paulilles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.092,
+                    45.567
+                ]
+            },
+            "properties": {
+                "title": "Le Verdon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.258,
+                    44.622
+                ]
+            },
+            "properties": {
+                "title": "Cap Ferret Chenal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2512,
+                    -21.1121
+                ]
+            },
+            "properties": {
+                "title": "Pointe des Trois-Bassins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2821,
+                    -20.9332
+                ]
+            },
+            "properties": {
+                "title": "Le Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4764,
+                    -21.3478
+                ]
+            },
+            "properties": {
+                "title": "La Jetee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2291,
+                    -21.0224
+                ]
+            },
+            "properties": {
+                "title": "Cap Requin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2164,
+                    -21.0454
+                ]
+            },
+            "properties": {
+                "title": "Roches-Noires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2008,
+                    -21.1831
+                ]
+            },
+            "properties": {
+                "title": "La Caffrine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4524,
+                    -21.3321
+                ]
+            },
+            "properties": {
+                "title": "Pic du Diable"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.47,
+                    -21.32
+                ]
+            },
+            "properties": {
+                "title": "Saint-Pierre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2196,
+                    -21.059
+                ]
+            },
+            "properties": {
+                "title": "La Digue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2223,
+                    -21.0861
+                ]
+            },
+            "properties": {
+                "title": "L'Hermitage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2242,
+                    -21.0282
+                ]
+            },
+            "properties": {
+                "title": "Boucan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5864,
+                    -21.3727
+                ]
+            },
+            "properties": {
+                "title": "Manapany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.2162,
+                    -21.035
+                ]
+            },
+            "properties": {
+                "title": "Aigrettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.63008,
+                    41.905331
+                ]
+            },
+            "properties": {
+                "title": "CRS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.783,
+                    41.8323
+                ]
+            },
+            "properties": {
+                "title": "Le Ruppione"
+            }
+        }
+    ]
+}

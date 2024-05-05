@@ -1,0 +1,889 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8143,
+                    -1.5593
+                ]
+            },
+            "properties": {
+                "title": "Puerto Lopez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6612,
+                    0.9953
+                ]
+            },
+            "properties": {
+                "title": "El Bajo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9151,
+                    -2.2904
+                ]
+            },
+            "properties": {
+                "title": "Punta Carnero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9628,
+                    -2.2018
+                ]
+            },
+            "properties": {
+                "title": "Playero de Miramar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0613,
+                    0.3833
+                ]
+            },
+            "properties": {
+                "title": "Bocana del Cojimies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4044,
+                    -2.6428
+                ]
+            },
+            "properties": {
+                "title": "Pelado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8619,
+                    -2.1969
+                ]
+            },
+            "properties": {
+                "title": "Capaes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9108,
+                    -1.0652
+                ]
+            },
+            "properties": {
+                "title": "San Lorenzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0661,
+                    0.0737
+                ]
+            },
+            "properties": {
+                "title": "Pedernales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9285,
+                    -2.27
+                ]
+            },
+            "properties": {
+                "title": "Ecuasal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.056,
+                    0.6351
+                ]
+            },
+            "properties": {
+                "title": "Muisne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9827,
+                    -0.9622
+                ]
+            },
+            "properties": {
+                "title": "El Faro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8865,
+                    -2.2076
+                ]
+            },
+            "properties": {
+                "title": "Chulluipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8234,
+                    -1.6603
+                ]
+            },
+            "properties": {
+                "title": "Las Tunas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.846,
+                    -1.6249
+                ]
+            },
+            "properties": {
+                "title": "Rio Chico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9981,
+                    -2.2032
+                ]
+            },
+            "properties": {
+                "title": "FAE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8494,
+                    0.8772
+                ]
+            },
+            "properties": {
+                "title": "Atacames"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.333,
+                    -0.7656
+                ]
+            },
+            "properties": {
+                "title": "Tortuga Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3105,
+                    -0.1824
+                ]
+            },
+            "properties": {
+                "title": "Punta Ballena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1446,
+                    -0.0493
+                ]
+            },
+            "properties": {
+                "title": "La Cabuya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0454,
+                    0.494
+                ]
+            },
+            "properties": {
+                "title": "Punta Suspiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9872,
+                    -2.1851
+                ]
+            },
+            "properties": {
+                "title": "La Chocolatera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0483,
+                    0.8237
+                ]
+            },
+            "properties": {
+                "title": "Punta Galera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6766,
+                    0.9854
+                ]
+            },
+            "properties": {
+                "title": "Balao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6275,
+                    -0.9108
+                ]
+            },
+            "properties": {
+                "title": "Tonga Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8408,
+                    -1.5659
+                ]
+            },
+            "properties": {
+                "title": "Punta Mala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.755,
+                    -1.8286
+                ]
+            },
+            "properties": {
+                "title": "Montanita Beachbreak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7497,
+                    -1.3522
+                ]
+            },
+            "properties": {
+                "title": "Puerto Cayo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6196,
+                    -0.8999
+                ]
+            },
+            "properties": {
+                "title": "Puerto Baquerizo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8993,
+                    -2.32174
+                ]
+            },
+            "properties": {
+                "title": "La Diablica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4164,
+                    -2.6456
+                ]
+            },
+            "properties": {
+                "title": "Playas (Guayaquil)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2445,
+                    -2.7472
+                ]
+            },
+            "properties": {
+                "title": "512 km 812 km"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0901,
+                    0.778
+                ]
+            },
+            "properties": {
+                "title": "Estero de Platano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9944,
+                    -0.9701
+                ]
+            },
+            "properties": {
+                "title": "Barahona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4614,
+                    -0.4613
+                ]
+            },
+            "properties": {
+                "title": "Canoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8225,
+                    -2.163
+                ]
+            },
+            "properties": {
+                "title": "Coito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9679,
+                    -2.2012
+                ]
+            },
+            "properties": {
+                "title": "El Barco - Salinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6128,
+                    -0.9286
+                ]
+            },
+            "properties": {
+                "title": "La Loberia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4069,
+                    -2.6445
+                ]
+            },
+            "properties": {
+                "title": "Olas Verdes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.5116,
+                    -2.561
+                ]
+            },
+            "properties": {
+                "title": "Engabao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6146,
+                    -0.8904
+                ]
+            },
+            "properties": {
+                "title": "Carola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9711,
+                    -2.225
+                ]
+            },
+            "properties": {
+                "title": "La Chueca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8141,
+                    0.8937
+                ]
+            },
+            "properties": {
+                "title": "Tonsupa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9866,
+                    -2.186
+                ]
+            },
+            "properties": {
+                "title": "La Bahia (Guayas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3593,
+                    -2.6814
+                ]
+            },
+            "properties": {
+                "title": "Los Patios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7462,
+                    -0.939
+                ]
+            },
+            "properties": {
+                "title": "Manta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4344,
+                    -2.6425
+                ]
+            },
+            "properties": {
+                "title": "Mal Paso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9568,
+                    -2.2005
+                ]
+            },
+            "properties": {
+                "title": "Paco Illescas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8186,
+                    -1.6761
+                ]
+            },
+            "properties": {
+                "title": "Olon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7987,
+                    -1.7179
+                ]
+            },
+            "properties": {
+                "title": "La Rinconada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4011,
+                    -2.6407
+                ]
+            },
+            "properties": {
+                "title": "Chabela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5062,
+                    -0.7099
+                ]
+            },
+            "properties": {
+                "title": "Cerro Gallina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8347,
+                    -1.6385
+                ]
+            },
+            "properties": {
+                "title": "Viejamar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0478,
+                    0.4933
+                ]
+            },
+            "properties": {
+                "title": "Portete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4686,
+                    -0.6381
+                ]
+            },
+            "properties": {
+                "title": "La Mesita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4942,
+                    -0.3955
+                ]
+            },
+            "properties": {
+                "title": "Cabo Pasado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.899,
+                    -1.1052
+                ]
+            },
+            "properties": {
+                "title": "Las pinas/La Antena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8165,
+                    -1.6806
+                ]
+            },
+            "properties": {
+                "title": "Ayampe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4191,
+                    -2.6457
+                ]
+            },
+            "properties": {
+                "title": "La Posada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8445,
+                    -0.9815
+                ]
+            },
+            "properties": {
+                "title": "Santa Marianita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.412,
+                    -2.6462
+                ]
+            },
+            "properties": {
+                "title": "Sharkbay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8866,
+                    0.8681
+                ]
+            },
+            "properties": {
+                "title": "Punta Tonchigue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7591,
+                    -1.8204
+                ]
+            },
+            "properties": {
+                "title": "Montanita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0346,
+                    0.5062
+                ]
+            },
+            "properties": {
+                "title": "Mompiche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4479,
+                    -0.6084
+                ]
+            },
+            "properties": {
+                "title": "Punta Bellaca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2899,
+                    -0.3881
+                ]
+            },
+            "properties": {
+                "title": "Seymour Norte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4622,
+                    -0.6278
+                ]
+            },
+            "properties": {
+                "title": "La Bellaca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8123,
+                    -0.9524
+                ]
+            },
+            "properties": {
+                "title": "San Mateo"
+            }
+        }
+    ]
+}

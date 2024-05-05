@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5167,
+                    -22.6833
+                ]
+            },
+            "properties": {
+                "title": "J\u00f6rg Henrichsen Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.841,
+                    -25.438
+                ]
+            },
+            "properties": {
+                "title": "East Hill Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.542,
+                    -22.812
+                ]
+            },
+            "properties": {
+                "title": "Guns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95,
+                    -21.77
+                ]
+            },
+            "properties": {
+                "title": "Cape Cross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23,
+                    -26.945
+                ]
+            },
+            "properties": {
+                "title": "Elizabeth Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.856,
+                    -21.519
+                ]
+            },
+            "properties": {
+                "title": "Bocock's Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.838,
+                    -25.731
+                ]
+            },
+            "properties": {
+                "title": "Spencer Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.676,
+                    -27.93
+                ]
+            },
+            "properties": {
+                "title": "Affenrucken Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5426,
+                    -22.8183
+                ]
+            },
+            "properties": {
+                "title": "Langstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.525,
+                    -22.645
+                ]
+            },
+            "properties": {
+                "title": "Vineta Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.944,
+                    -26.135
+                ]
+            },
+            "properties": {
+                "title": "Hottentot Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.959,
+                    -21.766
+                ]
+            },
+            "properties": {
+                "title": "Factory Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1396,
+                    -20.1591
+                ]
+            },
+            "properties": {
+                "title": "Setters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.412775039672852,
+                    -22.942744097222683
+                ]
+            },
+            "properties": {
+                "title": "Skeleton Bay "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5394,
+                    -22.8431
+                ]
+            },
+            "properties": {
+                "title": "Dolfynstrand"
+            }
+        }
+    ]
+}

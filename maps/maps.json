@@ -15,7 +15,7 @@
             },
             "author": "Mario",
             "imageUrl": "https://ucarecdn.com/3e5fe93c-4b7d-45b6-a46f-e65e6088f372/",
-            "url": "https://raw.githubusercontent.com/mariolameiras/SurfGuessr/master/public/maps/portugal.geojson",
+            "url": "https://raw.githubusercontent.com/mariolameiras/surfguessr-maps/main/maps/portugal.geojson",
             "id": "surf.pt"
         },
         {
@@ -33,7 +33,7 @@
             },
             "author": "Mario",
             "imageUrl": "https://ucarecdn.com/3e5fe93c-4b7d-45b6-a46f-e65e6088f372/",
-            "url": "https://raw.githubusercontent.com/mariolameiras/SurfGuessr/master/public/maps/world.json",
+            "url": "",
             "id": "surf.pt"
         }     ]
 }

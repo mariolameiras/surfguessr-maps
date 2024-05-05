@@ -1,0 +1,4516 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.16591,
+                    -41.599161
+                ]
+            },
+            "properties": {
+                "title": "Awatere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.1465,
+                    -41.263
+                ]
+            },
+            "properties": {
+                "title": "Rabbit Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6602,
+                    -40.4982
+                ]
+            },
+            "properties": {
+                "title": "Wharariki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2588,
+                    -41.2618
+                ]
+            },
+            "properties": {
+                "title": "Nelson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7393,
+                    -35.9508
+                ]
+            },
+            "properties": {
+                "title": "Baylys Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.7309,
+                    -46.3355
+                ]
+            },
+            "properties": {
+                "title": "Porridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.604,
+                    -36.0783
+                ]
+            },
+            "properties": {
+                "title": "Mangawhai Heads"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.8239,
+                    -39.1695
+                ]
+            },
+            "properties": {
+                "title": "Kumera Patch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4456,
+                    -36.8995
+                ]
+            },
+            "properties": {
+                "title": "Bethells Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2395,
+                    -41.2787
+                ]
+            },
+            "properties": {
+                "title": "Tahunanui Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8193,
+                    -36.8793
+                ]
+            },
+            "properties": {
+                "title": "Hot Water Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.3513,
+                    -35.3425
+                ]
+            },
+            "properties": {
+                "title": "Bland Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.3652,
+                    -42.0425
+                ]
+            },
+            "properties": {
+                "title": "Safety Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7934,
+                    -37.8232
+                ]
+            },
+            "properties": {
+                "title": "Indicators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2063,
+                    -41.4735
+                ]
+            },
+            "properties": {
+                "title": "Whatarangi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4892,
+                    -35.852
+                ]
+            },
+            "properties": {
+                "title": "Marsden Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4821,
+                    -35.9902
+                ]
+            },
+            "properties": {
+                "title": "Waipu Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7773,
+                    -39.2192001
+                ]
+            },
+            "properties": {
+                "title": "Stent Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4231,
+                    -36.1221
+                ]
+            },
+            "properties": {
+                "title": "Whangapoua Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9022,
+                    -39.8858
+                ]
+            },
+            "properties": {
+                "title": "Kai Iwi Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.4589,
+                    -41.7683
+                ]
+            },
+            "properties": {
+                "title": "Tauranga Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.5066,
+                    -41.518
+                ]
+            },
+            "properties": {
+                "title": "Tora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.82311,
+                    -37.82125556
+                ]
+            },
+            "properties": {
+                "title": "Raglan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9144,
+                    -40.8109
+                ]
+            },
+            "properties": {
+                "title": "Tata Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.19194,
+                    -42.44171944
+                ]
+            },
+            "properties": {
+                "title": "Blaketown Wedge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.81229,
+                    -37.820764
+                ]
+            },
+            "properties": {
+                "title": "Raglan Manu Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.031,
+                    -46.372
+                ]
+            },
+            "properties": {
+                "title": "Riverton Rocks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0782,
+                    -34.7183
+                ]
+            },
+            "properties": {
+                "title": "Rarawa Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.11178,
+                    -35.17075278
+                ]
+            },
+            "properties": {
+                "title": "Shipwreck Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.5555,
+                    -41.746
+                ]
+            },
+            "properties": {
+                "title": "Carters Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2896,
+                    -34.8668
+                ]
+            },
+            "properties": {
+                "title": "Raupo Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7649,
+                    -39.2547
+                ]
+            },
+            "properties": {
+                "title": "Crushers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9232,
+                    -39.1193
+                ]
+            },
+            "properties": {
+                "title": "Weld Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1461,
+                    -39.0194
+                ]
+            },
+            "properties": {
+                "title": "Bell Block Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.818,
+                    -41.085
+                ]
+            },
+            "properties": {
+                "title": "Titahi Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.8948,
+                    -34.6891
+                ]
+            },
+            "properties": {
+                "title": "The Bluff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5073,
+                    -36.0294
+                ]
+            },
+            "properties": {
+                "title": "Waipu Cove"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7148,
+                    -34.4364
+                ]
+            },
+            "properties": {
+                "title": "Tapotupotu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.0577,
+                    -41.3866
+                ]
+            },
+            "properties": {
+                "title": "Whites Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7911,
+                    -37.6335
+                ]
+            },
+            "properties": {
+                "title": "Keritoki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.416,
+                    -41.1591
+                ]
+            },
+            "properties": {
+                "title": "Cable Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.05691,
+                    -41.39026111
+                ]
+            },
+            "properties": {
+                "title": "Little Wanganui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.1468,
+                    -35.1649
+                ]
+            },
+            "properties": {
+                "title": "Ahipara Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4279,
+                    -35.4397
+                ]
+            },
+            "properties": {
+                "title": "Okupe Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0771,
+                    -35.2119
+                ]
+            },
+            "properties": {
+                "title": "Tanutanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.22967,
+                    -40.899513
+                ]
+            },
+            "properties": {
+                "title": "Castlepoint Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.2,
+                    -42.47
+                ]
+            },
+            "properties": {
+                "title": "Greymouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4624,
+                    -35.5222
+                ]
+            },
+            "properties": {
+                "title": "Whananaki South Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.129,
+                    -46.6464
+                ]
+            },
+            "properties": {
+                "title": "Porpoise Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1585,
+                    -41.6588
+                ]
+            },
+            "properties": {
+                "title": "Clifford Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7717,
+                    -36.769
+                ]
+            },
+            "properties": {
+                "title": "Milford Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.2091,
+                    -40.9112
+                ]
+            },
+            "properties": {
+                "title": "Christmas Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.07,
+                    -35.1631
+                ]
+            },
+            "properties": {
+                "title": "Bluehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.3453,
+                    -35.3906
+                ]
+            },
+            "properties": {
+                "title": "Oakura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7586,
+                    -40.5076
+                ]
+            },
+            "properties": {
+                "title": "Farewell Spit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.95129,
+                    -39.112117
+                ]
+            },
+            "properties": {
+                "title": "Taranaki Surf Highway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.46201,
+                    -35.905111
+                ]
+            },
+            "properties": {
+                "title": "Ruakaka Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.47931,
+                    -35.540702
+                ]
+            },
+            "properties": {
+                "title": "Sandy Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.09582,
+                    -39.042132
+                ]
+            },
+            "properties": {
+                "title": "Fitzroy Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.652,
+                    -36.1653
+                ]
+            },
+            "properties": {
+                "title": "Forestry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8282,
+                    -37.818441
+                ]
+            },
+            "properties": {
+                "title": "Ngarunui Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.777,
+                    -36.7885
+                ]
+            },
+            "properties": {
+                "title": "Takapuna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.145,
+                    -41.3999
+                ]
+            },
+            "properties": {
+                "title": "Lake Ferry Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.1938,
+                    -42.4398
+                ]
+            },
+            "properties": {
+                "title": "Grey River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.001,
+                    -44.3386
+                ]
+            },
+            "properties": {
+                "title": "Martins Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.1147,
+                    -40.739
+                ]
+            },
+            "properties": {
+                "title": "Otaki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4551,
+                    -36.9212
+                ]
+            },
+            "properties": {
+                "title": "Anawhata Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.4095,
+                    -35.5935
+                ]
+            },
+            "properties": {
+                "title": "Waimamaku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0852,
+                    -41.2122
+                ]
+            },
+            "properties": {
+                "title": "Ruby Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8028,
+                    -37.8227
+                ]
+            },
+            "properties": {
+                "title": "Whale Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.3813,
+                    -42.0308
+                ]
+            },
+            "properties": {
+                "title": "Fox River Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0202,
+                    -40.8633
+                ]
+            },
+            "properties": {
+                "title": "Waikanae Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.3713,
+                    -34.8938
+                ]
+            },
+            "properties": {
+                "title": "Tokerau Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.801,
+                    -39.1844
+                ]
+            },
+            "properties": {
+                "title": "Punihos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4912,
+                    -35.5616
+                ]
+            },
+            "properties": {
+                "title": "Woolleys Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.953,
+                    -39.1115
+                ]
+            },
+            "properties": {
+                "title": "Oakura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4774,
+                    -36.2285
+                ]
+            },
+            "properties": {
+                "title": "Palmers Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.705,
+                    -36.597
+                ]
+            },
+            "properties": {
+                "title": "Orewa Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.526,
+                    -35.7125
+                ]
+            },
+            "properties": {
+                "title": "Pataua Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.821,
+                    -41.3451
+                ]
+            },
+            "properties": {
+                "title": "Tarakena Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.104,
+                    -39.0348
+                ]
+            },
+            "properties": {
+                "title": "Waiwakaiho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.23,
+                    -41.5855
+                ]
+            },
+            "properties": {
+                "title": "Ngawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.98889,
+                    -43.86468333
+                ]
+            },
+            "properties": {
+                "title": "Haast Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7851,
+                    -41.3423
+                ]
+            },
+            "properties": {
+                "title": "Houghton Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8918,
+                    -41.2947
+                ]
+            },
+            "properties": {
+                "title": "Eastbourne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.1549,
+                    -34.8317
+                ]
+            },
+            "properties": {
+                "title": "Houhora Heads"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6743,
+                    -34.4543
+                ]
+            },
+            "properties": {
+                "title": "Te Werahi Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7821,
+                    -36.3417
+                ]
+            },
+            "properties": {
+                "title": "Omaha Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.202,
+                    -41.5383
+                ]
+            },
+            "properties": {
+                "title": "Palliser Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.3532,
+                    -41.5886
+                ]
+            },
+            "properties": {
+                "title": "Seconds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7658,
+                    -37.8919
+                ]
+            },
+            "properties": {
+                "title": "Ruapuke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.4666,
+                    -34.9935
+                ]
+            },
+            "properties": {
+                "title": "Taipa Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7105,
+                    -37.3974
+                ]
+            },
+            "properties": {
+                "title": "Port Waikato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.3664,
+                    -40.6991
+                ]
+            },
+            "properties": {
+                "title": "Anatori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.223,
+                    -42.3803
+                ]
+            },
+            "properties": {
+                "title": "Point Elizabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8395,
+                    -37.798
+                ]
+            },
+            "properties": {
+                "title": "Mussel Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.3616,
+                    -41.1856
+                ]
+            },
+            "properties": {
+                "title": "Glenduan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.19298,
+                    -42.43810833
+                ]
+            },
+            "properties": {
+                "title": "Cobden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4731,
+                    -36.9879
+                ]
+            },
+            "properties": {
+                "title": "Karekare Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.8646,
+                    -39.4694
+                ]
+            },
+            "properties": {
+                "title": "Mangahume"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4339,
+                    -41.5688
+                ]
+            },
+            "properties": {
+                "title": "Dolphin Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1334,
+                    -35.2597
+                ]
+            },
+            "properties": {
+                "title": "Oneroa Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5337,
+                    -36.0446
+                ]
+            },
+            "properties": {
+                "title": "Langs Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.812,
+                    -39.1803
+                ]
+            },
+            "properties": {
+                "title": "Komene Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9749,
+                    -39.9394
+                ]
+            },
+            "properties": {
+                "title": "Whanganui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.5733,
+                    -35.7761
+                ]
+            },
+            "properties": {
+                "title": "Aranga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.3259,
+                    -34.8598
+                ]
+            },
+            "properties": {
+                "title": "Puheke Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5091,
+                    -35.6384
+                ]
+            },
+            "properties": {
+                "title": "Ngunguru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4557,
+                    -36.9307
+                ]
+            },
+            "properties": {
+                "title": "White's Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.255,
+                    -42.3488
+                ]
+            },
+            "properties": {
+                "title": "Strong Man"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.8551,
+                    -36.0844
+                ]
+            },
+            "properties": {
+                "title": "Glinks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4793,
+                    -36.2462
+                ]
+            },
+            "properties": {
+                "title": "Kaitoke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4282,
+                    -41.5725
+                ]
+            },
+            "properties": {
+                "title": "White Rock Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.124,
+                    -34.7481
+                ]
+            },
+            "properties": {
+                "title": "Henderson Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.71,
+                    -34.9921
+                ]
+            },
+            "properties": {
+                "title": "Taupo Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.9055,
+                    -46.3595
+                ]
+            },
+            "properties": {
+                "title": "Colac Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.071,
+                    -41.3588
+                ]
+            },
+            "properties": {
+                "title": "Robin Hood Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.4307,
+                    -40.6425
+                ]
+            },
+            "properties": {
+                "title": "Paturau Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.3726,
+                    -42.0329
+                ]
+            },
+            "properties": {
+                "title": "Woodpecker Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7499,
+                    -36.6823
+                ]
+            },
+            "properties": {
+                "title": "Long Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.5643,
+                    -41.7419
+                ]
+            },
+            "properties": {
+                "title": "Westport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.4444,
+                    -41.8936
+                ]
+            },
+            "properties": {
+                "title": "Charleston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.41844,
+                    -36.821747
+                ]
+            },
+            "properties": {
+                "title": "Muriwai Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4908,
+                    -36.2622
+                ]
+            },
+            "properties": {
+                "title": "Medlands Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7928,
+                    -39.1922
+                ]
+            },
+            "properties": {
+                "title": "Rocky Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.221,
+                    -40.9067
+                ]
+            },
+            "properties": {
+                "title": "Castlepoint Gap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4147,
+                    -35.4399
+                ]
+            },
+            "properties": {
+                "title": "Mimiwhangata Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.64613,
+                    -36.15613
+                ]
+            },
+            "properties": {
+                "title": "Te Arai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7562,
+                    -36.7381
+                ]
+            },
+            "properties": {
+                "title": "Mairangi Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.899,
+                    -39.5015
+                ]
+            },
+            "properties": {
+                "title": "Green Meadows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.22097,
+                    -41.57086
+                ]
+            },
+            "properties": {
+                "title": "Dee Dee's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8634,
+                    -41.0834
+                ]
+            },
+            "properties": {
+                "title": "Plimmerton Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9534,
+                    -40.9821
+                ]
+            },
+            "properties": {
+                "title": "Paekakariki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.934,
+                    -41.5219
+                ]
+            },
+            "properties": {
+                "title": "Waimaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7088,
+                    -36.603
+                ]
+            },
+            "properties": {
+                "title": "Red Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7993,
+                    -41.335552
+                ]
+            },
+            "properties": {
+                "title": "Lyall Bay - The Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.5485,
+                    -46.1684
+                ]
+            },
+            "properties": {
+                "title": "Bluecliffs Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9139,
+                    -35.0318
+                ]
+            },
+            "properties": {
+                "title": "Matauri Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.4765,
+                    -41.1578
+                ]
+            },
+            "properties": {
+                "title": "Delaware Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.8609,
+                    -34.4268
+                ]
+            },
+            "properties": {
+                "title": "Spirits Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7839,
+                    -39.3941
+                ]
+            },
+            "properties": {
+                "title": "Kina Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.85453,
+                    -39.459887
+                ]
+            },
+            "properties": {
+                "title": "Opunake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.2031,
+                    -41.7246
+                ]
+            },
+            "properties": {
+                "title": "Marfell's Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7267,
+                    -36.2429
+                ]
+            },
+            "properties": {
+                "title": "Pakiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7015,
+                    -34.5045
+                ]
+            },
+            "properties": {
+                "title": "Twilight Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.229,
+                    -38.9863
+                ]
+            },
+            "properties": {
+                "title": "Waitara Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.0598,
+                    -41.4973
+                ]
+            },
+            "properties": {
+                "title": "Blenheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.931,
+                    -39.1172
+                ]
+            },
+            "properties": {
+                "title": "Ahu Ahu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.724,
+                    -34.5308
+                ]
+            },
+            "properties": {
+                "title": "Scott Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5772,
+                    -35.8376
+                ]
+            },
+            "properties": {
+                "title": "Ocean Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.025,
+                    -34.8365
+                ]
+            },
+            "properties": {
+                "title": "90 Mile Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9874,
+                    -34.4151
+                ]
+            },
+            "properties": {
+                "title": "Tom Bowling Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4266,
+                    -36.834
+                ]
+            },
+            "properties": {
+                "title": "Maori Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6934,
+                    -38.118
+                ]
+            },
+            "properties": {
+                "title": "Arohaki Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.6431,
+                    -34.965
+                ]
+            },
+            "properties": {
+                "title": "Motukahakaha Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6161,
+                    -38.7011
+                ]
+            },
+            "properties": {
+                "title": "Mokau Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8526,
+                    -41.0675
+                ]
+            },
+            "properties": {
+                "title": "Hongoeka Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.1041,
+                    -46.6544
+                ]
+            },
+            "properties": {
+                "title": "Curio Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.756,
+                    -46.9262
+                ]
+            },
+            "properties": {
+                "title": "Mason Bay - Stewart Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.5333,
+                    -41.1015
+                ]
+            },
+            "properties": {
+                "title": "Whangamoa Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2653,
+                    -41.2547
+                ]
+            },
+            "properties": {
+                "title": "Boulder Bank Lighthouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9499,
+                    -35.1063
+                ]
+            },
+            "properties": {
+                "title": "Takou Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.479,
+                    -37.0313
+                ]
+            },
+            "properties": {
+                "title": "Whatipu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.5294,
+                    -41.507
+                ]
+            },
+            "properties": {
+                "title": "Tora Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.0749,
+                    -41.0869
+                ]
+            },
+            "properties": {
+                "title": "Riversdale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.0074,
+                    -36.3102
+                ]
+            },
+            "properties": {
+                "title": "Ripiro Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.4816,
+                    -36.2108
+                ]
+            },
+            "properties": {
+                "title": "Awana Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6178,
+                    -38.6761
+                ]
+            },
+            "properties": {
+                "title": "Awakino Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.697,
+                    -36.586
+                ]
+            },
+            "properties": {
+                "title": "Orewa Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.5382,
+                    -41.4985
+                ]
+            },
+            "properties": {
+                "title": "Stony Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.3289,
+                    -42.1231
+                ]
+            },
+            "properties": {
+                "title": "Punakaiki Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7467,
+                    -39.8651
+                ]
+            },
+            "properties": {
+                "title": "Waiinu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.292,
+                    -35.2731
+                ]
+            },
+            "properties": {
+                "title": "Elliot Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.074,
+                    -39.0555
+                ]
+            },
+            "properties": {
+                "title": "New Plymouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5592,
+                    -39.8181
+                ]
+            },
+            "properties": {
+                "title": "Waverly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.5216,
+                    -35.7096
+                ]
+            },
+            "properties": {
+                "title": "Pataua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8248,
+                    -41.337
+                ]
+            },
+            "properties": {
+                "title": "Breakers Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.4503,
+                    -35.4807
+                ]
+            },
+            "properties": {
+                "title": "Moureeses Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.463,
+                    -36.954
+                ]
+            },
+            "properties": {
+                "title": "Piha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.98269,
+                    -35.12029167
+                ]
+            },
+            "properties": {
+                "title": "Taronui Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7101,
+                    -38.3237
+                ]
+            },
+            "properties": {
+                "title": "Kiritehere Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.58669,
+                    -41.72833611
+                ]
+            },
+            "properties": {
+                "title": "Westport Breakwater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.44,
+                    -41.82
+                ]
+            },
+            "properties": {
+                "title": "Nine Mile Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8896,
+                    -41.0284
+                ]
+            },
+            "properties": {
+                "title": "Pukerua Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8074,
+                    -37.6809
+                ]
+            },
+            "properties": {
+                "title": "Te Akau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.092,
+                    -41.2418
+                ]
+            },
+            "properties": {
+                "title": "Karamea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.491,
+                    -39.7742
+                ]
+            },
+            "properties": {
+                "title": "Patea River Mouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.33052,
+                    -42.108516
+                ]
+            },
+            "properties": {
+                "title": "Punakaiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.722,
+                    -46.2998
+                ]
+            },
+            "properties": {
+                "title": "Frentzes Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1584,
+                    -36.3865
+                ]
+            },
+            "properties": {
+                "title": "Pouto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.8848,
+                    -46.3767
+                ]
+            },
+            "properties": {
+                "title": "Nicks Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8205,
+                    -36.3603
+                ]
+            },
+            "properties": {
+                "title": "Tawharanui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.23,
+                    -46.4386
+                ]
+            },
+            "properties": {
+                "title": "Oreti Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.9694,
+                    -38.6862
+                ]
+            },
+            "properties": {
+                "title": "Midway Pipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.058,
+                    -38.7001
+                ]
+            },
+            "properties": {
+                "title": "Sponge Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.1589,
+                    -37.6338
+                ]
+            },
+            "properties": {
+                "title": "Puni's Farm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8439,
+                    -36.9626
+                ]
+            },
+            "properties": {
+                "title": "Te Karo Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.0629,
+                    -37.5556
+                ]
+            },
+            "properties": {
+                "title": "Matakana Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.5031,
+                    -37.7733
+                ]
+            },
+            "properties": {
+                "title": "Pukehina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.28865,
+                    -37.694931
+                ]
+            },
+            "properties": {
+                "title": "Papamoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.07714,
+                    -38.68472222
+                ]
+            },
+            "properties": {
+                "title": "Wainui Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9955,
+                    -39.8446
+                ]
+            },
+            "properties": {
+                "title": "Cray Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.7063,
+                    -36.8299
+                ]
+            },
+            "properties": {
+                "title": "Whitianga Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.6172,
+                    -46.543
+                ]
+            },
+            "properties": {
+                "title": "Purakaunui Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8607,
+                    -36.9944
+                ]
+            },
+            "properties": {
+                "title": "Tairua Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.8826,
+                    -39.4754
+                ]
+            },
+            "properties": {
+                "title": "Westshore Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.949,
+                    -39.6026
+                ]
+            },
+            "properties": {
+                "title": "Haumoana Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.8917,
+                    -39.0343
+                ]
+            },
+            "properties": {
+                "title": "Mahanga Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9964,
+                    -39.8198
+                ]
+            },
+            "properties": {
+                "title": "Waimarama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8875,
+                    -37.1027
+                ]
+            },
+            "properties": {
+                "title": "Opoutere Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.879,
+                    -37.9075
+                ]
+            },
+            "properties": {
+                "title": "Thorton Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.313,
+                    -38.4372
+                ]
+            },
+            "properties": {
+                "title": "Loisells"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.20749,
+                    -37.649742
+                ]
+            },
+            "properties": {
+                "title": "Mt Maunganui Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.107,
+                    -38.6629
+                ]
+            },
+            "properties": {
+                "title": "Makorori Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.1843,
+                    -38.6098
+                ]
+            },
+            "properties": {
+                "title": "Pouawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.7555,
+                    -46.4693
+                ]
+            },
+            "properties": {
+                "title": "Cannibal Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.2841,
+                    -37.9915
+                ]
+            },
+            "properties": {
+                "title": "Opotiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8055,
+                    -36.8377
+                ]
+            },
+            "properties": {
+                "title": "Hahei Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.326,
+                    -38.3158
+                ]
+            },
+            "properties": {
+                "title": "Kaiaua Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.92,
+                    -39.4995
+                ]
+            },
+            "properties": {
+                "title": "Napier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.5239,
+                    -36.5942
+                ]
+            },
+            "properties": {
+                "title": "Waikawau Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.1846,
+                    -41.8446
+                ]
+            },
+            "properties": {
+                "title": "Ward Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.979,
+                    -37.9341
+                ]
+            },
+            "properties": {
+                "title": "Whakatane Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.4855,
+                    -37.9499
+                ]
+            },
+            "properties": {
+                "title": "Torere Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.99788,
+                    -38.674422
+                ]
+            },
+            "properties": {
+                "title": "Gisborne Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9596,
+                    -37.4289
+                ]
+            },
+            "properties": {
+                "title": "Pios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.53,
+                    -37.9197
+                ]
+            },
+            "properties": {
+                "title": "Hawai Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.894,
+                    -39.0051
+                ]
+            },
+            "properties": {
+                "title": "Last Chance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9865,
+                    -39.6314
+                ]
+            },
+            "properties": {
+                "title": "Te Awanga Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.959,
+                    -39.139
+                ]
+            },
+            "properties": {
+                "title": "Diners Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.719,
+                    -36.7242
+                ]
+            },
+            "properties": {
+                "title": "Kuaotunu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.4835,
+                    -37.7788
+                ]
+            },
+            "properties": {
+                "title": "Rangitukia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.4588,
+                    -37.753
+                ]
+            },
+            "properties": {
+                "title": "Maketu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.2298,
+                    -38.571
+                ]
+            },
+            "properties": {
+                "title": "Whangara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3382,
+                    -38.3776
+                ]
+            },
+            "properties": {
+                "title": "Cooks Cove"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.4144,
+                    -37.7472
+                ]
+            },
+            "properties": {
+                "title": "Kaituna Cut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.5876,
+                    -37.852
+                ]
+            },
+            "properties": {
+                "title": "Motu Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7124,
+                    -43.3743
+                ]
+            },
+            "properties": {
+                "title": "Pines Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.63048,
+                    -36.71917222
+                ]
+            },
+            "properties": {
+                "title": "Whangapoua Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.299,
+                    -37.5799
+                ]
+            },
+            "properties": {
+                "title": "Horseshoe Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.18002,
+                    -37.62986
+                ]
+            },
+            "properties": {
+                "title": "Mt Maunganui Main Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9409,
+                    -37.4
+                ]
+            },
+            "properties": {
+                "title": "Waihi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9392,
+                    -37.3846
+                ]
+            },
+            "properties": {
+                "title": "Orokawa Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.0963,
+                    -46.1963
+                ]
+            },
+            "properties": {
+                "title": "Chrystalls Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.074,
+                    -38.6892
+                ]
+            },
+            "properties": {
+                "title": "Stock Route"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8053,
+                    -36.7212
+                ]
+            },
+            "properties": {
+                "title": "Opito Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.578,
+                    -46.5748
+                ]
+            },
+            "properties": {
+                "title": "Long Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.333,
+                    -38.0196
+                ]
+            },
+            "properties": {
+                "title": "Waipiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.0862,
+                    -39.1717
+                ]
+            },
+            "properties": {
+                "title": "Taits Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3727,
+                    -37.6327
+                ]
+            },
+            "properties": {
+                "title": "Te Araroa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3098,
+                    -38.3734
+                ]
+            },
+            "properties": {
+                "title": "Tolaga Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.4133,
+                    -37.624
+                ]
+            },
+            "properties": {
+                "title": "Motiti Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.0488,
+                    -38.7066
+                ]
+            },
+            "properties": {
+                "title": "Tuamotu Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.2872,
+                    -39.0929
+                ]
+            },
+            "properties": {
+                "title": "Waihua Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.6069,
+                    -36.6982
+                ]
+            },
+            "properties": {
+                "title": "New Chums Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.804,
+                    -39.0695
+                ]
+            },
+            "properties": {
+                "title": "Black's Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.9038,
+                    -39.0731
+                ]
+            },
+            "properties": {
+                "title": "Oraka Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.04773,
+                    -38.71196389
+                ]
+            },
+            "properties": {
+                "title": "The Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.2367,
+                    -37.672
+                ]
+            },
+            "properties": {
+                "title": "Arataki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8792,
+                    -37.1523
+                ]
+            },
+            "properties": {
+                "title": "Onemana Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.4709,
+                    -37.7452
+                ]
+            },
+            "properties": {
+                "title": "Newdicks Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.866,
+                    -39.0858
+                ]
+            },
+            "properties": {
+                "title": "Mahia Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.01798,
+                    -39.744546
+                ]
+            },
+            "properties": {
+                "title": "Ocean Beach-Hawkes Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8663,
+                    -37.0141
+                ]
+            },
+            "properties": {
+                "title": "Pauanui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.9184,
+                    -37.6126
+                ]
+            },
+            "properties": {
+                "title": "Waihau Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.4489,
+                    -46.5788
+                ]
+            },
+            "properties": {
+                "title": "Tautuku Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.7685,
+                    -37.886
+                ]
+            },
+            "properties": {
+                "title": "Matata Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.137,
+                    -38.6554
+                ]
+            },
+            "properties": {
+                "title": "North Makorori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7225,
+                    -43.2909
+                ]
+            },
+            "properties": {
+                "title": "Waikuku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9737,
+                    -39.3005
+                ]
+            },
+            "properties": {
+                "title": "Waipatiki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.9224,
+                    -39.3372
+                ]
+            },
+            "properties": {
+                "title": "Tangoio Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.819,
+                    -39.075
+                ]
+            },
+            "properties": {
+                "title": "Rolling Stones (Mahia Peninsula)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.547,
+                    -37.9058
+                ]
+            },
+            "properties": {
+                "title": "Whituare Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.26629,
+                    -44.41126184
+                ]
+            },
+            "properties": {
+                "title": "Patiti Point Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.7595,
+                    -36.7068
+                ]
+            },
+            "properties": {
+                "title": "Otama Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.88472,
+                    -37.210484
+                ]
+            },
+            "properties": {
+                "title": "Whangamata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.824,
+                    -45.416
+                ]
+            },
+            "properties": {
+                "title": "Katiki Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9876,
+                    -37.4621
+                ]
+            },
+            "properties": {
+                "title": "Bowentown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.2986,
+                    -37.5892
+                ]
+            },
+            "properties": {
+                "title": "Hicks Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.6878,
+                    -36.728
+                ]
+            },
+            "properties": {
+                "title": "Ring's Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.85,
+                    -39.0676
+                ]
+            },
+            "properties": {
+                "title": "Opoutama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9377,
+                    -37.3612
+                ]
+            },
+            "properties": {
+                "title": "Homunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3201,
+                    -37.6002
+                ]
+            },
+            "properties": {
+                "title": "Tokata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.05464,
+                    -37.963463
+                ]
+            },
+            "properties": {
+                "title": "Ohope Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3113,
+                    -38.2339
+                ]
+            },
+            "properties": {
+                "title": "Anaura Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.699,
+                    -46.5082
+                ]
+            },
+            "properties": {
+                "title": "Owaka Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.2022,
+                    -39.1233
+                ]
+            },
+            "properties": {
+                "title": "Mohaka River Mouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.9455,
+                    -38.7121
+                ]
+            },
+            "properties": {
+                "title": "Waipaoa Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.4066,
+                    -39.0669
+                ]
+            },
+            "properties": {
+                "title": "Wairoa River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.9026,
+                    -37.2818
+                ]
+            },
+            "properties": {
+                "title": "Whiritoa Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.8938,
+                    -39.0123
+                ]
+            },
+            "properties": {
+                "title": "Happy Jacks Harbor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.829,
+                    -39.0755
+                ]
+            },
+            "properties": {
+                "title": "Railways"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.47,
+                    -46.5863
+                ]
+            },
+            "properties": {
+                "title": "Papatowai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3014,
+                    -37.5928
+                ]
+            },
+            "properties": {
+                "title": "Onepoto Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.3187,
+                    -38.1323
+                ]
+            },
+            "properties": {
+                "title": "Tokomaru Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.8611,
+                    -42.2183
+                ]
+            },
+            "properties": {
+                "title": "Okiwi Bay Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7704,
+                    -43.8537
+                ]
+            },
+            "properties": {
+                "title": "Tumbledown Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.673,
+                    -45.7595
+                ]
+            },
+            "properties": {
+                "title": "Murderers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7583,
+                    -43.5631
+                ]
+            },
+            "properties": {
+                "title": "Sumner Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2964,
+                    -42.9018
+                ]
+            },
+            "properties": {
+                "title": "Hurunui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.7004,
+                    -45.8752
+                ]
+            },
+            "properties": {
+                "title": "Allans Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7089,
+                    -42.4169
+                ]
+            },
+            "properties": {
+                "title": "Jimmy Armers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7418,
+                    -43.5313
+                ]
+            },
+            "properties": {
+                "title": "South New Brighton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.4249,
+                    -45.9285
+                ]
+            },
+            "properties": {
+                "title": "Blackhead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.7301,
+                    -45.8284
+                ]
+            },
+            "properties": {
+                "title": "Victory Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.75,
+                    -43.5484
+                ]
+            },
+            "properties": {
+                "title": "Southshore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.76,
+                    -43.5627
+                ]
+            },
+            "properties": {
+                "title": "Sumner Bar (Christchurch)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73936,
+                    -43.505084
+                ]
+            },
+            "properties": {
+                "title": "New Brighton Pier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7122,
+                    -43.3896
+                ]
+            },
+            "properties": {
+                "title": "Waimakariri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.665,
+                    -45.6388
+                ]
+            },
+            "properties": {
+                "title": "Karitane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.935,
+                    -42.1756
+                ]
+            },
+            "properties": {
+                "title": "Clarence River"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.813,
+                    -42.2565
+                ]
+            },
+            "properties": {
+                "title": "Blue Duck Stream"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.74,
+                    -43.845
+                ]
+            },
+            "properties": {
+                "title": "Magnet Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.562,
+                    -45.9091
+                ]
+            },
+            "properties": {
+                "title": "Smails Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.693,
+                    -42.4139
+                ]
+            },
+            "properties": {
+                "title": "Kaikoura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7493,
+                    -42.3172
+                ]
+            },
+            "properties": {
+                "title": "Graveyards"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.82,
+                    -43.1344
+                ]
+            },
+            "properties": {
+                "title": "Fossils"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.70054,
+                    -45.768975
+                ]
+            },
+            "properties": {
+                "title": "Aramoana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.74894,
+                    -42.32098056
+                ]
+            },
+            "properties": {
+                "title": "Mangamanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.49307,
+                    -45.914165
+                ]
+            },
+            "properties": {
+                "title": "St Clair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.5256,
+                    -45.9104
+                ]
+            },
+            "properties": {
+                "title": "Lawyers Head"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7842,
+                    -43.8503
+                ]
+            },
+            "properties": {
+                "title": "Te Oka Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.07883,
+                    -43.06545
+                ]
+            },
+            "properties": {
+                "title": "Motunau Beach Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.78516,
+                    -43.578734
+                ]
+            },
+            "properties": {
+                "title": "Taylors Mistake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.31269,
+                    -42.867049
+                ]
+            },
+            "properties": {
+                "title": "Gore Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7266,
+                    -43.494
+                ]
+            },
+            "properties": {
+                "title": "North New Brighton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7592,
+                    -43.2088
+                ]
+            },
+            "properties": {
+                "title": "Leithfield Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.313,
+                    -42.8778
+                ]
+            },
+            "properties": {
+                "title": "Port Robinson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.0137,
+                    -42.0013
+                ]
+            },
+            "properties": {
+                "title": "Kekerengu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.647,
+                    -45.8977
+                ]
+            },
+            "properties": {
+                "title": "Sandfly Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.0965,
+                    -43.8082
+                ]
+            },
+            "properties": {
+                "title": "Goughs Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.06331,
+                    -43.69395
+                ]
+            },
+            "properties": {
+                "title": "Stoney Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.5399,
+                    -45.9066
+                ]
+            },
+            "properties": {
+                "title": "Tomahawk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9405,
+                    -42.1608
+                ]
+            },
+            "properties": {
+                "title": "Clarence Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.59,
+                    -42.4333
+                ]
+            },
+            "properties": {
+                "title": "Kahutara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.7508,
+                    -42.3203
+                ]
+            },
+            "properties": {
+                "title": "Hapuku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.8872,
+                    -43.1004
+                ]
+            },
+            "properties": {
+                "title": "Mount Cass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.10931,
+                    -43.77655
+                ]
+            },
+            "properties": {
+                "title": "Hickory Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.46,
+                    -42.6294
+                ]
+            },
+            "properties": {
+                "title": "Conway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7688,
+                    -43.572
+                ]
+            },
+            "properties": {
+                "title": "Scarborough"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.4513,
+                    -45.9247
+                ]
+            },
+            "properties": {
+                "title": "Tunnel Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.723,
+                    -43.4816
+                ]
+            },
+            "properties": {
+                "title": "Waimairi  Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7145,
+                    -43.4321
+                ]
+            },
+            "properties": {
+                "title": "Spencer Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.517,
+                    -45.9085
+                ]
+            },
+            "properties": {
+                "title": "St Kilda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.793,
+                    -43.1612
+                ]
+            },
+            "properties": {
+                "title": "Amberley Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.3263,
+                    -45.9525
+                ]
+            },
+            "properties": {
+                "title": "Brighton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.5078,
+                    -42.5159
+                ]
+            },
+            "properties": {
+                "title": "Oaro"
+            }
+        }
+    ]
+}

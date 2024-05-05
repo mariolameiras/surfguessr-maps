@@ -1,0 +1,382 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.08519,
+                    11.44175
+                ]
+            },
+            "properties": {
+                "title": "Santana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.777,
+                    12.188
+                ]
+            },
+            "properties": {
+                "title": "Puerto Sandino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.0373,
+                    12.371379957548557
+                ]
+            },
+            "properties": {
+                "title": "Las Penitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0100626486595,
+                    11.36577672698044
+                ]
+            },
+            "properties": {
+                "title": "Manzanillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.11157,
+                    11.45905865759882
+                ]
+            },
+            "properties": {
+                "title": "Popoyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.176,
+                    11.518
+                ]
+            },
+            "properties": {
+                "title": "El Astillero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.3561,
+                    12.6269
+                ]
+            },
+            "properties": {
+                "title": "The Boom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.90446,
+                    11.28249124556028
+                ]
+            },
+            "properties": {
+                "title": "Playa Maderas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05062,
+                    11.40551
+                ]
+            },
+            "properties": {
+                "title": "Colorados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0844,
+                    11.4339
+                ]
+            },
+            "properties": {
+                "title": "Playa Rosada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8042,
+                    11.158
+                ]
+            },
+            "properties": {
+                "title": "El Coco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.7369,
+                    12.1093
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.766,
+                    12.167
+                ]
+            },
+            "properties": {
+                "title": "Miramar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8494,
+                    11.2205
+                ]
+            },
+            "properties": {
+                "title": "El Remanso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8003,
+                    11.1314
+                ]
+            },
+            "properties": {
+                "title": "Sally Ann's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.11003,
+                    11.4549634092428
+                ]
+            },
+            "properties": {
+                "title": "Popoyo Outer Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.837,
+                    11.203
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.056,
+                    11.408
+                ]
+            },
+            "properties": {
+                "title": "Panga Drops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76109,
+                    12.16393
+                ]
+            },
+            "properties": {
+                "title": "Shack's/Shifty's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4871,
+                    11.7523
+                ]
+            },
+            "properties": {
+                "title": "Pochomil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.708,
+                    12.052
+                ]
+            },
+            "properties": {
+                "title": "El Transito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1777,
+                    11.5219
+                ]
+            },
+            "properties": {
+                "title": "El Penon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5214,
+                    11.8022
+                ]
+            },
+            "properties": {
+                "title": "Montelimar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3606,
+                    11.6467
+                ]
+            },
+            "properties": {
+                "title": "Casares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.522,
+                    11.7791
+                ]
+            },
+            "properties": {
+                "title": "Masachapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8469,
+                    11.2147
+                ]
+            },
+            "properties": {
+                "title": "Tamarind"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8183,
+                    11.1809
+                ]
+            },
+            "properties": {
+                "title": "El Yanke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.6201,
+                    11.9109
+                ]
+            },
+            "properties": {
+                "title": "Gran Pacifica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8623,
+                    12.2586
+                ]
+            },
+            "properties": {
+                "title": "Salinas Grandes"
+            }
+        }
+    ]
+}

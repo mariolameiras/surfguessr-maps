@@ -1,0 +1,1539 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0676,
+                    29.5376
+                ]
+            },
+            "properties": {
+                "title": "Id Bouchini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.85735,
+                    30.624349773180274
+                ]
+            },
+            "properties": {
+                "title": "Draculas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.937,
+                    35.7745
+                ]
+            },
+            "properties": {
+                "title": "Cap Spartel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.557,
+                    33.23
+                ]
+            },
+            "properties": {
+                "title": "Sidi Bouzid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.98253,
+                    33.910787173991054
+                ]
+            },
+            "properties": {
+                "title": "Plage Les Princesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8244,
+                    31.096
+                ]
+            },
+            "properties": {
+                "title": "Tafedna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2731,
+                    35.6272
+                ]
+            },
+            "properties": {
+                "title": "Martil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8495,
+                    29.7907
+                ]
+            },
+            "properties": {
+                "title": "Azrau Zouggaghne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8415,
+                    29.7988
+                ]
+            },
+            "properties": {
+                "title": "Amane Imodane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.9311,
+                    27.9464
+                ]
+            },
+            "properties": {
+                "title": "Casamar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.72562,
+                    30.544006477861213
+                ]
+            },
+            "properties": {
+                "title": "Anchor Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8153,
+                    31.1947
+                ]
+            },
+            "properties": {
+                "title": "Iftane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7488,
+                    32.9984
+                ]
+            },
+            "properties": {
+                "title": "Sidi Abed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8327,
+                    29.8136
+                ]
+            },
+            "properties": {
+                "title": "Sidi Moussa d'Aglou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2856,
+                    34.9034
+                ]
+            },
+            "properties": {
+                "title": "Hjar Lamaarrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8008,
+                    31.2793
+                ]
+            },
+            "properties": {
+                "title": "Plage Takaouch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8325,
+                    31.1549
+                ]
+            },
+            "properties": {
+                "title": "Tassaksout n-Tahna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1782,
+                    29.3851
+                ]
+            },
+            "properties": {
+                "title": "Sidi Ifni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9715,
+                    32.7895
+                ]
+            },
+            "properties": {
+                "title": "Fetissa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2351,
+                    29.3111
+                ]
+            },
+            "properties": {
+                "title": "Boats point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7326,
+                    35.2221
+                ]
+            },
+            "properties": {
+                "title": "Plage Taghassa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6918,
+                    33.5892
+                ]
+            },
+            "properties": {
+                "title": "Ain Diab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2714,
+                    33.7753
+                ]
+            },
+            "properties": {
+                "title": "Loualja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.3384,
+                    28.4984
+                ]
+            },
+            "properties": {
+                "title": "Tan-Tan Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6983,
+                    34.2187
+                ]
+            },
+            "properties": {
+                "title": "Plage Sidi Boughaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2761,
+                    34.9256
+                ]
+            },
+            "properties": {
+                "title": "Kofe Hmam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0531,
+                    33.8699
+                ]
+            },
+            "properties": {
+                "title": "Plage de Skhirat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.25848,
+                    32.31853056
+                ]
+            },
+            "properties": {
+                "title": "Safi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.876,
+                    35.2029
+                ]
+            },
+            "properties": {
+                "title": "Plage Tayt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.3988,
+                    28.4168
+                ]
+            },
+            "properties": {
+                "title": "El Ouatia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4915,
+                    33.2495
+                ]
+            },
+            "properties": {
+                "title": "El Jadida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6064,
+                    30.4078
+                ]
+            },
+            "properties": {
+                "title": "Agadir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1494,
+                    35.2133
+                ]
+            },
+            "properties": {
+                "title": "Plage Ras Rmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7699,
+                    31.4986
+                ]
+            },
+            "properties": {
+                "title": "Essaouira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.131,
+                    32.6549
+                ]
+            },
+            "properties": {
+                "title": "Ouljat Oulad Ali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.814,
+                    31.3821
+                ]
+            },
+            "properties": {
+                "title": "Tagrioualet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.815,
+                    31.4299
+                ]
+            },
+            "properties": {
+                "title": "El Ma Lahlou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0985,
+                    33.4263
+                ]
+            },
+            "properties": {
+                "title": "Plage Half Moon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2415,
+                    32.5725
+                ]
+            },
+            "properties": {
+                "title": "Azalai Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7112,
+                    30.5425
+                ]
+            },
+            "properties": {
+                "title": "Panorama Point  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.73883,
+                    30.549671597798312
+                ]
+            },
+            "properties": {
+                "title": "Killers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8345,
+                    35.7943
+                ]
+            },
+            "properties": {
+                "title": "Plage Oued Lihoud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9315,
+                    35.2766
+                ]
+            },
+            "properties": {
+                "title": "La Izquierda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6698,
+                    30.0882
+                ]
+            },
+            "properties": {
+                "title": "Sidi-Rbat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.9846,
+                    27.8866
+                ]
+            },
+            "properties": {
+                "title": "Yoyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.9272,
+                    27.9476
+                ]
+            },
+            "properties": {
+                "title": "Tarfaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8769,
+                    32.8648
+                ]
+            },
+            "properties": {
+                "title": "Oulad Ghanem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8609,
+                    30.7131
+                ]
+            },
+            "properties": {
+                "title": "Tamri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2826,
+                    34.9098
+                ]
+            },
+            "properties": {
+                "title": "Hofret Jmal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.12916,
+                    33.83184722
+                ]
+            },
+            "properties": {
+                "title": "Oued Cherrat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3501,
+                    33.312
+                ]
+            },
+            "properties": {
+                "title": "Plage Azemmour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9725,
+                    35.6497
+                ]
+            },
+            "properties": {
+                "title": "Mrah Sebiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.66413,
+                    30.44687
+                ]
+            },
+            "properties": {
+                "title": "Anza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2645,
+                    33.7801
+                ]
+            },
+            "properties": {
+                "title": "Eden Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6738,
+                    34.269
+                ]
+            },
+            "properties": {
+                "title": "Plage Chelihate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.715966,
+                    30.545021
+                ]
+            },
+            "properties": {
+                "title": "Mysteries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.259630556,
+                    32.23053611
+                ]
+            },
+            "properties": {
+                "title": "The Money Wave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9311,
+                    35.7771
+                ]
+            },
+            "properties": {
+                "title": "Plage Sol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0427,
+                    32.7417
+                ]
+            },
+            "properties": {
+                "title": "El Oualidia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4061,
+                    35.137
+                ]
+            },
+            "properties": {
+                "title": "Plage Club Asasoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8248,
+                    31.3829
+                ]
+            },
+            "properties": {
+                "title": "Cap Sim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8938,
+                    35.2085
+                ]
+            },
+            "properties": {
+                "title": "Plage Sfiha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9425,
+                    32.8107
+                ]
+            },
+            "properties": {
+                "title": "Douar El Haitat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1543,
+                    32.6367
+                ]
+            },
+            "properties": {
+                "title": "Ouljat Ezzaouia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3506,
+                    35.7989
+                ]
+            },
+            "properties": {
+                "title": "Eden Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8309,
+                    32.907
+                ]
+            },
+            "properties": {
+                "title": "El Mkitaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.81096,
+                    30.837098989902422
+                ]
+            },
+            "properties": {
+                "title": "Imsouane (The Bay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.326,
+                    35.1576
+                ]
+            },
+            "properties": {
+                "title": "Plage Torres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3637,
+                    33.3056
+                ]
+            },
+            "properties": {
+                "title": "Haouzia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1537,
+                    35.2062
+                ]
+            },
+            "properties": {
+                "title": "Larrache"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4587,
+                    33.6714
+                ]
+            },
+            "properties": {
+                "title": "Paloma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.34522,
+                    33.72274
+                ]
+            },
+            "properties": {
+                "title": "Pont Blondin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.82337,
+                    30.84392
+                ]
+            },
+            "properties": {
+                "title": "Imsouane (Cathedral Point)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3036,
+                    34.8768
+                ]
+            },
+            "properties": {
+                "title": "Moulay Bousselham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9431,
+                    35.3045
+                ]
+            },
+            "properties": {
+                "title": "Horcas Coloradas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2378,
+                    32.4447
+                ]
+            },
+            "properties": {
+                "title": "Mgad Jmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2473,
+                    32.4246
+                ]
+            },
+            "properties": {
+                "title": "Lbarkou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3515,
+                    35.8087
+                ]
+            },
+            "properties": {
+                "title": "Plage El Amine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.789,
+                    31.4584
+                ]
+            },
+            "properties": {
+                "title": "Lkarkoura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.81752,
+                    33.53641111
+                ]
+            },
+            "properties": {
+                "title": "Dar Bouazza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7947,
+                    31.3178
+                ]
+            },
+            "properties": {
+                "title": "Plage Azrou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.87905,
+                    30.62215833
+                ]
+            },
+            "properties": {
+                "title": "Boilers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1677,
+                    32.6261
+                ]
+            },
+            "properties": {
+                "title": "Ouljat Oulad Said"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0602,
+                    29.5518
+                ]
+            },
+            "properties": {
+                "title": "Playa de Tamajarusch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.936,
+                    35.2818
+                ]
+            },
+            "properties": {
+                "title": "Dalila Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6854,
+                    30.5031
+                ]
+            },
+            "properties": {
+                "title": "Spiders"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0391,
+                    29.5931
+                ]
+            },
+            "properties": {
+                "title": "Mirleft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3324,
+                    35.1565
+                ]
+            },
+            "properties": {
+                "title": "Plage Sbae Bibane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9533,
+                    33.9318
+                ]
+            },
+            "properties": {
+                "title": "Plage de Temara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6869,
+                    30.5055
+                ]
+            },
+            "properties": {
+                "title": "Devils Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8411,
+                    31.3927
+                ]
+            },
+            "properties": {
+                "title": "And Tikinet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7395,
+                    34.1522
+                ]
+            },
+            "properties": {
+                "title": "Plage des Nations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9,
+                    35.2
+                ]
+            },
+            "properties": {
+                "title": "Plage Souani-Sfiha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8003,
+                    31.3529
+                ]
+            },
+            "properties": {
+                "title": "Sidi Kaouki "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6434,
+                    30.2018
+                ]
+            },
+            "properties": {
+                "title": "Tifnit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1521,
+                    33.82546944
+                ]
+            },
+            "properties": {
+                "title": "Bouznika Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.6065,
+                    28.9779
+                ]
+            },
+            "properties": {
+                "title": "Plage Blanche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8032,
+                    35.2035
+                ]
+            },
+            "properties": {
+                "title": "Plage Tanda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.837330556,
+                    34.03740833
+                ]
+            },
+            "properties": {
+                "title": "Doura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4622,
+                    34.5661
+                ]
+            },
+            "properties": {
+                "title": "Marsat Gaayad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6829,
+                    30.5014
+                ]
+            },
+            "properties": {
+                "title": "Banana Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9331,
+                    35.2779
+                ]
+            },
+            "properties": {
+                "title": "La Derecha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.79971,
+                    30.613534415707765
+                ]
+            },
+            "properties": {
+                "title": "Desert Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9443,
+                    35.738
+                ]
+            },
+            "properties": {
+                "title": "Plage de Sidi Kacem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0626,
+                    35.4232
+                ]
+            },
+            "properties": {
+                "title": "Plage Mhibet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8848,
+                    33.5093
+                ]
+            },
+            "properties": {
+                "title": "Jack Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9273,
+                    35.2766
+                ]
+            },
+            "properties": {
+                "title": "Dique Sur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2563,
+                    33.7821
+                ]
+            },
+            "properties": {
+                "title": "Choudir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0104,
+                    35.5338
+                ]
+            },
+            "properties": {
+                "title": "Briech"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1172,
+                    29.4466
+                ]
+            },
+            "properties": {
+                "title": "Legzira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9374,
+                    35.7664
+                ]
+            },
+            "properties": {
+                "title": "Achakar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9353,
+                    35.2789
+                ]
+            },
+            "properties": {
+                "title": "Pico del Chino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6818,
+                    34.2595
+                ]
+            },
+            "properties": {
+                "title": "Mehdya Plage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.8194,
+                    31.1796
+                ]
+            },
+            "properties": {
+                "title": "Imouftas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.784,
+                    35.2142
+                ]
+            },
+            "properties": {
+                "title": "Plage Harch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7781,
+                    31.4792
+                ]
+            },
+            "properties": {
+                "title": "Ord Omar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3435,
+                    35.872
+                ]
+            },
+            "properties": {
+                "title": "Playa del Tarajal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6487,
+                    35.8275
+                ]
+            },
+            "properties": {
+                "title": "Plage Oued Allyene"
+            }
+        }
+    ]
+}

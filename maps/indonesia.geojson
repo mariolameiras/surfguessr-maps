@@ -1,0 +1,3086 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.1106,
+                    2.012
+                ]
+            },
+            "properties": {
+                "title": "Cobras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.3355,
+                    2.0523
+                ]
+            },
+            "properties": {
+                "title": "Dindos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.379,
+                    -8.8235
+                ]
+            },
+            "properties": {
+                "title": "Cobblestones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.511,
+                    -8.535
+                ]
+            },
+            "properties": {
+                "title": "Padangbai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5571,
+                    -2.041
+                ]
+            },
+            "properties": {
+                "title": "Suicides - Central Mentawai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.306,
+                    -6.9923
+                ]
+            },
+            "properties": {
+                "title": "Sawarna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.0235,
+                    -5.3542
+                ]
+            },
+            "properties": {
+                "title": "Way Jambu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.85916,
+                    -2.375641667
+                ]
+            },
+            "properties": {
+                "title": "Lances Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.285,
+                    -8.903055556
+                ]
+            },
+            "properties": {
+                "title": "Kuta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3825,
+                    -8.810277778
+                ]
+            },
+            "properties": {
+                "title": "Periscopes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.147,
+                    -3.0053
+                ]
+            },
+            "properties": {
+                "title": "Rag's Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.552,
+                    -5.9142
+                ]
+            },
+            "properties": {
+                "title": "Balimbing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.0661,
+                    -7.9136
+                ]
+            },
+            "properties": {
+                "title": "Pantai Glagah Indah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.04,
+                    -8.5027
+                ]
+            },
+            "properties": {
+                "title": "Senggigi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.2827,
+                    5.1972
+                ]
+            },
+            "properties": {
+                "title": "Lamno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.3191,
+                    2.3528
+                ]
+            },
+            "properties": {
+                "title": "Dylan's Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.0328,
+                    -7.9008
+                ]
+            },
+            "properties": {
+                "title": "Pantai Congot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.438,
+                    -8.7056
+                ]
+            },
+            "properties": {
+                "title": "Ceningan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5465,
+                    -2.0213
+                ]
+            },
+            "properties": {
+                "title": "Iceland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.158,
+                    -8.8873
+                ]
+            },
+            "properties": {
+                "title": "Mawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.99,
+                    -2.789
+                ]
+            },
+            "properties": {
+                "title": "Macaronis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.4354,
+                    4.8057
+                ]
+            },
+            "properties": {
+                "title": "Babah Nipah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98,
+                    1
+                ]
+            },
+            "properties": {
+                "title": "Hiliduha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.767,
+                    -5.0399
+                ]
+            },
+            "properties": {
+                "title": "Jennys Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.695,
+                    -3.4726
+                ]
+            },
+            "properties": {
+                "title": "Sanding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.96573,
+                    -8.50559
+                ]
+            },
+            "properties": {
+                "title": "Balian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.4225,
+                    -27.196
+                ]
+            },
+            "properties": {
+                "title": "Rapa Nui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.61823,
+                    -8.482792
+                ]
+            },
+            "properties": {
+                "title": "Jasri Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853,
+                    -5.1246
+                ]
+            },
+            "properties": {
+                "title": "Pulau Pisang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.108,
+                    -8.807
+                ]
+            },
+            "properties": {
+                "title": "Impossibles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.628,
+                    -8.826
+                ]
+            },
+            "properties": {
+                "title": "Dedjoeng Wane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.252,
+                    -1.846
+                ]
+            },
+            "properties": {
+                "title": "Nipussi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3177,
+                    -1.9072
+                ]
+            },
+            "properties": {
+                "title": "A-Frames"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.17275,
+                    -6.601088889
+                ]
+            },
+            "properties": {
+                "title": "Inside Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.3652,
+                    4.9479
+                ]
+            },
+            "properties": {
+                "title": "Left Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.80458,
+                    -8.422647222
+                ]
+            },
+            "properties": {
+                "title": "Medewi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3321,
+                    -0.8658
+                ]
+            },
+            "properties": {
+                "title": "Muaro Pasir Putih"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.15,
+                    -8.6833
+                ]
+            },
+            "properties": {
+                "title": "Seminyak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.6617,
+                    0.6724
+                ]
+            },
+            "properties": {
+                "title": "Secret (Nias)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.284,
+                    -8.644
+                ]
+            },
+            "properties": {
+                "title": "Ketewel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.6508,
+                    2.0559
+                ]
+            },
+            "properties": {
+                "title": "Pulau Babi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.6315,
+                    -8.4715
+                ]
+            },
+            "properties": {
+                "title": "Pantai Ujung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.34882,
+                    -8.7269
+                ]
+            },
+            "properties": {
+                "title": "G-land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.23273,
+                    -8.788227778
+                ]
+            },
+            "properties": {
+                "title": "Sri Lanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83061,
+                    -6.2312104
+                ]
+            },
+            "properties": {
+                "title": "Pasauran Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.31243847361702,
+                    -1.8566433992814477
+                ]
+            },
+            "properties": {
+                "title": "Wavepark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.1167306,
+                    -6.631141667
+                ]
+            },
+            "properties": {
+                "title": "Bombies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.335603,
+                    -8.600811
+                ]
+            },
+            "properties": {
+                "title": "Keramas KFC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.272,
+                    -8.6899
+                ]
+            },
+            "properties": {
+                "title": "Tanjung Sari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3825,
+                    -8.810277778
+                ]
+            },
+            "properties": {
+                "title": "Lakey Peak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.767,
+                    -8.6763
+                ]
+            },
+            "properties": {
+                "title": "Northern Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.089,
+                    -8.814
+                ]
+            },
+            "properties": {
+                "title": "Uluwatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.39863,
+                    -7.347966667
+                ]
+            },
+            "properties": {
+                "title": "Turtles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0193,
+                    4.1997
+                ]
+            },
+            "properties": {
+                "title": "Kuala Bubon Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.23035,
+                    -8.820544444
+                ]
+            },
+            "properties": {
+                "title": "Nusa Dua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.559,
+                    -2.0281
+                ]
+            },
+            "properties": {
+                "title": "Ariks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.13258,
+                    -8.66248
+                ]
+            },
+            "properties": {
+                "title": "Nelayan Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.355,
+                    -8.9126
+                ]
+            },
+            "properties": {
+                "title": "Don-Don"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.833325,
+                    -2.372408333
+                ]
+            },
+            "properties": {
+                "title": "Lances Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3108,
+                    -1.9091
+                ]
+            },
+            "properties": {
+                "title": "4 Bobs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.927,
+                    -5.1921
+                ]
+            },
+            "properties": {
+                "title": "Krui Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.34889,
+                    -8.929166667
+                ]
+            },
+            "properties": {
+                "title": "Grupuk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.229,
+                    1.2575
+                ]
+            },
+            "properties": {
+                "title": "Afulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.82417,
+                    -8.749722222
+                ]
+            },
+            "properties": {
+                "title": "Desert Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.248,
+                    -3.7843
+                ]
+            },
+            "properties": {
+                "title": "Bengkulu Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5528,
+                    -2.0275
+                ]
+            },
+            "properties": {
+                "title": "Ombak Tidur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.7423,
+                    0.5746
+                ]
+            },
+            "properties": {
+                "title": "The Machine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.23046,
+                    5.47916
+                ]
+            },
+            "properties": {
+                "title": "A-Frame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.441,
+                    -8.8802
+                ]
+            },
+            "properties": {
+                "title": "Inside Ekas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.96797,
+                    -5.2503096005120105
+                ]
+            },
+            "properties": {
+                "title": "Mandiri Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2624,
+                    -3.8084
+                ]
+            },
+            "properties": {
+                "title": "Bengkulu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.5704,
+                    -8.8794
+                ]
+            },
+            "properties": {
+                "title": "Tanjung Bloam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.13854,
+                    -8.667599636621585
+                ]
+            },
+            "properties": {
+                "title": "Berawa Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.519,
+                    -3.246
+                ]
+            },
+            "properties": {
+                "title": "The Hole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.72972,
+                    -8.974722222
+                ]
+            },
+            "properties": {
+                "title": "Yo-Yos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.74,
+                    -8.932222222
+                ]
+            },
+            "properties": {
+                "title": "Supersuck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.2284,
+                    5.4936
+                ]
+            },
+            "properties": {
+                "title": "Lampuuk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.13128,
+                    2.01163
+                ]
+            },
+            "properties": {
+                "title": "Treasure Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.442,
+                    -8.6655
+                ]
+            },
+            "properties": {
+                "title": "Shipwrecks and Razors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.091,
+                    -0.6413
+                ]
+            },
+            "properties": {
+                "title": "Pariaman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.1457,
+                    -1.8075
+                ]
+            },
+            "properties": {
+                "title": "Taileleo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.5258,
+                    -4.8969
+                ]
+            },
+            "properties": {
+                "title": "Harin Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.37126,
+                    -7.276458333
+                ]
+            },
+            "properties": {
+                "title": "Ombak Tujuh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1643,
+                    -8.7037
+                ]
+            },
+            "properties": {
+                "title": "Legian Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84048,
+                    -6.3080502
+                ]
+            },
+            "properties": {
+                "title": "Lippo Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.244,
+                    -1.852
+                ]
+            },
+            "properties": {
+                "title": "Bankvaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.2286083,
+                    -6.95835
+                ]
+            },
+            "properties": {
+                "title": "Baya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.572,
+                    -3.2563
+                ]
+            },
+            "properties": {
+                "title": "Lighthouse / Pagai Selatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.3161,
+                    -4.775
+                ]
+            },
+            "properties": {
+                "title": "Sekunyit Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.1336417,
+                    -6.614741667
+                ]
+            },
+            "properties": {
+                "title": "Panaitan Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.799,
+                    -9.0377
+                ]
+            },
+            "properties": {
+                "title": "Sejorong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.0446,
+                    5.6955
+                ]
+            },
+            "properties": {
+                "title": "Blangujung Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374,
+                    -8.7076
+                ]
+            },
+            "properties": {
+                "title": "20/20's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.12,
+                    -8.794
+                ]
+            },
+            "properties": {
+                "title": "Balangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.8155,
+                    -12.179902
+                ]
+            },
+            "properties": {
+                "title": "North Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.2617,
+                    2.3629
+                ]
+            },
+            "properties": {
+                "title": "Tea Bags"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.861,
+                    -10.9295
+                ]
+            },
+            "properties": {
+                "title": "Boa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.739,
+                    -8.9996
+                ]
+            },
+            "properties": {
+                "title": "Tropical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.1928,
+                    -7.9764
+                ]
+            },
+            "properties": {
+                "title": "Pantai Trisik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.1447,
+                    5.5994
+                ]
+            },
+            "properties": {
+                "title": "Lam Tadoh Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.6819,
+                    0.6012
+                ]
+            },
+            "properties": {
+                "title": "Walohiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5582,
+                    -1.9918
+                ]
+            },
+            "properties": {
+                "title": "Silabok Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.12573242187,
+                    -8.950192825865
+                ]
+            },
+            "properties": {
+                "title": "Kuta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.44054,
+                    -8.679139295822806
+                ]
+            },
+            "properties": {
+                "title": "Nusa Lembongan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.05469,
+                    -8.5893141
+                ]
+            },
+            "properties": {
+                "title": "Yeh Gangga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.8915,
+                    0.6176
+                ]
+            },
+            "properties": {
+                "title": "Hilisataro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9786,
+                    -2.7905
+                ]
+            },
+            "properties": {
+                "title": "Macaronis Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.8234,
+                    -2.3714
+                ]
+            },
+            "properties": {
+                "title": "Bintangs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.11106,
+                    -1.796156
+                ]
+            },
+            "properties": {
+                "title": "Pantai Matras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.841,
+                    -10.9727
+                ]
+            },
+            "properties": {
+                "title": "N'Dana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.348,
+                    -4.803
+                ]
+            },
+            "properties": {
+                "title": "Timo Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.2932,
+                    -1.899
+                ]
+            },
+            "properties": {
+                "title": "Kandui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4595,
+                    -8.9192
+                ]
+            },
+            "properties": {
+                "title": "Pantai Bertok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4543,
+                    -8.9211
+                ]
+            },
+            "properties": {
+                "title": "Pantai Rawan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.504,
+                    -8.9152
+                ]
+            },
+            "properties": {
+                "title": "Sereweh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.35,
+                    0.81
+                ]
+            },
+            "properties": {
+                "title": "Bawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.302,
+                    -1.85
+                ]
+            },
+            "properties": {
+                "title": "Hideaways"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.113,
+                    -8.804
+                ]
+            },
+            "properties": {
+                "title": "Bingin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104,
+                    -5.3
+                ]
+            },
+            "properties": {
+                "title": "Ujung Bocur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.91,
+                    -5.2386
+                ]
+            },
+            "properties": {
+                "title": "The Peak - Krui"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.81,
+                    -10.87
+                ]
+            },
+            "properties": {
+                "title": "Palau Rote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.2969,
+                    -1.6738
+                ]
+            },
+            "properties": {
+                "title": "Losmen Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.253,
+                    -1.832
+                ]
+            },
+            "properties": {
+                "title": "Pitstops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3152,
+                    -1.895
+                ]
+            },
+            "properties": {
+                "title": "Chubbies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3201,
+                    -1.9202
+                ]
+            },
+            "properties": {
+                "title": "Rifles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.084,
+                    -5.3361
+                ]
+            },
+            "properties": {
+                "title": "Enggano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.165,
+                    -8.715
+                ]
+            },
+            "properties": {
+                "title": "Kuta Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.2188,
+                    2.459
+                ]
+            },
+            "properties": {
+                "title": "Pippas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.441,
+                    -8.6776
+                ]
+            },
+            "properties": {
+                "title": "Playgrounds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.3278,
+                    2.0412
+                ]
+            },
+            "properties": {
+                "title": "Lolok Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.376,
+                    -8.7956
+                ]
+            },
+            "properties": {
+                "title": "Nungas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.2635,
+                    0.9118
+                ]
+            },
+            "properties": {
+                "title": "Asu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.296,
+                    -3.2062
+                ]
+            },
+            "properties": {
+                "title": "Solawi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.27162,
+                    -8.67685
+                ]
+            },
+            "properties": {
+                "title": "Sanur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3112,
+                    -1.9054
+                ]
+            },
+            "properties": {
+                "title": "Karamba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.1761,
+                    -1.8856
+                ]
+            },
+            "properties": {
+                "title": "Tikus Emas Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.265,
+                    -1.815
+                ]
+            },
+            "properties": {
+                "title": "Beng Bengs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.752,
+                    -10.8299
+                ]
+            },
+            "properties": {
+                "title": "Do'o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.088,
+                    -8.3639
+                ]
+            },
+            "properties": {
+                "title": "Gili Air"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9799,
+                    -2.7449
+                ]
+            },
+            "properties": {
+                "title": "Silabu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.363,
+                    -0.9942
+                ]
+            },
+            "properties": {
+                "title": "Pantai Air Manis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.12092,
+                    -8.651553
+                ]
+            },
+            "properties": {
+                "title": "Pererenan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1704,
+                    -8.851288889
+                ]
+            },
+            "properties": {
+                "title": "Green Ball"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.635,
+                    -10.8061
+                ]
+            },
+            "properties": {
+                "title": "Ndao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.931,
+                    -5.1884
+                ]
+            },
+            "properties": {
+                "title": "Krui Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.75806,
+                    -8.854444444
+                ]
+            },
+            "properties": {
+                "title": "Scar Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.15,
+                    -8.745
+                ]
+            },
+            "properties": {
+                "title": "Airport Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.822,
+                    -10.9261
+                ]
+            },
+            "properties": {
+                "title": "Peanuts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1275,
+                    -8.658239153703311
+                ]
+            },
+            "properties": {
+                "title": "Old Mans - Batu-Bolong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.15,
+                    -3.0274
+                ]
+            },
+            "properties": {
+                "title": "Rag's Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.24309,
+                    -8.742483333
+                ]
+            },
+            "properties": {
+                "title": "Serangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.03167,
+                    -8.872222222
+                ]
+            },
+            "properties": {
+                "title": "Belongas Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.1726,
+                    -3.054130556
+                ]
+            },
+            "properties": {
+                "title": "Thunders Mentawais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.5,
+                    2.3629
+                ]
+            },
+            "properties": {
+                "title": "Thailand - Simeulue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.0903,
+                    2.0513
+                ]
+            },
+            "properties": {
+                "title": "Turtles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.3299,
+                    5.8997
+                ]
+            },
+            "properties": {
+                "title": "Sabang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.269,
+                    -10.8275
+                ]
+            },
+            "properties": {
+                "title": "Pulau Dana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.38683,
+                    1.97629
+                ]
+            },
+            "properties": {
+                "title": "Lizards Nest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.709,
+                    -8.8039
+                ]
+            },
+            "properties": {
+                "title": "Wara Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.99361,
+                    -5.92935
+                ]
+            },
+            "properties": {
+                "title": "Jambu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1254,
+                    4.129
+                ]
+            },
+            "properties": {
+                "title": "Ujong Karang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.505,
+                    -8.6353
+                ]
+            },
+            "properties": {
+                "title": "Tanjung Kucur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.09185,
+                    -8.841166667
+                ]
+            },
+            "properties": {
+                "title": "Nyang Nyang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.48007,
+                    -6.962980556
+                ]
+            },
+            "properties": {
+                "title": "Cimaja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.5051,
+                    -7.7477
+                ]
+            },
+            "properties": {
+                "title": "Batu Karas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.2403,
+                    5.4495
+                ]
+            },
+            "properties": {
+                "title": "Cement Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.6325,
+                    4.5977
+                ]
+            },
+            "properties": {
+                "title": "Sawangbunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374,
+                    -8.6854
+                ]
+            },
+            "properties": {
+                "title": "Tiger Tracks Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.81222,
+                    -10.88944444
+                ]
+            },
+            "properties": {
+                "title": "T-Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.906,
+                    -5.2055
+                ]
+            },
+            "properties": {
+                "title": "Ujung Walur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5257,
+                    -2.1531
+                ]
+            },
+            "properties": {
+                "title": "7 Palms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.84,
+                    -10.4588
+                ]
+            },
+            "properties": {
+                "title": "Savu Right"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.292,
+                    -8.9094
+                ]
+            },
+            "properties": {
+                "title": "Segar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.2405,
+                    5.4253
+                ]
+            },
+            "properties": {
+                "title": "Pantai Camara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.796,
+                    -10.5067
+                ]
+            },
+            "properties": {
+                "title": "Savu Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.377,
+                    -8.8025
+                ]
+            },
+            "properties": {
+                "title": "No Man's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.06,
+                    -2.821
+                ]
+            },
+            "properties": {
+                "title": "Greenbush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.195,
+                    -3.075
+                ]
+            },
+            "properties": {
+                "title": "Sibigau Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.1507639,
+                    -6.594725
+                ]
+            },
+            "properties": {
+                "title": "Inside Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.72747,
+                    0.5657008764980708
+                ]
+            },
+            "properties": {
+                "title": "Lagundri Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.063,
+                    -5.3913
+                ]
+            },
+            "properties": {
+                "title": "Bali Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.54536,
+                    -2.066722222
+                ]
+            },
+            "properties": {
+                "title": "Telescopes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.12504,
+                    -8.656545939486934
+                ]
+            },
+            "properties": {
+                "title": "Canggu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.164,
+                    -8.7062
+                ]
+            },
+            "properties": {
+                "title": "Padma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.33908,
+                    -8.598583333
+                ]
+            },
+            "properties": {
+                "title": "Keramas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2432,
+                    -3.7875
+                ]
+            },
+            "properties": {
+                "title": "Katung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.1546,
+                    -8.731741667
+                ]
+            },
+            "properties": {
+                "title": "Kuta Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.372,
+                    -8.6908
+                ]
+            },
+            "properties": {
+                "title": "Tiger Tracks Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.0953,
+                    -1.8624
+                ]
+            },
+            "properties": {
+                "title": "Promises"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.297,
+                    -5.6274
+                ]
+            },
+            "properties": {
+                "title": "Benkunqut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.742,
+                    -5.008
+                ]
+            },
+            "properties": {
+                "title": "Jimmys Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2515,
+                    -3.7828
+                ]
+            },
+            "properties": {
+                "title": "Batu Duo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.254,
+                    -1.829
+                ]
+            },
+            "properties": {
+                "title": "E-bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.2254,
+                    -8.778
+                ]
+            },
+            "properties": {
+                "title": "Pantai Nusadua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.04,
+                    -8.3635
+                ]
+            },
+            "properties": {
+                "title": "Gili Trawangan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.44222,
+                    -8.899444444
+                ]
+            },
+            "properties": {
+                "title": "Ekas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.0518,
+                    5.6693
+                ]
+            },
+            "properties": {
+                "title": "Lambaro Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.441,
+                    -8.6722
+                ]
+            },
+            "properties": {
+                "title": "Lacerations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.2668,
+                    -8.6828
+                ]
+            },
+            "properties": {
+                "title": "Sindhu Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.151,
+                    -1.84
+                ]
+            },
+            "properties": {
+                "title": "Burgerworld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.21,
+                    -5.5206
+                ]
+            },
+            "properties": {
+                "title": "Ujung Siging"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53,
+                    -10.6224
+                ]
+            },
+            "properties": {
+                "title": "Raijua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.396,
+                    -8.8578
+                ]
+            },
+            "properties": {
+                "title": "Nangadoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.11733,
+                    -8.798916667
+                ]
+            },
+            "properties": {
+                "title": "Dreamland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.5373,
+                    4.6571
+                ]
+            },
+            "properties": {
+                "title": "Calang Reefs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.8531,
+                    0.5857
+                ]
+            },
+            "properties": {
+                "title": "Hiliduha / Dipi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.1734,
+                    -6.655161111
+                ]
+            },
+            "properties": {
+                "title": "One Palm Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.272,
+                    -8.715
+                ]
+            },
+            "properties": {
+                "title": "Hyatt Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.245,
+                    -8.9071
+                ]
+            },
+            "properties": {
+                "title": "Air Guling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.10105,
+                    -8.810197222
+                ]
+            },
+            "properties": {
+                "title": "Padang Padang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.3257,
+                    2.0524
+                ]
+            },
+            "properties": {
+                "title": "Gunturs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.78,
+                    2.1384
+                ]
+            },
+            "properties": {
+                "title": "Sidewalk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.544,
+                    2.6089
+                ]
+            },
+            "properties": {
+                "title": "Village Reform"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.498,
+                    2.5851
+                ]
+            },
+            "properties": {
+                "title": "Serenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.324,
+                    -8.0269
+                ]
+            },
+            "properties": {
+                "title": "Parangtritis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.054,
+                    2.2018
+                ]
+            },
+            "properties": {
+                "title": "Heavy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.691,
+                    2.3878
+                ]
+            },
+            "properties": {
+                "title": "Pulau Kecil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.541,
+                    2.6165
+                ]
+            },
+            "properties": {
+                "title": "Indo Jiwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.476,
+                    2.5954
+                ]
+            },
+            "properties": {
+                "title": "Short Ledge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.636,
+                    -7.6911
+                ]
+            },
+            "properties": {
+                "title": "Pangandaran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.983,
+                    2.1869
+                ]
+            },
+            "properties": {
+                "title": "Double Dome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.056,
+                    1.7582
+                ]
+            },
+            "properties": {
+                "title": "Atoll Reefs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.824,
+                    2.2581
+                ]
+            },
+            "properties": {
+                "title": "Coconut Swing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.788,
+                    2.1306
+                ]
+            },
+            "properties": {
+                "title": "Racing Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.004,
+                    -9.6386
+                ]
+            },
+            "properties": {
+                "title": "Wainjapu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.983,
+                    -9.6131
+                ]
+            },
+            "properties": {
+                "title": "Pero Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.097,
+                    -10.3305
+                ]
+            },
+            "properties": {
+                "title": "Mangkudu Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.092,
+                    -8.2203
+                ]
+            },
+            "properties": {
+                "title": "Pacitan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.925,
+                    -9.985
+                ]
+            },
+            "properties": {
+                "title": "Miller's Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58,
+                    -10.2549
+                ]
+            },
+            "properties": {
+                "title": "Racetrack - Sumba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591,
+                    -10.2594
+                ]
+            },
+            "properties": {
+                "title": "Five-O"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.372,
+                    -9.7817
+                ]
+            },
+            "properties": {
+                "title": "Nihiwatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.451,
+                    -9.7519
+                ]
+            },
+            "properties": {
+                "title": "Wainukaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.285,
+                    -9.7543
+                ]
+            },
+            "properties": {
+                "title": "Pantai Marosi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574,
+                    -10.2487
+                ]
+            },
+            "properties": {
+                "title": "Watu Libung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574,
+                    -10.2446
+                ]
+            },
+            "properties": {
+                "title": "The Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.982,
+                    -9.6074
+                ]
+            },
+            "properties": {
+                "title": "Pero Rights"
+            }
+        }
+    ]
+}

@@ -1,0 +1,5075 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7764,
+                    43.7341
+                ]
+            },
+            "properties": {
+                "title": "Praia Sarridal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44171,
+                    36.68589431852787
+                ]
+            },
+            "properties": {
+                "title": "La Misericordia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6981,
+                    43.2941
+                ]
+            },
+            "properties": {
+                "title": "Razo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6391,
+                    43.5483
+                ]
+            },
+            "properties": {
+                "title": "Playa del Cervig\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.97333,
+                    43.32722222
+                ]
+            },
+            "properties": {
+                "title": "La Zurriola "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11881,
+                    42.140702
+                ]
+            },
+            "properties": {
+                "title": "Platja de Sant Mart\u00ed d'Emp\u00faries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2492,
+                    41.4437
+                ]
+            },
+            "properties": {
+                "title": "Platja de  Badalona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0714,
+                    37.5839
+                ]
+            },
+            "properties": {
+                "title": "Playa de Portus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.466,
+                    38.684
+                ]
+            },
+            "properties": {
+                "title": "Platja Migjorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5942,
+                    39.0528
+                ]
+            },
+            "properties": {
+                "title": "Platja des Figueral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9961,
+                    43.5546
+                ]
+            },
+            "properties": {
+                "title": "Pe\u00f1arronda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1388,
+                    43.4817
+                ]
+            },
+            "properties": {
+                "title": "Playa Vega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.239444444,
+                    43.30777778
+                ]
+            },
+            "properties": {
+                "title": "Roca Puta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4067,
+                    38.3955
+                ]
+            },
+            "properties": {
+                "title": "Playa Muchavista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.098,
+                    42.752
+                ]
+            },
+            "properties": {
+                "title": "Louro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3758,
+                    43.403878
+                ]
+            },
+            "properties": {
+                "title": "Playa de Meron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.583,
+                    41.1875
+                ]
+            },
+            "properties": {
+                "title": "Platja de Segur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.52315,
+                    43.337717
+                ]
+            },
+            "properties": {
+                "title": "Playa de Sabon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0045,
+                    43.3179
+                ]
+            },
+            "properties": {
+                "title": "Ondarreta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4699,
+                    39.712
+                ]
+            },
+            "properties": {
+                "title": "Cala Ratjada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6396,
+                    36.5065
+                ]
+            },
+            "properties": {
+                "title": "Faro de Calaburra - Andalucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9789,
+                    43.4474
+                ]
+            },
+            "properties": {
+                "title": "Playa de Valdearnas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2662,
+                    43.5579
+                ]
+            },
+            "properties": {
+                "title": "Ponzos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.51804,
+                    36.59375
+                ]
+            },
+            "properties": {
+                "title": "Malapesquera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7243,
+                    37.605
+                ]
+            },
+            "properties": {
+                "title": "Cala Magre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9651,
+                    43.4517
+                ]
+            },
+            "properties": {
+                "title": "Liencres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0746,
+                    40.0601
+                ]
+            },
+            "properties": {
+                "title": "Platja de Cavalleria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.84049,
+                    36.50189
+                ]
+            },
+            "properties": {
+                "title": "Los Monteros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4558,
+                    39.5337
+                ]
+            },
+            "properties": {
+                "title": "Paguera - Mallorca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.275,
+                    38.9706
+                ]
+            },
+            "properties": {
+                "title": "Can Pujols"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1466,
+                    38.5361
+                ]
+            },
+            "properties": {
+                "title": "Playa de Poniente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.69472,
+                    43.40861111
+                ]
+            },
+            "properties": {
+                "title": "Mundaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8789,
+                    43.6266
+                ]
+            },
+            "properties": {
+                "title": "Verdicio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6523,
+                    43.5421
+                ]
+            },
+            "properties": {
+                "title": "San Lorenzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.77872,
+                    43.477566
+                ]
+            },
+            "properties": {
+                "title": "Santander (El Sardinero)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0125,
+                    37.5805
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Parajola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5207,
+                    38.2891
+                ]
+            },
+            "properties": {
+                "title": "Playa del Saladar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.972,
+                    36.4784
+                ]
+            },
+            "properties": {
+                "title": "El Largo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.633,
+                    36.712
+                ]
+            },
+            "properties": {
+                "title": "Playa Serena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1579,
+                    39.837
+                ]
+            },
+            "properties": {
+                "title": "Aucanada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4787,
+                    40.4691
+                ]
+            },
+            "properties": {
+                "title": "Platja del Fort\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4093,
+                    38.8884
+                ]
+            },
+            "properties": {
+                "title": "Platja d'en Bossa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.048,
+                    43.439
+                ]
+            },
+            "properties": {
+                "title": "Los Locos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9881,
+                    43.317
+                ]
+            },
+            "properties": {
+                "title": "Kontxa / La Concha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2629,
+                    42.9199
+                ]
+            },
+            "properties": {
+                "title": "Playa de Langosteira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4437,
+                    38.3631
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Albufereta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.53366,
+                    36.58174
+                ]
+            },
+            "properties": {
+                "title": "El Sunset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.183,
+                    38.7864
+                ]
+            },
+            "properties": {
+                "title": "La Siesta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8303,
+                    42.1532
+                ]
+            },
+            "properties": {
+                "title": "Playa Abra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2296,
+                    41.9604
+                ]
+            },
+            "properties": {
+                "title": "Platja Sa Tuna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5825,
+                    39.0082
+                ]
+            },
+            "properties": {
+                "title": "Cala Nova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8093,
+                    43.7186
+                ]
+            },
+            "properties": {
+                "title": "Playa de A Concha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6665,
+                    43.3022
+                ]
+            },
+            "properties": {
+                "title": "Playa de Baldayo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7773,
+                    43.4663
+                ]
+            },
+            "properties": {
+                "title": "Playa Los Peligros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.38583,
+                    43.53583333
+                ]
+            },
+            "properties": {
+                "title": "Rodiles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8818,
+                    41.9998
+                ]
+            },
+            "properties": {
+                "title": "Santa Maria de Oia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.72,
+                    37.662
+                ]
+            },
+            "properties": {
+                "title": "La Manga del Mar Menor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.48152,
+                    43.484152
+                ]
+            },
+            "properties": {
+                "title": "El Brusco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2901,
+                    43.5565
+                ]
+            },
+            "properties": {
+                "title": "Praia de Santa Comba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.20765,
+                    41.394205
+                ]
+            },
+            "properties": {
+                "title": "Bogatell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3157,
+                    35.8872
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Ribera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.76777,
+                    36.08379
+                ]
+            },
+            "properties": {
+                "title": "Bolonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4585,
+                    36.69585
+                ]
+            },
+            "properties": {
+                "title": "La Chucha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.24,
+                    43.578
+                ]
+            },
+            "properties": {
+                "title": "Foz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1679,
+                    43.5544
+                ]
+            },
+            "properties": {
+                "title": "Reinante"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2726,
+                    40.2301
+                ]
+            },
+            "properties": {
+                "title": "Playa del Moro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0682,
+                    43.4661
+                ]
+            },
+            "properties": {
+                "title": "Ribadesella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.279,
+                    43.5884
+                ]
+            },
+            "properties": {
+                "title": "Praia de Peiz\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4606,
+                    41.5423
+                ]
+            },
+            "properties": {
+                "title": "Playa de Sant Sim\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5905,
+                    43.5479
+                ]
+            },
+            "properties": {
+                "title": "Playa De La \u00d1ora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2974,
+                    43.535
+                ]
+            },
+            "properties": {
+                "title": "San Xorxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8322,
+                    41.6939
+                ]
+            },
+            "properties": {
+                "title": "Platja de Fenals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.038,
+                    43.37
+                ]
+            },
+            "properties": {
+                "title": "Punta Galea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.676,
+                    39.5545
+                ]
+            },
+            "properties": {
+                "title": "Cero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.11483,
+                    43.641251
+                ]
+            },
+            "properties": {
+                "title": "Pantin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7085,
+                    37.619
+                ]
+            },
+            "properties": {
+                "title": "Playa del Descargador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8711,
+                    43.4433
+                ]
+            },
+            "properties": {
+                "title": "San Antolin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.097,
+                    36.274
+                ]
+            },
+            "properties": {
+                "title": "Conil de la Frontera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8823,
+                    41.7043
+                ]
+            },
+            "properties": {
+                "title": "Platja de Canyelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.611,
+                    43.317
+                ]
+            },
+            "properties": {
+                "title": "Caion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0229,
+                    36.7445
+                ]
+            },
+            "properties": {
+                "title": "Lagos - Andalucia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8482,
+                    41.6977
+                ]
+            },
+            "properties": {
+                "title": "Platja de Lloret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281,
+                    39.813
+                ]
+            },
+            "properties": {
+                "title": "Punta Prima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.113611111,
+                    43.64083333
+                ]
+            },
+            "properties": {
+                "title": "Playa de Rodo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9223,
+                    43.6064
+                ]
+            },
+            "properties": {
+                "title": "Xago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4779,
+                    38.345
+                ]
+            },
+            "properties": {
+                "title": "Playa del Postiguet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9838,
+                    41.0393
+                ]
+            },
+            "properties": {
+                "title": "Els Prats"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.42972,
+                    36.81059
+                ]
+            },
+            "properties": {
+                "title": "El rio (Almeria)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4332,
+                    43.4186
+                ]
+            },
+            "properties": {
+                "title": "Laredo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2795,
+                    36.5051
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Victoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034,
+                    39.916
+                ]
+            },
+            "properties": {
+                "title": "Sant Tomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2948,
+                    39.8298
+                ]
+            },
+            "properties": {
+                "title": "Cala d'Alcaufar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.068,
+                    39.899
+                ]
+            },
+            "properties": {
+                "title": "Son Bou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6207,
+                    36.536
+                ]
+            },
+            "properties": {
+                "title": "Fuengirola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.596,
+                    43.555
+                ]
+            },
+            "properties": {
+                "title": "Otur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6701,
+                    37.9765
+                ]
+            },
+            "properties": {
+                "title": "Playa del Cura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4203,
+                    38.3537
+                ]
+            },
+            "properties": {
+                "title": "Cala Cantalar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0108,
+                    36.1819
+                ]
+            },
+            "properties": {
+                "title": "Los Ca\u00f1os"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6894,
+                    43.4768
+                ]
+            },
+            "properties": {
+                "title": "Langre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3279,
+                    39.3822
+                ]
+            },
+            "properties": {
+                "title": "El Saler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.98667,
+                    43.397
+                ]
+            },
+            "properties": {
+                "title": "Menakoz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7364,
+                    40.6202
+                ]
+            },
+            "properties": {
+                "title": "Platja Salvatge Del Trabucador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08516,
+                    40.0554286
+                ]
+            },
+            "properties": {
+                "title": "Voramar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02589,
+                    39.9784553
+                ]
+            },
+            "properties": {
+                "title": "Planetario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4336,
+                    41.1523
+                ]
+            },
+            "properties": {
+                "title": "Playa de Creixell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1226,
+                    38.9573
+                ]
+            },
+            "properties": {
+                "title": "Platja de Miramar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3224,
+                    35.8851
+                ]
+            },
+            "properties": {
+                "title": "Playa del Chorrillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7757,
+                    43.4695
+                ]
+            },
+            "properties": {
+                "title": "Playa del Camello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.716,
+                    37.651
+                ]
+            },
+            "properties": {
+                "title": "Puerto Mar/La Mange del Mar Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5013,
+                    43.473
+                ]
+            },
+            "properties": {
+                "title": "Playa de Noja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0064,
+                    43.3832
+                ]
+            },
+            "properties": {
+                "title": "Playa Barinatxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4434,
+                    36.0946
+                ]
+            },
+            "properties": {
+                "title": "Playa de Getares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.00152,
+                    43.390862
+                ]
+            },
+            "properties": {
+                "title": "Sopelana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.75133,
+                    43.459768
+                ]
+            },
+            "properties": {
+                "title": "Playa de Somo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8894,
+                    37.0028
+                ]
+            },
+            "properties": {
+                "title": "Playa de Carboneras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2428,
+                    43.3044
+                ]
+            },
+            "properties": {
+                "title": "Orrua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4046,
+                    36.8269
+                ]
+            },
+            "properties": {
+                "title": "Playa del Bobar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0224,
+                    38.8645
+                ]
+            },
+            "properties": {
+                "title": "Paquebote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7791,
+                    43.472
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Concha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.406,
+                    43.3718
+                ]
+            },
+            "properties": {
+                "title": "Playa del Orz\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.016,
+                    43.3802
+                ]
+            },
+            "properties": {
+                "title": "Gorrondatxa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.238,
+                    39.167
+                ]
+            },
+            "properties": {
+                "title": "Cullera/Jucar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5427,
+                    39.5234
+                ]
+            },
+            "properties": {
+                "title": "Playa Son Caliu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.349,
+                    36.716
+                ]
+            },
+            "properties": {
+                "title": "Playa del Dedo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.306,
+                    41.474
+                ]
+            },
+            "properties": {
+                "title": "Masnou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.28924,
+                    36.51986027674717
+                ]
+            },
+            "properties": {
+                "title": "Cadiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4596,
+                    43.5643
+                ]
+            },
+            "properties": {
+                "title": "Playa Barchinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5896,
+                    39.0605
+                ]
+            },
+            "properties": {
+                "title": "Aguas Blancas - Ibiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.418,
+                    36.693
+                ]
+            },
+            "properties": {
+                "title": "Playa de Carchuna/Calahonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2647,
+                    43.0081
+                ]
+            },
+            "properties": {
+                "title": "Nemi\u00f1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5081,
+                    38.3279
+                ]
+            },
+            "properties": {
+                "title": "Playa de Babel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4509,
+                    41.5354
+                ]
+            },
+            "properties": {
+                "title": "Playa del Varador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.651,
+                    38.027
+                ]
+            },
+            "properties": {
+                "title": "La Mata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8799,
+                    42.4498
+                ]
+            },
+            "properties": {
+                "title": "La Lanzada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7503,
+                    37.5976
+                ]
+            },
+            "properties": {
+                "title": "Playa de Cal-Blanque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.022777778,
+                    43.44166667
+                ]
+            },
+            "properties": {
+                "title": "Playa de los Caballos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8769,
+                    37.5772
+                ]
+            },
+            "properties": {
+                "title": "Playa del Gorguel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4557,
+                    41.5391
+                ]
+            },
+            "properties": {
+                "title": "Playa del Callao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1837,
+                    41.0765
+                ]
+            },
+            "properties": {
+                "title": "Platja de la Pineda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.441,
+                    39.656
+                ]
+            },
+            "properties": {
+                "title": "Canyamel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3229,
+                    39.4841
+                ]
+            },
+            "properties": {
+                "title": "Malvarrosa Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.80194,
+                    43.43388889
+                ]
+            },
+            "properties": {
+                "title": "Bakio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.407,
+                    40.36
+                ]
+            },
+            "properties": {
+                "title": "Peniscola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3367,
+                    35.8946
+                ]
+            },
+            "properties": {
+                "title": "Playa de Benitez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.478,
+                    36.642
+                ]
+            },
+            "properties": {
+                "title": "Los Alamos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1731,
+                    43.6135
+                ]
+            },
+            "properties": {
+                "title": "Praia da Frouxeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.71724,
+                    43.577614
+                ]
+            },
+            "properties": {
+                "title": "Xivares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8182,
+                    41.6884
+                ]
+            },
+            "properties": {
+                "title": "Platja de Santa Cistina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.83,
+                    42.1596
+                ]
+            },
+            "properties": {
+                "title": "Patos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6281,
+                    36.0313
+                ]
+            },
+            "properties": {
+                "title": "Playa de los Lances"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7432,
+                    36.4825
+                ]
+            },
+            "properties": {
+                "title": "Cabopino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.97194,
+                    42.74292418969487
+                ]
+            },
+            "properties": {
+                "title": "Praia de Aguieira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.281,
+                    41.464
+                ]
+            },
+            "properties": {
+                "title": "Montgat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2631,
+                    39.8125
+                ]
+            },
+            "properties": {
+                "title": "Cala Biniancolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5575,
+                    43.3934
+                ]
+            },
+            "properties": {
+                "title": "Playas de Mendia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1998,
+                    42.05
+                ]
+            },
+            "properties": {
+                "title": "Club N\u00e0utic Estartit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9574,
+                    39.3609
+                ]
+            },
+            "properties": {
+                "title": "Sa Rapita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2206,
+                    37.5738
+                ]
+            },
+            "properties": {
+                "title": "La Mojonera - Murcia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0957,
+                    43.4286
+                ]
+            },
+            "properties": {
+                "title": "Playa de Santa Justa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.19088,
+                    38.772509
+                ]
+            },
+            "properties": {
+                "title": "Platja de l'Arenal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0832,
+                    38.9221
+                ]
+            },
+            "properties": {
+                "title": "Playa de Oliva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1084,
+                    40.0502
+                ]
+            },
+            "properties": {
+                "title": "Playas de Fornells"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.458,
+                    38.914
+                ]
+            },
+            "properties": {
+                "title": "Ibiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.31615,
+                    38.86718865069373
+                ]
+            },
+            "properties": {
+                "title": "Cala Jondal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6241,
+                    43.5525
+                ]
+            },
+            "properties": {
+                "title": "Pe\u00f1arrubia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.79712,
+                    36.69991381075254
+                ]
+            },
+            "properties": {
+                "title": "Almerimar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1755,
+                    43.4745
+                ]
+            },
+            "properties": {
+                "title": "Arenal de Moris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.731388889,
+                    43.46972222
+                ]
+            },
+            "properties": {
+                "title": "Isla de Santa Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.319,
+                    39.466
+                ]
+            },
+            "properties": {
+                "title": "Playa de Levante"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.606,
+                    39.5518
+                ]
+            },
+            "properties": {
+                "title": "Cala Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74826,
+                    36.73605354172021
+                ]
+            },
+            "properties": {
+                "title": "La Herradura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7699,
+                    43.4677
+                ]
+            },
+            "properties": {
+                "title": "Playa Los Biquinis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.639,
+                    43.5491
+                ]
+            },
+            "properties": {
+                "title": "Playa del Rincon\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3435,
+                    35.872
+                ]
+            },
+            "properties": {
+                "title": "Playa del Tarajal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.17482,
+                    36.715588178782326
+                ]
+            },
+            "properties": {
+                "title": "Torre del Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9293,
+                    41.2602
+                ]
+            },
+            "properties": {
+                "title": "Port Ginesta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5289,
+                    40.5492
+                ]
+            },
+            "properties": {
+                "title": "Platja del Marjal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6108,
+                    43.5508
+                ]
+            },
+            "properties": {
+                "title": "Playa Centollera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6487,
+                    35.8275
+                ]
+            },
+            "properties": {
+                "title": "Plage Oued Allyene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2774,
+                    40.2423
+                ]
+            },
+            "properties": {
+                "title": "Carregador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.501,
+                    36.609
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Carihuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7118,
+                    36.488
+                ]
+            },
+            "properties": {
+                "title": "Calahonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6438,
+                    43.5451
+                ]
+            },
+            "properties": {
+                "title": "Playa Los Mayanes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6128,
+                    43.4993
+                ]
+            },
+            "properties": {
+                "title": "Playa de Cuberris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2998,
+                    35.8961
+                ]
+            },
+            "properties": {
+                "title": "Playa de San Amaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0439,
+                    43.5778
+                ]
+            },
+            "properties": {
+                "title": "Play\u00f3n de Bayas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0739,
+                    36.231
+                ]
+            },
+            "properties": {
+                "title": "El Palmar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1745,
+                    37.5634
+                ]
+            },
+            "properties": {
+                "title": "Playa de La Chapineta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9837,
+                    39.3455
+                ]
+            },
+            "properties": {
+                "title": "Playa de es Trenc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3592,
+                    43.3987
+                ]
+            },
+            "properties": {
+                "title": "Gerra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5466,
+                    43.3133
+                ]
+            },
+            "properties": {
+                "title": "Barra\u00f1an"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0399,
+                    38.6051
+                ]
+            },
+            "properties": {
+                "title": "Playa de Negrete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7171,
+                    37.6531
+                ]
+            },
+            "properties": {
+                "title": "Playa del Barco Perdido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1386,
+                    43.5563
+                ]
+            },
+            "properties": {
+                "title": "Praia das Illas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1184,
+                    43.3525
+                ]
+            },
+            "properties": {
+                "title": "La Arena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5296,
+                    43.5458
+                ]
+            },
+            "properties": {
+                "title": "Playa Espa\u00f1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4052,
+                    43.5572
+                ]
+            },
+            "properties": {
+                "title": "Playa Quintana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8144,
+                    41.235
+                ]
+            },
+            "properties": {
+                "title": "Sitges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1835,
+                    40.0222
+                ]
+            },
+            "properties": {
+                "title": "Arenal Castell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.05838,
+                    42.57536
+                ]
+            },
+            "properties": {
+                "title": "Praia da Ladeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1581,
+                    43.6146
+                ]
+            },
+            "properties": {
+                "title": "Valdovi\u00f1o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.194,
+                    41.376
+                ]
+            },
+            "properties": {
+                "title": "Barceloneta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.369,
+                    37.5376
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Covaticas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8137,
+                    37.7689
+                ]
+            },
+            "properties": {
+                "title": "Playa de Palo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3206,
+                    43.498
+                ]
+            },
+            "properties": {
+                "title": "Doni\u00f1os"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0132,
+                    43.3441
+                ]
+            },
+            "properties": {
+                "title": "Ereaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3811,
+                    37.5296
+                ]
+            },
+            "properties": {
+                "title": "Playa de Percheles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6762,
+                    43.7696
+                ]
+            },
+            "properties": {
+                "title": "Praia de Bares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.73332,
+                    43.470183
+                ]
+            },
+            "properties": {
+                "title": "Santa Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3394,
+                    36.1474
+                ]
+            },
+            "properties": {
+                "title": "Eastern Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.03321,
+                    42.5489
+                ]
+            },
+            "properties": {
+                "title": "Praia do Vilar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7472,
+                    43.2936
+                ]
+            },
+            "properties": {
+                "title": "Praia do Ri\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1974,
+                    43.5632
+                ]
+            },
+            "properties": {
+                "title": "San Cosme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3704,
+                    43.4128
+                ]
+            },
+            "properties": {
+                "title": "Playa San Juli\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.404,
+                    38.37
+                ]
+            },
+            "properties": {
+                "title": "Alicante Platja de San Juan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2266,
+                    36.5751
+                ]
+            },
+            "properties": {
+                "title": "Playa de Valdegrana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8065,
+                    36.7487
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Alberquillas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14321,
+                    41.85722
+                ]
+            },
+            "properties": {
+                "title": "La Fosca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.175,
+                    39.0249
+                ]
+            },
+            "properties": {
+                "title": "Platja de l'Auir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5615,
+                    43.7119
+                ]
+            },
+            "properties": {
+                "title": "Playa de Esteiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6731,
+                    43.5434
+                ]
+            },
+            "properties": {
+                "title": "Playa de Poniente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6911,
+                    39.7996
+                ]
+            },
+            "properties": {
+                "title": "Puerto de Soller"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.84382,
+                    36.128502
+                ]
+            },
+            "properties": {
+                "title": "Zahara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1708,
+                    43.29
+                ]
+            },
+            "properties": {
+                "title": "Zarautz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8098,
+                    37.2036
+                ]
+            },
+            "properties": {
+                "title": "Playa de Puerto Rey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8145,
+                    43.3241
+                ]
+            },
+            "properties": {
+                "title": "Malpica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0469,
+                    39.91
+                ]
+            },
+            "properties": {
+                "title": "Playa Atalis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.00954,
+                    42.71729
+                ]
+            },
+            "properties": {
+                "title": "Praia de Fonforr\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.919,
+                    36.183
+                ]
+            },
+            "properties": {
+                "title": "Barbate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2737,
+                    40.2341
+                ]
+            },
+            "properties": {
+                "title": "Playa Romana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0379,
+                    42.6478
+                ]
+            },
+            "properties": {
+                "title": "Rio Siera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7215,
+                    37.926846
+                ]
+            },
+            "properties": {
+                "title": "Cala Cerrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1906,
+                    41.0834
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Canonja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.57818,
+                    36.7231475625783
+                ]
+            },
+            "properties": {
+                "title": "Punta del R\u00edo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.95387,
+                    43.572288
+                ]
+            },
+            "properties": {
+                "title": "Tapia de Casariego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8777,
+                    36.7436
+                ]
+            },
+            "properties": {
+                "title": "Playa De Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2018,
+                    41.9928
+                ]
+            },
+            "properties": {
+                "title": "Platja de Pals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4115,
+                    43.3689
+                ]
+            },
+            "properties": {
+                "title": "Praia de Riazor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.658,
+                    43.4099
+                ]
+            },
+            "properties": {
+                "title": "Laga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8022,
+                    43.7232
+                ]
+            },
+            "properties": {
+                "title": "San Anton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6775,
+                    43.5604
+                ]
+            },
+            "properties": {
+                "title": "Frejulfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1283,
+                    38.9635
+                ]
+            },
+            "properties": {
+                "title": "Playa de Bellreguart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.3318,
+                    43.3945
+                ]
+            },
+            "properties": {
+                "title": "Oyambre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.468,
+                    43.4659
+                ]
+            },
+            "properties": {
+                "title": "Berria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1972,
+                    43.6068
+                ]
+            },
+            "properties": {
+                "title": "Campelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0301,
+                    37.5791
+                ]
+            },
+            "properties": {
+                "title": "Playa de Fatares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7999,
+                    39.9993
+                ]
+            },
+            "properties": {
+                "title": "Cala'n Forcat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4526,
+                    39.723
+                ]
+            },
+            "properties": {
+                "title": "Cala Agulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.06813,
+                    43.203436
+                ]
+            },
+            "properties": {
+                "title": "Playa de Traba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.193,
+                    39.049
+                ]
+            },
+            "properties": {
+                "title": "Platja de Xeraco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4039,
+                    43.3755
+                ]
+            },
+            "properties": {
+                "title": "Playa do Matadeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4407,
+                    41.5288
+                ]
+            },
+            "properties": {
+                "title": "Playa de Ponent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4343,
+                    39.7448
+                ]
+            },
+            "properties": {
+                "title": "Cala Mesquida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.945,
+                    43.414
+                ]
+            },
+            "properties": {
+                "title": "Plentzia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3057,
+                    37.5616
+                ]
+            },
+            "properties": {
+                "title": "Playa de Bolnuevo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2311,
+                    41.416
+                ]
+            },
+            "properties": {
+                "title": "Platja del F\u00f2rum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5381,
+                    43.4945
+                ]
+            },
+            "properties": {
+                "title": "Playa de Cuarezo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8167,
+                    42.1333
+                ]
+            },
+            "properties": {
+                "title": "Praia Am\u00e9rica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9281,
+                    43.4594
+                ]
+            },
+            "properties": {
+                "title": "Playa de San Antonio del Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5687,
+                    38.9919
+                ]
+            },
+            "properties": {
+                "title": "Playa S'Argamassa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2167,
+                    36.75
+                ]
+            },
+            "properties": {
+                "title": "Playa de los Corraletes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3144,
+                    39.5204
+                ]
+            },
+            "properties": {
+                "title": "Cala Mandia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.26995,
+                    36.292773827530034
+                ]
+            },
+            "properties": {
+                "title": "Guadiaro Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3531,
+                    43.3037
+                ]
+            },
+            "properties": {
+                "title": "Deba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.96665,
+                    43.591731
+                ]
+            },
+            "properties": {
+                "title": "Salinas y Espartal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23124,
+                    36.426993
+                ]
+            },
+            "properties": {
+                "title": "Playa de Camposoto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2756,
+                    36.5985
+                ]
+            },
+            "properties": {
+                "title": "Playa De Las Redes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2592,
+                    41.1136
+                ]
+            },
+            "properties": {
+                "title": "Playa El Miracle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3538,
+                    38.8661
+                ]
+            },
+            "properties": {
+                "title": "Es Codolar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.837,
+                    37.115
+                ]
+            },
+            "properties": {
+                "title": "Cueva del Lobo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1202,
+                    36.745
+                ]
+            },
+            "properties": {
+                "title": "Los Genoveses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.009,
+                    36.184
+                ]
+            },
+            "properties": {
+                "title": "Yerbabuena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5422,
+                    41.1815
+                ]
+            },
+            "properties": {
+                "title": "Platja de Sant Salvador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.206,
+                    39.659
+                ]
+            },
+            "properties": {
+                "title": "Sagunto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6675,
+                    29.11027778
+                ]
+            },
+            "properties": {
+                "title": "El Quemao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.637418,
+                    29.118317
+                ]
+            },
+            "properties": {
+                "title": "Caleta de Caballo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4478,
+                    28.0729
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Pilas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4484,
+                    28.1311
+                ]
+            },
+            "properties": {
+                "title": "La Cicer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.7919,
+                    27.8466
+                ]
+            },
+            "properties": {
+                "title": "Playa de Veneguera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.392,
+                    27.8453
+                ]
+            },
+            "properties": {
+                "title": "La Izquierda del Muelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.33345,
+                    28.56701
+                ]
+            },
+            "properties": {
+                "title": "Fuera de la Bajeta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.50967,
+                    28.422825
+                ]
+            },
+            "properties": {
+                "title": "Los Platos-La Orrotava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6673,
+                    29.11
+                ]
+            },
+            "properties": {
+                "title": "La Santa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6311,
+                    29.1183
+                ]
+            },
+            "properties": {
+                "title": "Ghost Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.73841,
+                    28.059208
+                ]
+            },
+            "properties": {
+                "title": "El Medio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.4643,
+                    29.1261
+                ]
+            },
+            "properties": {
+                "title": "Arrieta Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.1854,
+                    28.5764
+                ]
+            },
+            "properties": {
+                "title": "Playa de Benijo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5765,
+                    28.1461
+                ]
+            },
+            "properties": {
+                "title": "El Paso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5985,
+                    27.7338
+                ]
+            },
+            "properties": {
+                "title": "Derecha del Faro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.47738,
+                    28.07692
+                ]
+            },
+            "properties": {
+                "title": "Las Salinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.41813,
+                    28.0593994
+                ]
+            },
+            "properties": {
+                "title": "La Laja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.4511,
+                    29.1399
+                ]
+            },
+            "properties": {
+                "title": "El Espino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.895123,
+                    28.323487
+                ]
+            },
+            "properties": {
+                "title": "Pozo Negro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7385,
+                    28.0552
+                ]
+            },
+            "properties": {
+                "title": "La Fitenia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.4613,
+                    29.06
+                ]
+            },
+            "properties": {
+                "title": "Los Agujeros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.82747,
+                    28.696627
+                ]
+            },
+            "properties": {
+                "title": "Corralejo Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3654,
+                    28.3392
+                ]
+            },
+            "properties": {
+                "title": "Playa de Lima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.7328,
+                    27.7948
+                ]
+            },
+            "properties": {
+                "title": "Tauro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.81162,
+                    28.8546651
+                ]
+            },
+            "properties": {
+                "title": "Castillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.65381,
+                    28.16572439978236
+                ]
+            },
+            "properties": {
+                "title": "El Fronton "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8269,
+                    28.6217
+                ]
+            },
+            "properties": {
+                "title": "Playa La Cabezuela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3313,
+                    28.0437
+                ]
+            },
+            "properties": {
+                "title": "Cruz Roja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.567659139633179,
+                    28.147384189805496
+                ]
+            },
+            "properties": {
+                "title": "La Derecha del Altillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.83528,
+                    28.75027778
+                ]
+            },
+            "properties": {
+                "title": "Los Lobos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.83,
+                    28.69
+                ]
+            },
+            "properties": {
+                "title": "El Burro (Glasbeach)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8161,
+                    29.0312
+                ]
+            },
+            "properties": {
+                "title": "Playa del Cochino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.127,
+                    28.5449
+                ]
+            },
+            "properties": {
+                "title": "Playa de Ijuana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6866,
+                    27.761
+                ]
+            },
+            "properties": {
+                "title": "Arguineguin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4144,
+                    27.8361
+                ]
+            },
+            "properties": {
+                "title": "Mosca Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4909,
+                    27.7907
+                ]
+            },
+            "properties": {
+                "title": "Playa del Cardon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8313,
+                    28.6984
+                ]
+            },
+            "properties": {
+                "title": "Playa los Matos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.66306,
+                    29.11694444
+                ]
+            },
+            "properties": {
+                "title": "La Santa Right (Morro Negro)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.65532,
+                    28.00417
+                ]
+            },
+            "properties": {
+                "title": "Las Galletas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4368,
+                    28.1447
+                ]
+            },
+            "properties": {
+                "title": "La Barra - Las Canteras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.93319,
+                    28.749293
+                ]
+            },
+            "properties": {
+                "title": "Majanicho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3438,
+                    28.5572
+                ]
+            },
+            "properties": {
+                "title": "El Charco "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.43554,
+                    28.158039
+                ]
+            },
+            "properties": {
+                "title": "El Confital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.60381,
+                    28.3959
+                ]
+            },
+            "properties": {
+                "title": "Playa del Socorro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.8415,
+                    28.2297
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Arena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5571,
+                    28.1475
+                ]
+            },
+            "properties": {
+                "title": "El Comedor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6094,
+                    27.7426
+                ]
+            },
+            "properties": {
+                "title": "Meloneras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.31281,
+                    28.573338
+                ]
+            },
+            "properties": {
+                "title": "Roque Dos Hermanos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.831379,
+                    28.97665
+                ]
+            },
+            "properties": {
+                "title": "El Golfo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8293,
+                    28.5733
+                ]
+            },
+            "properties": {
+                "title": "Playa de los Valdivias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3027,
+                    28.0727
+                ]
+            },
+            "properties": {
+                "title": "Playa del Esquinzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.55804,
+                    29.117466
+                ]
+            },
+            "properties": {
+                "title": "Playa de Famara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8321,
+                    28.6845
+                ]
+            },
+            "properties": {
+                "title": "Playa del Moro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5656,
+                    27.7548
+                ]
+            },
+            "properties": {
+                "title": "Playa del Ingles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.46262,
+                    29.226387
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Canteria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7379,
+                    28.0577
+                ]
+            },
+            "properties": {
+                "title": "El Conquistador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.85688,
+                    28.73282
+                ]
+            },
+            "properties": {
+                "title": "Rocky Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8257,
+                    28.617
+                ]
+            },
+            "properties": {
+                "title": "Playa Los Picachos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3107,
+                    28.5715
+                ]
+            },
+            "properties": {
+                "title": "Playa El Troche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5457,
+                    28.1473
+                ]
+            },
+            "properties": {
+                "title": "Quintanilla - Gran Canaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.4321,
+                    28.1529
+                ]
+            },
+            "properties": {
+                "title": "Playa El Poris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.22557,
+                    28.21453
+                ]
+            },
+            "properties": {
+                "title": "La Pared"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8579,
+                    28.3949
+                ]
+            },
+            "properties": {
+                "title": "Caleta de Fuste Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5412,
+                    28.4176
+                ]
+            },
+            "properties": {
+                "title": "Playa Martianez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.5999,
+                    28.9456
+                ]
+            },
+            "properties": {
+                "title": "Matagorda Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.1712,
+                    28.1752
+                ]
+            },
+            "properties": {
+                "title": "Playa Puerto Rico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.73985,
+                    28.7598972
+                ]
+            },
+            "properties": {
+                "title": "Playa de Nogales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6659,
+                    28.1586
+                ]
+            },
+            "properties": {
+                "title": "Bocabarranco - Gran Canaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.9311,
+                    28.2383
+                ]
+            },
+            "properties": {
+                "title": "Playa de los James"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.1722,
+                    28.5157
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Gaviotas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.5735,
+                    29.1267
+                ]
+            },
+            "properties": {
+                "title": "San Juan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.597736,
+                    27.73435
+                ]
+            },
+            "properties": {
+                "title": "Maspalomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8296,
+                    28.5789
+                ]
+            },
+            "properties": {
+                "title": "Playa del Perchel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.833875,
+                    28.934722
+                ]
+            },
+            "properties": {
+                "title": "Playa de Janubio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.1859,
+                    28.5086
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Teresitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3184,
+                    28.4041
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Nea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4532,
+                    28.1284
+                ]
+            },
+            "properties": {
+                "title": "Playa de Guanarteme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3608,
+                    28.3785
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Caletas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.45208,
+                    28.130723812984066
+                ]
+            },
+            "properties": {
+                "title": "El Lloret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.208,
+                    28.5697
+                ]
+            },
+            "properties": {
+                "title": "Playa de San Roque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.4884,
+                    28.9983
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Cucharas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.94806,
+                    28.74416667
+                ]
+            },
+            "properties": {
+                "title": "The Bubble (Hierro Right)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.1784,
+                    28.3464
+                ]
+            },
+            "properties": {
+                "title": "Shipwreck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3902,
+                    28.1118
+                ]
+            },
+            "properties": {
+                "title": "Playa de Cofete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.4603,
+                    29.2253
+                ]
+            },
+            "properties": {
+                "title": "Playa de Orzola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5693,
+                    28.0285
+                ]
+            },
+            "properties": {
+                "title": "El Confital - Tenerife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.54222,
+                    28.040089024818638
+                ]
+            },
+            "properties": {
+                "title": "El Medano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3363,
+                    28.1331
+                ]
+            },
+            "properties": {
+                "title": "Playa Barlovento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.79061,
+                    28.3768
+                ]
+            },
+            "properties": {
+                "title": "La Caleta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8849,
+                    28.756
+                ]
+            },
+            "properties": {
+                "title": "Generosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.2914,
+                    28.4267
+                ]
+            },
+            "properties": {
+                "title": "Playa del Muerto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.1568,
+                    28.5222
+                ]
+            },
+            "properties": {
+                "title": "Playa del Llano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5541,
+                    28.1471
+                ]
+            },
+            "properties": {
+                "title": "Molokai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.33412,
+                    28.56081
+                ]
+            },
+            "properties": {
+                "title": "Punta del Hidalgo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7375,
+                    28.0591
+                ]
+            },
+            "properties": {
+                "title": "Derecha del Cartel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.37392,
+                    27.997009
+                ]
+            },
+            "properties": {
+                "title": "Playa del Hombre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3627,
+                    28.3252
+                ]
+            },
+            "properties": {
+                "title": "Playa de la Entrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.2713,
+                    28.1006
+                ]
+            },
+            "properties": {
+                "title": "Jandia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.2774,
+                    28.5714
+                ]
+            },
+            "properties": {
+                "title": "Playa Fajana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.4083,
+                    28.2322
+                ]
+            },
+            "properties": {
+                "title": "Playa del Topuerque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5991,
+                    28.1456
+                ]
+            },
+            "properties": {
+                "title": "Vagabundo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.87342,
+                    28.748903
+                ]
+            },
+            "properties": {
+                "title": "Bristol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.83805,
+                    28.213404
+                ]
+            },
+            "properties": {
+                "title": "Punta Blanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.343193,
+                    28.557806
+                ]
+            },
+            "properties": {
+                "title": "Bajamar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.42969,
+                    29.15364
+                ]
+            },
+            "properties": {
+                "title": "Jameos del Agua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5604,
+                    28.1477
+                ]
+            },
+            "properties": {
+                "title": "Boquines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.6118,
+                    27.744
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Mujeres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5508,
+                    28.1474
+                ]
+            },
+            "properties": {
+                "title": "Los Enanos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0482,
+                    28.5716
+                ]
+            },
+            "properties": {
+                "title": "Playa Jarugo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0104,
+                    28.6754
+                ]
+            },
+            "properties": {
+                "title": "Cotillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.5158,
+                    29.2762
+                ]
+            },
+            "properties": {
+                "title": "Playa de las Conchas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8416,
+                    28.7229
+                ]
+            },
+            "properties": {
+                "title": "Flag Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9353,
+                    35.2789
+                ]
+            },
+            "properties": {
+                "title": "Pico del Chino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.936,
+                    35.2818
+                ]
+            },
+            "properties": {
+                "title": "Dalila Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9331,
+                    35.2779
+                ]
+            },
+            "properties": {
+                "title": "La Derecha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9431,
+                    35.3045
+                ]
+            },
+            "properties": {
+                "title": "Horcas Coloradas"
+            }
+        }
+    ]
+}

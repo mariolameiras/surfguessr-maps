@@ -1,0 +1,772 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5367,
+                    2.0223
+                ]
+            },
+            "properties": {
+                "title": "Machines Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.536,
+                    2.0375
+                ]
+            },
+            "properties": {
+                "title": "Machine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1981,
+                    -0.6789
+                ]
+            },
+            "properties": {
+                "title": "Shangri-la"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.6136,
+                    4.343204315364438
+                ]
+            },
+            "properties": {
+                "title": "Ninja's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0857,
+                    -0.5776
+                ]
+            },
+            "properties": {
+                "title": "Kottey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1287,
+                    2.1938
+                ]
+            },
+            "properties": {
+                "title": "Finnimas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0383,
+                    5.4471
+                ]
+            },
+            "properties": {
+                "title": "Kinolhas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1201,
+                    2.1911
+                ]
+            },
+            "properties": {
+                "title": "Outside Farms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1,
+                    2.1838
+                ]
+            },
+            "properties": {
+                "title": "Adonis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.3803,
+                    5.8123
+                ]
+            },
+            "properties": {
+                "title": "Bodu Olhu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.58541879522511,
+                    4.313574269102099
+                ]
+            },
+            "properties": {
+                "title": "Sultans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5367,
+                    2.0183
+                ]
+            },
+            "properties": {
+                "title": "Mundoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4395,
+                    -0.3042
+                ]
+            },
+            "properties": {
+                "title": "Zubair's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5837,
+                    2.9273
+                ]
+            },
+            "properties": {
+                "title": "Muli - F1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.44495,
+                    0.28175713
+                ]
+            },
+            "properties": {
+                "title": "Mushrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.2871,
+                    0.2321
+                ]
+            },
+            "properties": {
+                "title": "Blue Bowls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5482,
+                    4.253
+                ]
+            },
+            "properties": {
+                "title": "Furana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.439,
+                    0.7267
+                ]
+            },
+            "properties": {
+                "title": "Koodhoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.3924,
+                    1.814
+                ]
+            },
+            "properties": {
+                "title": "Mada's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.216,
+                    -0.666
+                ]
+            },
+            "properties": {
+                "title": "Kanda Muli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.59171,
+                    4.31537277405848
+                ]
+            },
+            "properties": {
+                "title": "Pasta Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1421,
+                    0.2108
+                ]
+            },
+            "properties": {
+                "title": "Beacons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.57742,
+                    4.307463458457968
+                ]
+            },
+            "properties": {
+                "title": "Jailbreaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4381,
+                    0.7417
+                ]
+            },
+            "properties": {
+                "title": "Viligili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4521,
+                    0.283
+                ]
+            },
+            "properties": {
+                "title": "Tiger Stripes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4175,
+                    -0.2763
+                ]
+            },
+            "properties": {
+                "title": "Thundi Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5422,
+                    4.2578
+                ]
+            },
+            "properties": {
+                "title": "Kadu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1718,
+                    -0.7032
+                ]
+            },
+            "properties": {
+                "title": "Approach Lights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9469,
+                    2.2815
+                ]
+            },
+            "properties": {
+                "title": "Bowling Alley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9255,
+                    2.67161660625025
+                ]
+            },
+            "properties": {
+                "title": "Vodi, Maldives"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.2392,
+                    -0.588
+                ]
+            },
+            "properties": {
+                "title": "Air Equator Lefts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.2342,
+                    0.1924
+                ]
+            },
+            "properties": {
+                "title": "Castaways"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.903,
+                    2.665
+                ]
+            },
+            "properties": {
+                "title": "Mauroof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.3594,
+                    0.2692
+                ]
+            },
+            "properties": {
+                "title": "Two Ways"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.66323,
+                    4.372896005883011
+                ]
+            },
+            "properties": {
+                "title": "Chickens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1186,
+                    2.1945
+                ]
+            },
+            "properties": {
+                "title": "Inside Farms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.65602,
+                    4.370274672691539
+                ]
+            },
+            "properties": {
+                "title": "Colas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.47498536109924,
+                    3.9048663015470697
+                ]
+            },
+            "properties": {
+                "title": "Kandooma Right "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4066,
+                    1.8002
+                ]
+            },
+            "properties": {
+                "title": "Yin Yang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.3698,
+                    0.2614
+                ]
+            },
+            "properties": {
+                "title": "Love Charms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.621,
+                    4.348032688767217
+                ]
+            },
+            "properties": {
+                "title": "Lohi's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5186,
+                    4.1709
+                ]
+            },
+            "properties": {
+                "title": "Mal\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5375,
+                    2.0261
+                ]
+            },
+            "properties": {
+                "title": "Machines Rights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.587,
+                    2.9269
+                ]
+            },
+            "properties": {
+                "title": "Muli - Mushrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.41994,
+                    -0.279892
+                ]
+            },
+            "properties": {
+                "title": "Eleyi's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5854,
+                    2.1339
+                ]
+            },
+            "properties": {
+                "title": "Isdhoo Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.3571,
+                    0.2579
+                ]
+            },
+            "properties": {
+                "title": "Five Islands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4371,
+                    5.9225
+                ]
+            },
+            "properties": {
+                "title": "Tholhendhoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9274,
+                    2.2736
+                ]
+            },
+            "properties": {
+                "title": "Malik's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9907,
+                    0.5161
+                ]
+            },
+            "properties": {
+                "title": "Lips"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.58368,
+                    4.31216545719424
+                ]
+            },
+            "properties": {
+                "title": "Honky's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1088,
+                    -0.6595
+                ]
+            },
+            "properties": {
+                "title": "Gaukendi Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9946,
+                    0.4627
+                ]
+            },
+            "properties": {
+                "title": "Airports"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9684,
+                    2.6952
+                ]
+            },
+            "properties": {
+                "title": "Screaming Kids"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5365,
+                    0.3448
+                ]
+            },
+            "properties": {
+                "title": "KH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9915,
+                    0.5234
+                ]
+            },
+            "properties": {
+                "title": "Cafe Breaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4048,
+                    5.8842
+                ]
+            },
+            "properties": {
+                "title": "Kudafaright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1828,
+                    -0.6949
+                ]
+            },
+            "properties": {
+                "title": "Madihera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4462,
+                    0.2819
+                ]
+            },
+            "properties": {
+                "title": "Antiques"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1019 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0092,
+                    9.9956
+                ]
+            },
+            "properties": {
+                "title": "Isla Uvita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.219,
+                    9.4538
+                ]
+            },
+            "properties": {
+                "title": "Boca Damas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.75273,
+                    9.661180947362254
+                ]
+            },
+            "properties": {
+                "title": "Salsa Brava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5551,
+                    9.5347
+                ]
+            },
+            "properties": {
+                "title": "Boca Tusubres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6496,
+                    8.7194
+                ]
+            },
+            "properties": {
+                "title": "Drake's Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8429,
+                    9.2242
+                ]
+            },
+            "properties": {
+                "title": "Punta Dominical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.8469,
+                    9.7422
+                ]
+            },
+            "properties": {
+                "title": "Playa Negra - Limon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.705,
+                    9.995
+                ]
+            },
+            "properties": {
+                "title": "Ostional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.444,
+                    9.861
+                ]
+            },
+            "properties": {
+                "title": "Camaronal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2761,
+                    8.3879
+                ]
+            },
+            "properties": {
+                "title": "Pan Dulce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.28332,
+                    8.38230022212565
+                ]
+            },
+            "properties": {
+                "title": "Matapalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15,
+                    9.6198
+                ]
+            },
+            "properties": {
+                "title": "Playa Carmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1926,
+                    9.6656
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.59148,
+                    9.56516
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6886,
+                    9.6462
+                ]
+            },
+            "properties": {
+                "title": "Punta Uva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.73886,
+                    9.14841
+                ]
+            },
+            "properties": {
+                "title": "Playa Chaman (Punta Uvita)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7845,
+                    10.0896
+                ]
+            },
+            "properties": {
+                "title": "Marbella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2599,
+                    9.7538
+                ]
+            },
+            "properties": {
+                "title": "Playa Caletas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1643,
+                    9.3964
+                ]
+            },
+            "properties": {
+                "title": "Playitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.135,
+                    8.353
+                ]
+            },
+            "properties": {
+                "title": "Punta Banco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.79981,
+                    10.85099440725964
+                ]
+            },
+            "properties": {
+                "title": "Ollie's Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.86522,
+                    9.250593929300813
+                ]
+            },
+            "properties": {
+                "title": "Dominical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6998,
+                    10.551
+                ]
+            },
+            "properties": {
+                "title": "Playa Del Coco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.85228,
+                    10.28630556
+                ]
+            },
+            "properties": {
+                "title": "Playa Langosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.595,
+                    8.4638
+                ]
+            },
+            "properties": {
+                "title": "Rio Claro Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.832,
+                    10.194
+                ]
+            },
+            "properties": {
+                "title": "Playa Negra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.85211111,
+                    9.746222222
+                ]
+            },
+            "properties": {
+                "title": "Cahuita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.84398,
+                    10.29970304257365
+                ]
+            },
+            "properties": {
+                "title": "Tamarindo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.63541,
+                    9.616940559391795
+                ]
+            },
+            "properties": {
+                "title": "Playa Jaco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2684,
+                    9.7751
+                ]
+            },
+            "properties": {
+                "title": "Playa Coyote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6838,
+                    9.969
+                ]
+            },
+            "properties": {
+                "title": "Nosara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.005,
+                    9.94
+                ]
+            },
+            "properties": {
+                "title": "Westfalia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9938,
+                    9.9268
+                ]
+            },
+            "properties": {
+                "title": "Barco Quebrado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0664,
+                    10.0135
+                ]
+            },
+            "properties": {
+                "title": "Coca\u00efne Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.71332,
+                    8.67855181506715
+                ]
+            },
+            "properties": {
+                "title": "Punta R\u00edo Claro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.85069,
+                    10.33328
+                ]
+            },
+            "properties": {
+                "title": "Playa Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.78063,
+                    9.192654
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa - Osa Peninsula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.68066,
+                    10.79489213393012
+                ]
+            },
+            "properties": {
+                "title": "Witches Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6958,
+                    9.1106
+                ]
+            },
+            "properties": {
+                "title": "Playa Ballena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.15386111,
+                    9.389333333
+                ]
+            },
+            "properties": {
+                "title": "Manuel Antonio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7931,
+                    10.4342
+                ]
+            },
+            "properties": {
+                "title": "Playa Flamingo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.668,
+                    9.94
+                ]
+            },
+            "properties": {
+                "title": "Guiones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.494,
+                    10.539114994950175
+                ]
+            },
+            "properties": {
+                "title": "Tortuguero Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1469,
+                    9.5926
+                ]
+            },
+            "properties": {
+                "title": "Punta Barigona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1724,
+                    9.421
+                ]
+            },
+            "properties": {
+                "title": "Quepos Bombie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1704,
+                    9.4253
+                ]
+            },
+            "properties": {
+                "title": "Quepos Jetty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.842,
+                    9.2317
+                ]
+            },
+            "properties": {
+                "title": "Dominicalito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6365,
+                    9.6395
+                ]
+            },
+            "properties": {
+                "title": "Manzanillo (Lim\u00f3n)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9159,
+                    8.0537
+                ]
+            },
+            "properties": {
+                "title": "Punta Burica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2118,
+                    9.6984
+                ]
+            },
+            "properties": {
+                "title": "Playa Manzanillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9519,
+                    8.2064
+                ]
+            },
+            "properties": {
+                "title": "Eclipse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.66626,
+                    9.63189
+                ]
+            },
+            "properties": {
+                "title": "Playa Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28883991550364,
+                    9.48278011021258
+                ]
+            },
+            "properties": {
+                "title": "Bejuco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7038,
+                    9.8701
+                ]
+            },
+            "properties": {
+                "title": "Tivives"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.74122,
+                    9.958235741436532
+                ]
+            },
+            "properties": {
+                "title": "Boca Barranca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7978,
+                    10.4102
+                ]
+            },
+            "properties": {
+                "title": "Playa Brasilito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7158981889118,
+                    9.922484732656224
+                ]
+            },
+            "properties": {
+                "title": "Caldera Jetty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2884,
+                    8.375
+                ]
+            },
+            "properties": {
+                "title": "Hog Hole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.84058,
+                    10.22975
+                ]
+            },
+            "properties": {
+                "title": "Avellanas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14184,
+                    9.570222044864844
+                ]
+            },
+            "properties": {
+                "title": "Mal Pais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48822,
+                    9.526305556
+                ]
+            },
+            "properties": {
+                "title": "Playa Esterillos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.608,
+                    9.576
+                ]
+            },
+            "properties": {
+                "title": "Playa Hermosa North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.13952,
+                    8.394937
+                ]
+            },
+            "properties": {
+                "title": "Pavones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0411,
+                    10.0096
+                ]
+            },
+            "properties": {
+                "title": "Roca Alta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.67316883195207,
+                    9.661646156842439
+                ]
+            },
+            "properties": {
+                "title": "Playa Escondida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6524,
+                    8.7841
+                ]
+            },
+            "properties": {
+                "title": "Rio Sierpe Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.129,
+                    8.504
+                ]
+            },
+            "properties": {
+                "title": "Zancudo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0617,
+                    10.0114
+                ]
+            },
+            "properties": {
+                "title": "Playa Bonita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6265,
+                    9.5895
+                ]
+            },
+            "properties": {
+                "title": "Roca Loca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3402,
+                    8.3955
+                ]
+            },
+            "properties": {
+                "title": "Carate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1079,
+                    9.3732
+                ]
+            },
+            "properties": {
+                "title": "Playa El Rey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.76974,
+                    9.977626
+                ]
+            },
+            "properties": {
+                "title": "Playa Chacarita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.536,
+                    9.868
+                ]
+            },
+            "properties": {
+                "title": "Samara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.0763,
+                    9.6297
+                ]
+            },
+            "properties": {
+                "title": "Cedros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.737,
+                    9.653
+                ]
+            },
+            "properties": {
+                "title": "Playa Cocles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1886,
+                    9.64974
+                ]
+            },
+            "properties": {
+                "title": "Santa Teresa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.66159522794959,
+                    9.635059578319176
+                ]
+            },
+            "properties": {
+                "title": "Herradura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7196,
+                    9.6469
+                ]
+            },
+            "properties": {
+                "title": "Little Shoal"
+            }
+        }
+    ]
+}

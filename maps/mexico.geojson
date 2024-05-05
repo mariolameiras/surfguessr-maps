@@ -1,0 +1,2891 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.96304,
+                    32.252029281646706
+                ]
+            },
+            "properties": {
+                "title": "Las Gaviotas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.17715,
+                    23.32877869857464
+                ]
+            },
+            "properties": {
+                "title": "Cerritos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.589,
+                    31.462
+                ]
+            },
+            "properties": {
+                "title": "Lighthouse (Punta San Jose)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.494,
+                    20.762
+                ]
+            },
+            "properties": {
+                "title": "La Lancha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.521,
+                    20.769
+                ]
+            },
+            "properties": {
+                "title": "El Anclote"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.964,
+                    15.821
+                ]
+            },
+            "properties": {
+                "title": "Barra de la Cruz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.246,
+                    16.137
+                ]
+            },
+            "properties": {
+                "title": "Salina Cruz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.23,
+                    21.188
+                ]
+            },
+            "properties": {
+                "title": "Chacala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.23,
+                    26.014
+                ]
+            },
+            "properties": {
+                "title": "Las Barrancas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.87328,
+                    20.3841936
+                ]
+            },
+            "properties": {
+                "title": "Chen Rio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.161,
+                    19.219
+                ]
+            },
+            "properties": {
+                "title": "Playa Norte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.304,
+                    15.685
+                ]
+            },
+            "properties": {
+                "title": "Rio de Coyula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.89901053905487,
+                    32.1568671586803
+                ]
+            },
+            "properties": {
+                "title": "Campo Lopez (K-55)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.019,
+                    15.806
+                ]
+            },
+            "properties": {
+                "title": "Barra de Colotepec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.939,
+                    32.241
+                ]
+            },
+            "properties": {
+                "title": "K-40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.674,
+                    15.967
+                ]
+            },
+            "properties": {
+                "title": "Chacahua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.262,
+                    21.512
+                ]
+            },
+            "properties": {
+                "title": "Stoners Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.37461,
+                    16.03655
+                ]
+            },
+            "properties": {
+                "title": "Punta Chipehua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8763,
+                    20.8228
+                ]
+            },
+            "properties": {
+                "title": "Puerto Morelos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.73117,
+                    31.90016519474307
+                ]
+            },
+            "properties": {
+                "title": "San Miguel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.481,
+                    17.077
+                ]
+            },
+            "properties": {
+                "title": "Playa Paraiso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.441,
+                    20.872
+                ]
+            },
+            "properties": {
+                "title": "Sayulita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.5,
+                    29.602
+                ]
+            },
+            "properties": {
+                "title": "Punta San Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.048,
+                    15.831
+                ]
+            },
+            "properties": {
+                "title": "La Punta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.819,
+                    19.305
+                ]
+            },
+            "properties": {
+                "title": "Boca de Iguanas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.268,
+                    30.953
+                ]
+            },
+            "properties": {
+                "title": "Cabo Colonet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.073,
+                    18.915
+                ]
+            },
+            "properties": {
+                "title": "Cuyutlan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.254216,
+                    -24.002206
+                ]
+            },
+            "properties": {
+                "title": "Ilha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.871,
+                    17.914
+                ]
+            },
+            "properties": {
+                "title": "The Ranch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.554,
+                    17.622
+                ]
+            },
+            "properties": {
+                "title": "Las Gatas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.078,
+                    28.484
+                ]
+            },
+            "properties": {
+                "title": "Millers Landing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.1482,
+                    16.1865
+                ]
+            },
+            "properties": {
+                "title": "La Ventosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.536,
+                    15.967
+                ]
+            },
+            "properties": {
+                "title": "Cerro Hermosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.89,
+                    32.105
+                ]
+            },
+            "properties": {
+                "title": "La Mision"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.531,
+                    20.756
+                ]
+            },
+            "properties": {
+                "title": "El Faro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.185,
+                    17.411
+                ]
+            },
+            "properties": {
+                "title": "La Barrita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.011,
+                    18.175
+                ]
+            },
+            "properties": {
+                "title": "Huahua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.898,
+                    32.153
+                ]
+            },
+            "properties": {
+                "title": "K-55 1/2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.527,
+                    26.7489
+                ]
+            },
+            "properties": {
+                "title": "Punta Abreojos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.0541,
+                    21.6651
+                ]
+            },
+            "properties": {
+                "title": "Pipeline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.627,
+                    16.686
+                ]
+            },
+            "properties": {
+                "title": "Barra Vieja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.714,
+                    23.029
+                ]
+            },
+            "properties": {
+                "title": "Zippers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.833,
+                    30.293
+                ]
+            },
+            "properties": {
+                "title": "Cielito Lindo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.054,
+                    15.786
+                ]
+            },
+            "properties": {
+                "title": "Playa La Bocana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.226,
+                    21.3155
+                ]
+            },
+            "properties": {
+                "title": "Hammerhead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.978133,
+                    -32.079028
+                ]
+            },
+            "properties": {
+                "title": "Supertubes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.246,
+                    15.684
+                ]
+            },
+            "properties": {
+                "title": "San Agustin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.943,
+                    32.24587
+                ]
+            },
+            "properties": {
+                "title": "Rauls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.69,
+                    26.324
+                ]
+            },
+            "properties": {
+                "title": "Punta Santo Domingo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7913888957552,
+                    31.97636522717259
+                ]
+            },
+            "properties": {
+                "title": "Salsipuedes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.56,
+                    18.453
+                ]
+            },
+            "properties": {
+                "title": "La Ticla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.4,
+                    23.183
+                ]
+            },
+            "properties": {
+                "title": "Stone Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.855,
+                    19.289
+                ]
+            },
+            "properties": {
+                "title": "Playa Tenacatita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.804,
+                    22.945
+                ]
+            },
+            "properties": {
+                "title": "Bahia Chileno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.202,
+                    21.484
+                ]
+            },
+            "properties": {
+                "title": "Aticama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.401,
+                    20.934
+                ]
+            },
+            "properties": {
+                "title": "Costa Azul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.006,
+                    15.806
+                ]
+            },
+            "properties": {
+                "title": "Playa El Mojon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.739,
+                    23.82
+                ]
+            },
+            "properties": {
+                "title": "Beachbreak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.177,
+                    30.857
+                ]
+            },
+            "properties": {
+                "title": "Quatro Casas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.527,
+                    23.12
+                ]
+            },
+            "properties": {
+                "title": "Shipwreck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.513,
+                    23.579
+                ]
+            },
+            "properties": {
+                "title": "Punta Colorados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.096,
+                    32.417
+                ]
+            },
+            "properties": {
+                "title": "Baja Malibu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.368,
+                    19.118
+                ]
+            },
+            "properties": {
+                "title": "Manzanillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.92079,
+                    32.22162
+                ]
+            },
+            "properties": {
+                "title": "Primo Tapia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.69,
+                    31.878
+                ]
+            },
+            "properties": {
+                "title": "3Ms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.99,
+                    18.873
+                ]
+            },
+            "properties": {
+                "title": "El Paraiso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.35,
+                    23.568
+                ]
+            },
+            "properties": {
+                "title": "La Bocana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.58618,
+                    18.50806
+                ]
+            },
+            "properties": {
+                "title": "La Ticla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.484,
+                    26.793
+                ]
+            },
+            "properties": {
+                "title": "Campo Renes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.74521,
+                    21.13325
+                ]
+            },
+            "properties": {
+                "title": "Forum Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.712,
+                    23.008
+                ]
+            },
+            "properties": {
+                "title": "Punta Pamilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.053,
+                    30.734
+                ]
+            },
+            "properties": {
+                "title": "Playa San Ramon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.675,
+                    17.136
+                ]
+            },
+            "properties": {
+                "title": "Playa Michigan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.68586,
+                    22.377712
+                ]
+            },
+            "properties": {
+                "title": "Playa Novillero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.583,
+                    23.441
+                ]
+            },
+            "properties": {
+                "title": "Rucos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.9,
+                    16.82
+                ]
+            },
+            "properties": {
+                "title": "Acapulco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.99352753021833,
+                    32.261622511860814
+                ]
+            },
+            "properties": {
+                "title": "Teresa's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.237,
+                    24.756
+                ]
+            },
+            "properties": {
+                "title": "Mag Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.642,
+                    18.556
+                ]
+            },
+            "properties": {
+                "title": "Las Brisas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.717,
+                    23.015
+                ]
+            },
+            "properties": {
+                "title": "Costa Azul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.706,
+                    29.744
+                ]
+            },
+            "properties": {
+                "title": "Punta San Antonio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.669,
+                    31.859
+                ]
+            },
+            "properties": {
+                "title": "California Trailer Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.609,
+                    17.659
+                ]
+            },
+            "properties": {
+                "title": "Ixtapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.885,
+                    23.802
+                ]
+            },
+            "properties": {
+                "title": "Tiburon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.6207,
+                    33.4191
+                ]
+            },
+            "properties": {
+                "title": "South San Clemente Overview"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.649,
+                    17.695
+                ]
+            },
+            "properties": {
+                "title": "Playa Linda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.418,
+                    31.297
+                ]
+            },
+            "properties": {
+                "title": "K-181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.42,
+                    23.379
+                ]
+            },
+            "properties": {
+                "title": "Los Frailes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.247,
+                    21.346
+                ]
+            },
+            "properties": {
+                "title": "Punta Custodio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.91697,
+                    32.21327
+                ]
+            },
+            "properties": {
+                "title": "Dunes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.167,
+                    17.9215
+                ]
+            },
+            "properties": {
+                "title": "El Faro (Guerrero)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.105,
+                    25.683
+                ]
+            },
+            "properties": {
+                "title": "San Jorge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.92318,
+                    32.22679
+                ]
+            },
+            "properties": {
+                "title": "Cantamar Settlement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.053,
+                    17.269
+                ]
+            },
+            "properties": {
+                "title": "Puerto Vincante Guerro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.475,
+                    26.2424
+                ]
+            },
+            "properties": {
+                "title": "Scorpion Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.313,
+                    23.535
+                ]
+            },
+            "properties": {
+                "title": "Playa San Pedro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.792,
+                    18.082
+                ]
+            },
+            "properties": {
+                "title": "Rio Nexpa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.895,
+                    22.892
+                ]
+            },
+            "properties": {
+                "title": "Backwash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.883,
+                    23.956
+                ]
+            },
+            "properties": {
+                "title": "Punta Marquez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2745,
+                    16.1078
+                ]
+            },
+            "properties": {
+                "title": "Chivo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.363305611972649,
+                    39.34167968424256
+                ]
+            },
+            "properties": {
+                "title": "Supertubes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.751,
+                    21.124
+                ]
+            },
+            "properties": {
+                "title": "Playa Chac Mool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.469,
+                    23.546
+                ]
+            },
+            "properties": {
+                "title": "Punta Arenas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.962,
+                    18.853
+                ]
+            },
+            "properties": {
+                "title": "Pascuales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.682,
+                    31.869
+                ]
+            },
+            "properties": {
+                "title": "Cannery Stacks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.15,
+                    28.551
+                ]
+            },
+            "properties": {
+                "title": "The Wall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.246,
+                    21.516
+                ]
+            },
+            "properties": {
+                "title": "Las Islitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.884,
+                    23.796
+                ]
+            },
+            "properties": {
+                "title": "Milagro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.818,
+                    30.143
+                ]
+            },
+            "properties": {
+                "title": "Casas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.19,
+                    23.347
+                ]
+            },
+            "properties": {
+                "title": "Pescadero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.68577,
+                    19.19975
+                ]
+            },
+            "properties": {
+                "title": "Barra de Navidad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.90718,
+                    32.17528
+                ]
+            },
+            "properties": {
+                "title": "Halfway House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.49733,
+                    20.76578
+                ]
+            },
+            "properties": {
+                "title": "Palmitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.429,
+                    23.209
+                ]
+            },
+            "properties": {
+                "title": "Los Pinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.391,
+                    28.801
+                ]
+            },
+            "properties": {
+                "title": "Punta Negra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.245,
+                    28.6539
+                ]
+            },
+            "properties": {
+                "title": "Punta Sta Rosalillita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.74,
+                    26.8
+                ]
+            },
+            "properties": {
+                "title": "La Bocana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.8081979700041,
+                    31.80902927937703
+                ]
+            },
+            "properties": {
+                "title": "Todos Santos / Killers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.428,
+                    14.719
+                ]
+            },
+            "properties": {
+                "title": "Puerto Madero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.812,
+                    30.2
+                ]
+            },
+            "properties": {
+                "title": "El Socorro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.092,
+                    32.398
+                ]
+            },
+            "properties": {
+                "title": "Marisol North Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.099,
+                    32.427
+                ]
+            },
+            "properties": {
+                "title": "San Antonio Del Mar - Norte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.905,
+                    20.345
+                ]
+            },
+            "properties": {
+                "title": "Playa Bonita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.632,
+                    31.778
+                ]
+            },
+            "properties": {
+                "title": "Ensenada Beaches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.703,
+                    29.089
+                ]
+            },
+            "properties": {
+                "title": "Punta Blanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.592,
+                    26.278
+                ]
+            },
+            "properties": {
+                "title": "La Laguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.722,
+                    21.223
+                ]
+            },
+            "properties": {
+                "title": "Isla Mujeres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.7147,
+                    23.02358192684975
+                ]
+            },
+            "properties": {
+                "title": "Old Man's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.36347,
+                    20.505694
+                ]
+            },
+            "properties": {
+                "title": "Quimixto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.026,
+                    32.268
+                ]
+            },
+            "properties": {
+                "title": "Popotla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.423,
+                    23.342
+                ]
+            },
+            "properties": {
+                "title": "Frailes South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.869,
+                    22.896
+                ]
+            },
+            "properties": {
+                "title": "Monuments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.454,
+                    23.241
+                ]
+            },
+            "properties": {
+                "title": "Las Flores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.295,
+                    23.089
+                ]
+            },
+            "properties": {
+                "title": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.693,
+                    31.561
+                ]
+            },
+            "properties": {
+                "title": "Boca De Santo Tomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.492,
+                    23.303
+                ]
+            },
+            "properties": {
+                "title": "Playa Bruja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.854,
+                    30.326
+                ]
+            },
+            "properties": {
+                "title": "Playa Santa Maria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.91963,
+                    32.21868
+                ]
+            },
+            "properties": {
+                "title": "Rancho Santini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.55,
+                    15.663
+                ]
+            },
+            "properties": {
+                "title": "San Agustinillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.899,
+                    27.658
+                ]
+            },
+            "properties": {
+                "title": "Bahia Tortugas (Turtle Bay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.53,
+                    15.657
+                ]
+            },
+            "properties": {
+                "title": "Zipolite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.06,
+                    15.846
+                ]
+            },
+            "properties": {
+                "title": "Puerto Escondido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.529,
+                    28.912
+                ]
+            },
+            "properties": {
+                "title": "Punta Maria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.2143952234506,
+                    23.39151658553801
+                ]
+            },
+            "properties": {
+                "title": "Las Palmas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.749,
+                    17.794
+                ]
+            },
+            "properties": {
+                "title": "Troncones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.119,
+                    19.174
+                ]
+            },
+            "properties": {
+                "title": "Marti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.203,
+                    21.437
+                ]
+            },
+            "properties": {
+                "title": "Santa Cruz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.45,
+                    17.539
+                ]
+            },
+            "properties": {
+                "title": "Barra de Potosi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.136,
+                    30.843
+                ]
+            },
+            "properties": {
+                "title": "Punta San Jacinto (Shipwrecks)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.776,
+                    15.876
+                ]
+            },
+            "properties": {
+                "title": "La Jolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.349,
+                    17.977
+                ]
+            },
+            "properties": {
+                "title": "Playa Azul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.314,
+                    26.072
+                ]
+            },
+            "properties": {
+                "title": "Punta San Gregorio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0069,
+                    24.0718
+                ]
+            },
+            "properties": {
+                "title": "Punta Conejo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.117,
+                    23.099
+                ]
+            },
+            "properties": {
+                "title": "Migrino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.038,
+                    32.274
+                ]
+            },
+            "properties": {
+                "title": "Alfonsos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.145,
+                    23.179
+                ]
+            },
+            "properties": {
+                "title": "Punta Gasparino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.585,
+                    28.957
+                ]
+            },
+            "properties": {
+                "title": "Punta Cono"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.448,
+                    23.238
+                ]
+            },
+            "properties": {
+                "title": "El Camaron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.087,
+                    30.813
+                ]
+            },
+            "properties": {
+                "title": "Camalu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.71456,
+                    23.02506324659338
+                ]
+            },
+            "properties": {
+                "title": "The Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.27395,
+                    23.486545
+                ]
+            },
+            "properties": {
+                "title": "La Pastora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.284,
+                    21.526
+                ]
+            },
+            "properties": {
+                "title": "San Blas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.46,
+                    20.749
+                ]
+            },
+            "properties": {
+                "title": "Banderas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.20268,
+                    23.36729303816202
+                ]
+            },
+            "properties": {
+                "title": "San Pedrito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.268,
+                    27.146
+                ]
+            },
+            "properties": {
+                "title": "Asuncion Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.464,
+                    28.9
+                ]
+            },
+            "properties": {
+                "title": "El Cardon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.887,
+                    32.058
+                ]
+            },
+            "properties": {
+                "title": "La Salina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.476,
+                    23.174
+                ]
+            },
+            "properties": {
+                "title": "Nine Palms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.008,
+                    32.264
+                ]
+            },
+            "properties": {
+                "title": "El Morro Point (K37.5)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.629,
+                    23.492
+                ]
+            },
+            "properties": {
+                "title": "Marmols"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.422,
+                    23.417
+                ]
+            },
+            "properties": {
+                "title": "Cabo Pulmo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.116,
+                    30.827
+                ]
+            },
+            "properties": {
+                "title": "Rincon De Baja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.327,
+                    28.165
+                ]
+            },
+            "properties": {
+                "title": "Playa Elefante (Isla Cedros)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049,
+                    32.312
+                ]
+            },
+            "properties": {
+                "title": "Renes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.888,
+                    32.118
+                ]
+            },
+            "properties": {
+                "title": "La Fonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.95,
+                    33.623
+                ]
+            },
+            "properties": {
+                "title": "DONOTPUBLISH-BW USE ONLY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.856,
+                    20.405
+                ]
+            },
+            "properties": {
+                "title": "Punta Morena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.452,
+                    23.484
+                ]
+            },
+            "properties": {
+                "title": "El Rincon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.817,
+                    29.941
+                ]
+            },
+            "properties": {
+                "title": "Punta Baja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.178,
+                    29.42
+                ]
+            },
+            "properties": {
+                "title": "Punta Canoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.6800082320905,
+                    23.04871261564847
+                ]
+            },
+            "properties": {
+                "title": "The Estuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.784,
+                    22.266
+                ]
+            },
+            "properties": {
+                "title": "Escolleras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.445,
+                    23.237
+                ]
+            },
+            "properties": {
+                "title": "Valentinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.812,
+                    23.701
+                ]
+            },
+            "properties": {
+                "title": "Dimas Rivermouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.43,
+                    20.8822
+                ]
+            },
+            "properties": {
+                "title": "Ostiones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.538,
+                    20.76
+                ]
+            },
+            "properties": {
+                "title": "Bahia TW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.436,
+                    20.747
+                ]
+            },
+            "properties": {
+                "title": "Veneros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.018,
+                    32.2668
+                ]
+            },
+            "properties": {
+                "title": "Calafia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.65,
+                    17.1309
+                ]
+            },
+            "properties": {
+                "title": "Playa Boca Chica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.15,
+                    30.855
+                ]
+            },
+            "properties": {
+                "title": "Roberts Left"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.736,
+                    18.683
+                ]
+            },
+            "properties": {
+                "title": "Boca de Apisa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.44,
+                    28.872
+                ]
+            },
+            "properties": {
+                "title": "Punta Ositos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.457,
+                    31.329
+                ]
+            },
+            "properties": {
+                "title": "Punta Cabras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.101,
+                    17.9803
+                ]
+            },
+            "properties": {
+                "title": "Petacalco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.766,
+                    17.172
+                ]
+            },
+            "properties": {
+                "title": "Papanoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.826,
+                    16.789
+                ]
+            },
+            "properties": {
+                "title": "Revolcadero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.847,
+                    23.742
+                ]
+            },
+            "properties": {
+                "title": "Patoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.345,
+                    31.037
+                ]
+            },
+            "properties": {
+                "title": "San Antonio Del Mar - Sur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.767,
+                    23.613
+                ]
+            },
+            "properties": {
+                "title": "Las Labradas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.436,
+                    23.254
+                ]
+            },
+            "properties": {
+                "title": "Boca Del Solado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.454,
+                    20.7505
+                ]
+            },
+            "properties": {
+                "title": "Punta Burros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2465,
+                    16.1355
+                ]
+            },
+            "properties": {
+                "title": "Punta Conejo "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.006,
+                    32.264
+                ]
+            },
+            "properties": {
+                "title": "K-38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.299,
+                    28.691
+                ]
+            },
+            "properties": {
+                "title": "Puerto San Andres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.774,
+                    17.836
+                ]
+            },
+            "properties": {
+                "title": "La Saladita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.832,
+                    18.82
+                ]
+            },
+            "properties": {
+                "title": "Camaronera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.098,
+                    19.105
+                ]
+            },
+            "properties": {
+                "title": "Tampi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.092,
+                    32.388
+                ]
+            },
+            "properties": {
+                "title": "Marisol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.778,
+                    21.061
+                ]
+            },
+            "properties": {
+                "title": "Playa Delphine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.887,
+                    32.036
+                ]
+            },
+            "properties": {
+                "title": "El Paso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.2452466338192,
+                    23.44473573026049
+                ]
+            },
+            "properties": {
+                "title": "Todos Santos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76282,
+                    21.10318
+                ]
+            },
+            "properties": {
+                "title": "Marlyn Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.8886,
+                    32.13267
+                ]
+            },
+            "properties": {
+                "title": "Alisitos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.854,
+                    31.986
+                ]
+            },
+            "properties": {
+                "title": "Mirador Viewpoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.418,
+                    20.9
+                ]
+            },
+            "properties": {
+                "title": "San Pancho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.159,
+                    27.8629
+                ]
+            },
+            "properties": {
+                "title": "Open Doors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0668043482785,
+                    32.3489432986615
+                ]
+            },
+            "properties": {
+                "title": "Rosarito Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.171,
+                    28.572
+                ]
+            },
+            "properties": {
+                "title": "Punta Rosarito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0796,
+                    15.859
+                ]
+            },
+            "properties": {
+                "title": "Carrizalillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.096,
+                    19.104
+                ]
+            },
+            "properties": {
+                "title": "Costalitos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.009,
+                    26.967
+                ]
+            },
+            "properties": {
+                "title": "San Hipolito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.101,
+                    19.162
+                ]
+            },
+            "properties": {
+                "title": "Destapador"
+            }
+        }
+    ]
+}

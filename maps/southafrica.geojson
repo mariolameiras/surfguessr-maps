@@ -1,0 +1,1877 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.224,
+                    -29.534
+                ]
+            },
+            "properties": {
+                "title": "Ballito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.17035,
+                    -31.96770278
+                ]
+            },
+            "properties": {
+                "title": "Coffee Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3587,
+                    -33.7985
+                ]
+            },
+            "properties": {
+                "title": "Robben Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4559,
+                    -33.794
+                ]
+            },
+            "properties": {
+                "title": "Bloubergstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9265,
+                    -33.0078
+                ]
+            },
+            "properties": {
+                "title": "Eastern Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.646,
+                    -33.963
+                ]
+            },
+            "properties": {
+                "title": "Fence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.656,
+                    -33.979
+                ]
+            },
+            "properties": {
+                "title": "Baked Beans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9816,
+                    -34.092
+                ]
+            },
+            "properties": {
+                "title": "Buffels Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.674,
+                    -33.987
+                ]
+            },
+            "properties": {
+                "title": "Pipe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33208056,
+                    -34.12707778
+                ]
+            },
+            "properties": {
+                "title": "Sunset Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.17150278,
+                    -29.59467222
+                ]
+            },
+            "properties": {
+                "title": "Westbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4317,
+                    -34.1595
+                ]
+            },
+            "properties": {
+                "title": "Glencairn Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32679167,
+                    -34.061225
+                ]
+            },
+            "properties": {
+                "title": "Dungeons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.659,
+                    -33.98
+                ]
+            },
+            "properties": {
+                "title": "Shark Rock Pier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0127,
+                    -29.9338
+                ]
+            },
+            "properties": {
+                "title": "Brighton Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3369,
+                    -34.433
+                ]
+            },
+            "properties": {
+                "title": "Jongensfontein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.93413,
+                    -34.03148611
+                ]
+            },
+            "properties": {
+                "title": "Jeffreys Bay (J-Bay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.353,
+                    -29.3719
+                ]
+            },
+            "properties": {
+                "title": "Stanger Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4868,
+                    -33.8812
+                ]
+            },
+            "properties": {
+                "title": "Milnerton Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.2262,
+                    -28.685
+                ]
+            },
+            "properties": {
+                "title": "Mbonambi Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6823,
+                    -33.9958
+                ]
+            },
+            "properties": {
+                "title": "Summerstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.664,
+                    -33.981
+                ]
+            },
+            "properties": {
+                "title": "Millers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.671,
+                    -33.983
+                ]
+            },
+            "properties": {
+                "title": "Avalanche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0571,
+                    -33.1894
+                ]
+            },
+            "properties": {
+                "title": "West Coast National Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4824,
+                    -34.3545
+                ]
+            },
+            "properties": {
+                "title": "Dias Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9106,
+                    -33.62
+                ]
+            },
+            "properties": {
+                "title": "Port Alfred"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.381,
+                    -30.857
+                ]
+            },
+            "properties": {
+                "title": "Margate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6465,
+                    -33.9704
+                ]
+            },
+            "properties": {
+                "title": "King's Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7394,
+                    -34.0754
+                ]
+            },
+            "properties": {
+                "title": "Macassar Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.673,
+                    -33.985
+                ]
+            },
+            "properties": {
+                "title": "Clubhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.04166667,
+                    -29.85251389
+                ]
+            },
+            "properties": {
+                "title": "New Pier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.90847222,
+                    -34.35976111
+                ]
+            },
+            "properties": {
+                "title": "Bettys Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.11142,
+                    -34.15769
+                ]
+            },
+            "properties": {
+                "title": "Ding Dangs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.83816389,
+                    -34.20904722
+                ]
+            },
+            "properties": {
+                "title": "Seal Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.156,
+                    -34.176
+                ]
+            },
+            "properties": {
+                "title": "Mossel Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0391,
+                    -29.8395
+                ]
+            },
+            "properties": {
+                "title": "Durban"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3674,
+                    -34.1962
+                ]
+            },
+            "properties": {
+                "title": "Scarborough"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3568,
+                    -33.5813
+                ]
+            },
+            "properties": {
+                "title": "Silverstroomstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8405,
+                    -34.2266
+                ]
+            },
+            "properties": {
+                "title": "Koe\u00ebl Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33111,
+                    -32.31417778
+                ]
+            },
+            "properties": {
+                "title": "Elands Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.22666389,
+                    -29.52800833
+                ]
+            },
+            "properties": {
+                "title": "Sunrise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.253,
+                    -34.416
+                ]
+            },
+            "properties": {
+                "title": "Hermanus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4724,
+                    -34.3539
+                ]
+            },
+            "properties": {
+                "title": "Maclear Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.04041,
+                    -29.85001667
+                ]
+            },
+            "properties": {
+                "title": "North Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5529,
+                    -31.6293
+                ]
+            },
+            "properties": {
+                "title": "First Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6561,
+                    -32.4615
+                ]
+            },
+            "properties": {
+                "title": "Mazeppa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1824,
+                    -32.7872
+                ]
+            },
+            "properties": {
+                "title": "Bosbokstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.37702,
+                    -33.94969
+                ]
+            },
+            "properties": {
+                "title": "Camps Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0435,
+                    -29.8619
+                ]
+            },
+            "properties": {
+                "title": "Addington Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6694,
+                    -30.4329
+                ]
+            },
+            "properties": {
+                "title": "Bazley Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5703,
+                    -33.7403
+                ]
+            },
+            "properties": {
+                "title": "Boknes Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2381,
+                    -31.033
+                ]
+            },
+            "properties": {
+                "title": "Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.356,
+                    -31.7694
+                ]
+            },
+            "properties": {
+                "title": "Rebhu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7747,
+                    -34.0269
+                ]
+            },
+            "properties": {
+                "title": "Swartvlei Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4883,
+                    -33.8543
+                ]
+            },
+            "properties": {
+                "title": "Sunset Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.495,
+                    -34.102
+                ]
+            },
+            "properties": {
+                "title": "Muizenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8977,
+                    -33.6061
+                ]
+            },
+            "properties": {
+                "title": "West Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.111,
+                    -28.81
+                ]
+            },
+            "properties": {
+                "title": "Richards Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152,
+                    -33.372
+                ]
+            },
+            "properties": {
+                "title": "Yzerfontein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2354,
+                    -29.5078
+                ]
+            },
+            "properties": {
+                "title": "Umhlali Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.95438611,
+                    -32.99735556
+                ]
+            },
+            "properties": {
+                "title": "Nahoon Reef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.871,
+                    -30.085
+                ]
+            },
+            "properties": {
+                "title": "Warner Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4986,
+                    -29.2285
+                ]
+            },
+            "properties": {
+                "title": "Tugela Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.40701,
+                    -30.82075556
+                ]
+            },
+            "properties": {
+                "title": "St Mikes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4202,
+                    -34.3914
+                ]
+            },
+            "properties": {
+                "title": "Skulpiesbaai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.106,
+                    -28.7939
+                ]
+            },
+            "properties": {
+                "title": "Kampstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8402,
+                    -34.1735
+                ]
+            },
+            "properties": {
+                "title": "Cape St. Francis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.04168056,
+                    -29.85409444
+                ]
+            },
+            "properties": {
+                "title": "Wedge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.654,
+                    -33.978
+                ]
+            },
+            "properties": {
+                "title": "Humewood Pier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4894,
+                    -34.1014
+                ]
+            },
+            "properties": {
+                "title": "Sunrise Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35222222,
+                    -34.09497222
+                ]
+            },
+            "properties": {
+                "title": "The Hoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.858,
+                    -34.1656
+                ]
+            },
+            "properties": {
+                "title": "Bikini Beach (Gordon's Bay)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.121,
+                    -29.676
+                ]
+            },
+            "properties": {
+                "title": "Umhloti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1752,
+                    -31.1062
+                ]
+            },
+            "properties": {
+                "title": "Mzamba Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7667,
+                    -34.7667
+                ]
+            },
+            "properties": {
+                "title": "Die Hoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9452,
+                    -30.003
+                ]
+            },
+            "properties": {
+                "title": "Isipingo Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2229,
+                    -29.5354
+                ]
+            },
+            "properties": {
+                "title": "Compensation Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2263,
+                    -31.7542
+                ]
+            },
+            "properties": {
+                "title": "Curlew Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3407,
+                    -34.008
+                ]
+            },
+            "properties": {
+                "title": "Llandudno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.363,
+                    -34.1848
+                ]
+            },
+            "properties": {
+                "title": "Middle Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5837,
+                    -33.998
+                ]
+            },
+            "properties": {
+                "title": "Wilderness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.052,
+                    -29.8893
+                ]
+            },
+            "properties": {
+                "title": "Cave Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4657,
+                    -34.2222
+                ]
+            },
+            "properties": {
+                "title": "Stoney Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.01995,
+                    -29.92498333
+                ]
+            },
+            "properties": {
+                "title": "Ansteys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9155,
+                    -33.0253
+                ]
+            },
+            "properties": {
+                "title": "Orient Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3533,
+                    -34.1009
+                ]
+            },
+            "properties": {
+                "title": "Noordhoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3808,
+                    -33.9201
+                ]
+            },
+            "properties": {
+                "title": "Sunset Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2239,
+                    -29.5321
+                ]
+            },
+            "properties": {
+                "title": "Willard Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4253,
+                    -34.1837
+                ]
+            },
+            "properties": {
+                "title": "Simon's Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.83402,
+                    -34.16290833
+                ]
+            },
+            "properties": {
+                "title": "St Francis Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5519,
+                    -34.01
+                ]
+            },
+            "properties": {
+                "title": "Victoria Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3525,
+                    -34.1116
+                ]
+            },
+            "properties": {
+                "title": "Long Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2829,
+                    -30.9807
+                ]
+            },
+            "properties": {
+                "title": "Palm Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3801,
+                    -34.0553
+                ]
+            },
+            "properties": {
+                "title": "The Wedge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3767,
+                    -33.9467
+                ]
+            },
+            "properties": {
+                "title": "Glen Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.728,
+                    -31.488
+                ]
+            },
+            "properties": {
+                "title": "Mzimpuni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.438,
+                    -34.375
+                ]
+            },
+            "properties": {
+                "title": "Still Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9551,
+                    -32.9976
+                ]
+            },
+            "properties": {
+                "title": "East London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.1012,
+                    -28.7985
+                ]
+            },
+            "properties": {
+                "title": "Alkantstrand Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.181,
+                    -29.5795
+                ]
+            },
+            "properties": {
+                "title": "Tongaat Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2442,
+                    -29.4971
+                ]
+            },
+            "properties": {
+                "title": "Salt Rock Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7612,
+                    -30.279913
+                ]
+            },
+            "properties": {
+                "title": "Scottburgh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3875,
+                    -34.057
+                ]
+            },
+            "properties": {
+                "title": "Plettenberg Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3359,
+                    -30.912
+                ]
+            },
+            "properties": {
+                "title": "Southbroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4512,
+                    -34.0052
+                ]
+            },
+            "properties": {
+                "title": "Keurboomstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0371,
+                    -29.8267
+                ]
+            },
+            "properties": {
+                "title": "Oasis Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.383,
+                    -33.904
+                ]
+            },
+            "properties": {
+                "title": "Cape Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3797,
+                    -34.051
+                ]
+            },
+            "properties": {
+                "title": "Lookout Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1106,
+                    -34.1546
+                ]
+            },
+            "properties": {
+                "title": "Diaz Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4333,
+                    -34.1333
+                ]
+            },
+            "properties": {
+                "title": "Fish Hoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3783,
+                    -33.9217
+                ]
+            },
+            "properties": {
+                "title": "Queens Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.37632,
+                    -33.92135
+                ]
+            },
+            "properties": {
+                "title": "Solly's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4565,
+                    -34.1212
+                ]
+            },
+            "properties": {
+                "title": "Danger Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4333,
+                    -33.7
+                ]
+            },
+            "properties": {
+                "title": "Van Riebeeckstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2712,
+                    -34.0545
+                ]
+            },
+            "properties": {
+                "title": "Bothastrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7742,
+                    -33.1033
+                ]
+            },
+            "properties": {
+                "title": "Goda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1109,
+                    -34.1623
+                ]
+            },
+            "properties": {
+                "title": "Pansy Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3131,
+                    -34.141
+                ]
+            },
+            "properties": {
+                "title": "Kommetjie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5204,
+                    -31.6493
+                ]
+            },
+            "properties": {
+                "title": "Second Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.89519,
+                    -26.84341
+                ]
+            },
+            "properties": {
+                "title": "Ponta de Ouro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5856,
+                    -33.7282
+                ]
+            },
+            "properties": {
+                "title": "Boknesstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.094,
+                    -29.729
+                ]
+            },
+            "properties": {
+                "title": "Flowrider"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0699,
+                    -29.7554
+                ]
+            },
+            "properties": {
+                "title": "La Lucia Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1736,
+                    -34.0796
+                ]
+            },
+            "properties": {
+                "title": "Reebok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1515,
+                    -34.0889
+                ]
+            },
+            "properties": {
+                "title": "Klein Brak Beach Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.4394,
+                    -29.2884
+                ]
+            },
+            "properties": {
+                "title": "Zinkwazi Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5435,
+                    -34.6925
+                ]
+            },
+            "properties": {
+                "title": "Pearly Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.714,
+                    -27.438
+                ]
+            },
+            "properties": {
+                "title": "Sodwana Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3972,
+                    -34.1009
+                ]
+            },
+            "properties": {
+                "title": "Witsand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8819,
+                    -33.0477
+                ]
+            },
+            "properties": {
+                "title": "Potters Pass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34814167,
+                    -34.11648889
+                ]
+            },
+            "properties": {
+                "title": "The Dunes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.009,
+                    -34.348
+                ]
+            },
+            "properties": {
+                "title": "Kleinmond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0372,
+                    -29.8375
+                ]
+            },
+            "properties": {
+                "title": "Battery Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.65,
+                    -33.976
+                ]
+            },
+            "properties": {
+                "title": "Denvils"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6722,
+                    -33.9856
+                ]
+            },
+            "properties": {
+                "title": "Pollok Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5167,
+                    -30.6627
+                ]
+            },
+            "properties": {
+                "title": "Banana Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.454,
+                    -33.7954
+                ]
+            },
+            "properties": {
+                "title": "Big Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.108,
+                    -28.7935
+                ]
+            },
+            "properties": {
+                "title": "Soetwaterstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3019,
+                    -34.0508
+                ]
+            },
+            "properties": {
+                "title": "Glentana Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.439,
+                    -33.719
+                ]
+            },
+            "properties": {
+                "title": "Melkbosstrand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.825,
+                    -34.128
+                ]
+            },
+            "properties": {
+                "title": "Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3784,
+                    -34.5422
+                ]
+            },
+            "properties": {
+                "title": "Walker Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5074,
+                    -31.6574
+                ]
+            },
+            "properties": {
+                "title": "Third Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2926,
+                    -34.4166
+                ]
+            },
+            "properties": {
+                "title": "Grotto Beach"
+            }
+        }
+    ]
+}
